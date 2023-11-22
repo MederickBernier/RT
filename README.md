@@ -100,13 +100,62 @@ Pour ajouter le virtual host dans le dossier apache de wamp c'est un peu plus in
 
 ---
 
-## Github cloning and base setup
+## Github Cloning
 
 Maintenant vu qu'on as installer Git on vas pouvoir cloner le repository dans ton dossier "www" qui est dans ton dossier "Wamp"
 
 * [Lien du repository](https://github.com/MederickBernier/RT)
 * Une fois sur la page, clique sur le bouton vert et copie le lien qui as dans la section Https, on vas en avoir besoin pour la suite.
 * une fois que tu as le lien, tu vas ouvrir une command prompt et cd ton chemin dans ton dossier www de Wamp, je vais te fournir toutes les commandes que tu vas avoir besoin, mais c'est sur que ca va te prendre un compte github si tu en as pas un déja.
+
+### Configurer Git
+
+pour configurer Git, il y as deux commandes qu'on vas utiliser
+
+* ```git config --global user.name "Your Username"```
+* ```git config --global user.email "your.email@example.com"```
+
+une fois que c'est fait nous allons cloner le repository donc avec l'url qu'on as copié plus tôt on vas faire la commande qui suit
+
+* ```git clone https://github.com/MederickBernier/RT.git```
+
+ca va cloner le repository dans notre dossier www et le projet va être dans le dossier RT
+
+### Commandes utiles à avoir pour Git
+
+je vais te donner une liste de commandes utiles à avoir pour faire quoi que ce soit, car git peut être capricieux parfois.
+
+| Commande | Description |
+| ----- | ----- |
+| git init | Initialise un nouveau dépôt dans votre répertoire actuel |
+| git clone [url] | Crée une copie local d'un dépôt distant |
+| git status | Affiche l'état du répertoire de travail et de la zone de préparation |
+| git add [fichier] | Ajoute des fichiers à la zone de préparatyion en vue d'un commit, utiliser 'git add .' pour ajouter tous les changements dans le répertoire actuel |
+| git commit -m "[message du commit]" | Enregistre les modifications préparées avec un message descriptif |
+| git push [remote][branche] | Pousse les modifications enregistrées vers un dépôt distant, 'remote' est généralement 'origin' et branche est la branche que vous souhaitez pousser.  Dans notre cas ca va être "git push -u origin master" |
+| git pull [branche] | Récupère les changements d'un dépôt distant et les fusionne dans votre branche actuelle |
+| git branch | liste toutes les branches locales.  Utilisez 'git branch [nouvelle-branche]' pour créer une nouvelle branche.  Utilisez 'git branch -d [branche]' pour supprimer une branche |
+| git checkout [branche] | Bascule sur une branche spécifiée.  Utilisez 'git checkout -b [nouvelle-branche]' pour créer une nouvelle branche et y basculer |
+| git merge [branche] | Fusionne la branche spécifiée dans la branche actuelle |
+| git diff | Montre les différences entre le répertoire de travail et l'index.  Utilisez 'git diff [branche1] [branche2]' pour comparer différentes branches |
+| git log | Affiche l'historique des commits |
+| git reset [fichier] | Retire un fichier de la zone de préparation.  Utilisez 'git reset --hard [commit]' pour revenir à un commit spécifique, en abandonnant tous les changements depuis |
+| git stash | Met temporairement de coté les modifications apportées à votre copie de travail afin de pouvoir travailler sur autre chose,  puis revenir les réappliquer plus tard. |
+| git remote -v | Liste toutes les connections distantes avec d'autres dépôts |
+| git fetch [remote] | Télécharge les changement du dépôt distant, mais ne les fusionne pas dans votre branche locale |
+
+J'en ai mis plus que nécessaire, mais celles qu'on vas le plus utiliser vont être.
+
+* git add
+* git commit
+* git push
+* git pull
+
+les autres sont surtout là à titre de référence si quelque chose arrive.
+
+---
+
+## Base Setup
 
 ---
 
