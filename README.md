@@ -1,66 +1,115 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Documentation for the Project RT
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+---
 
-## About Laravel
+i will provide you with all the documentation starting with server configuration, plugins and everything required like versions and others.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Downloads
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+* [Wamp Server](https://wampserver.aviatechno.net/)
+* [Git](https://git-scm.com/downloads)
+* [Composer](https://getcomposer.org/download/)
+* [Node](https://nodejs.org/en)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## Installation des applications
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+ici tu peux installer tes différentes applications, commence toujours par Wamp vu que tu vas avoir besoin de son installation de php pour installer composer.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Donc une ordre d'installation pourrais être
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+* Wamp
+* Composer
+* Git
+* Node
+* Vs Code
 
-## Laravel Sponsors
+J'ai fait cette liste en prenant en compte que tu avais aucun des logiciels nécessaires donc juste à être sur que tu les as.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+pour vérifier les versions voici les commandes
 
-### Premium Partners
+|Application|Commande|
+|-----|-----|
+| Node | ``` node --version ``` |
+| Npm | ``` npm --version ``` |
+| Composer | ``` composer --version ``` |
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+Donc normalement tu vas vouloir avoir les versions
 
-## Contributing
+|Application|Version|
+| ----- | ----- |
+| Node | 20.10.0 |
+| Npm | 10.2.3 |
+| Composer | 2.6.5 |
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Dans le cas de Wamp je vais te fournir les versions que j'utilise localement
 
-## Code of Conduct
+| Server App | Version |
+| ----- | ----- |
+| Apache | 2.4.54 |
+| PHP | 8.2.11 |
+| MariaDB | 10 |
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Configurations Serveur
 
-## Security Vulnerabilities
+___DURANT CETTE PROCÉDURE SOIT SUR QUE TON SERVEUR NE ROULE PAS, ÇA ÉVITE DES ERREURS___
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Ajouter le host au host file de windows
 
-## License
+Pour ajouter le virtual host (qu'on vas créer ensuite au host file de windows).
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+* Ouvrir Notepad en Administrateur
+* Naviguer pour ouvrir le fichier "hosts" à cette localisation : C:\Windows\System32\drivers\etc
+* Si tu ne vois pas le fichier soit sur que tu ne cherche pas uniquement les fichiers texte, car c'est un fichier sans extension
+* Une fois le fichier ouvert tu vas à la fin du ficher et tu vas ajouter la ligne suivante
+* 127.0.0.1 RT.local
+* Faire cela va dire au DNS de windows que cet URL (<http://RT.local>) va aller sur le localhost loop
+* Une fois que c'est sauvegardé, on peut fermer notepad on as terminé avec.
+
+### Ajouter un Virtual Host avec Wamp
+
+Pour ajouter le virtual host dans le dossier apache de wamp c'est un peu plus involved mais quand même straight forward.
+
+* Pour commencer tu vas aller au dossier root de ton Wamp
+* Ouvre le dossier "bin"
+* Ouvre le dossier "Apache"
+* Ouvre le dossier correspondant à la version d'apache que tu peux utiliser, on essayeras d'avoir les même versions si possible
+* Dans ce dossier, il y as plusieurs dossier, mais le seul qui nous intéresse pour l'instant c'est "conf" donc on ouvre celui là
+* Dans le dossier conf, il y as un autre dossier appelé "extra", c'est lui qu'on ouvre ensuite (je sais ca commence à faire des dossier, nested structure sorry)
+* Finalement dans ce dossier on ouvre avec VSCode ou autre Éditeur le fichier appelé "httpd-vhost.conf"
+* Dans ce ficher, il devrais avoir un exemple de code qu'il faut dupliquer et modifier, je vais te donner celui qu'on vas utiliser, tu auras juste à le rajouter à la fin du fichier
+* Pour la commande "Directory" dans le code qui suit j'ai mis mon chemin, mais pour toi ca peut être différent en fonction de où tu as installé Wamp donc je dirais que pour faire simple c'est le chemin absolu du dossier "www" dans ton dossier "Wamp"
+
+#### Code à ajouter à la fin du httpd-vhost.conf
+
+```
+<VirtualHost *:80>
+    DocumentRoot "C:/wamp/www/RT/public/"
+    ServerName RT.local
+    <Directory "C:/wamp/www/RT/public/">
+        Options Indexes FollowSymLinks MultiViews
+        AllowOverride All
+        Require all granted
+    </Directory>
+</VirtualHost>
+```
+
+* Une fois que tout est mis dans le host et dans le virtual host, tu peux starter ton serveur Wamp.
+
+---
+
+## Github cloning and base setup
+
+Maintenant vu qu'on as installer Git on vas pouvoir cloner le repository dans ton dossier "www" qui est dans ton dossier "Wamp"
+
+* [Lien du repository](https://github.com/MederickBernier/RT)
+* Une fois sur la page, clique sur le bouton vert et copie le lien qui as dans la section Https, on vas en avoir besoin pour la suite.
+* une fois que tu as le lien, tu vas ouvrir une command prompt et cd ton chemin dans ton dossier www de Wamp, je vais te fournir toutes les commandes que tu vas avoir besoin, mais c'est sur que ca va te prendre un compte github si tu en as pas un déja.
+
+---
+
+## Database Implementation
+
+---
