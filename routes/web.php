@@ -1,7 +1,8 @@
 <?php
 
+use App\Http\Middleware\CheckRole;
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\RaidManagementController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -16,3 +17,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/raid-management', [RaidManagementController::class, 'index'])->middleware(['auth','CheckRole:Raid Leader']);;
