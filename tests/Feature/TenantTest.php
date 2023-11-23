@@ -21,6 +21,7 @@ class TenantTest extends TestCase
     public function it_can_create_a_tenant(){
         $tenant = Tenant::create([
             'tenant_name' => 'Test Tenant',
+            'slug' => 'test-tenant'
         ]);
         $this->assertDatabaseHas('tenants',['tenant_name' => 'Test Tenant']);
     }
