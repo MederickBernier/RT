@@ -85,6 +85,7 @@ Pour ajouter le virtual host dans le dossier apache de wamp c'est un peu plus in
 #### Code à ajouter à la fin du httpd-vhost.conf
 
 ```
+
 <VirtualHost *:80>
     DocumentRoot "C:/wamp/www/RT/public/"
     ServerName RT.local
@@ -94,6 +95,7 @@ Pour ajouter le virtual host dans le dossier apache de wamp c'est un peu plus in
         Require all granted
     </Directory>
 </VirtualHost>
+
 ```
 
 * Une fois que tout est mis dans le host et dans le virtual host, tu peux starter ton serveur Wamp.
@@ -156,6 +158,38 @@ les autres sont surtout là à titre de référence si quelque chose arrive.
 ---
 
 ## Base Setup
+
+Pour le base setup on vas utiliser composer et npm afin de pouvoir compiler tout ce qui est nécessaire.
+
+Car on vas devoir avoir le vite compiler (compiler pour js et css), je vais te fournir les commandes à runner, tu vas devoir les run dans un terminal ou command line.
+
+### ___Toutes les commandes qu'on vas utiliser ici doivent être fait dans le dossier "RT" directement___
+
+### Vite Command
+
+```npm run dev```
+
+ Ça start le compiler donc cette window la va être inutilisable,  car il doit runner en permanence donc ca va te prendre une autre window pour pouvoir faire les commandes de ___php artisan___
+
+### PHP Artisan Commands
+
+| Command | Description |
+| ----- | ----- |
+| php artisan serve | Démarre le serveur de développement Laravel |
+| php artisan make:model | Crée un nouveau model Eloquent |
+| php artisan make:controller | Crée une nouvelle classe de controller |
+| php artisan make:migration | Crée une nouvelle migration de table de base de données |
+| php artisan migrate | Exécute les migrations de base de données |
+| php artisan db:seed | Remplit la base de données avec des enregistrements |
+| php artisan tinker | Permet d'interagir avec toute votre application Laravel depuis la ligne de commande |
+| php artisan make:request | Crée une nouvelle classe de formulaire |
+| php artisan config:cache | Crée un fichier de cache pour un chargement plus rapide de la configuration |
+| php artisan cache:clear | Efface le cache de l'application |
+| php artisan config:clear | Supprime le fichier de cache de configuration |
+| php artisan route:clear | Efface le cache des routes |
+| php artisan view:clear | Efface tous les ficheirs de vue compilés |
+| php artisan event:clear | Efface les mappages d'événements et d'écouteurs en cache |
+| php artisan optimize:clear | Supprime les fichiers de cache de démarrage. |
 
 ---
 
