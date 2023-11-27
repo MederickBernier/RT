@@ -1,0 +1,10 @@
+:root {
+    --color-dark-gray: rgb(26, 36, 45);
+    --color-light-gray: rgb(52, 73, 88);
+    --color-med-gray: rgb(32, 54, 54);
+    --color-separator: #ddd;
+    --color-hover-bg: #eaeaea;
+    --color-icon-bg: #ccc;
+    --color-text: #333;
+    --color-text-white:#fff;
+}

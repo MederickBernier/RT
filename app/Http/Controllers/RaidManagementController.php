@@ -6,7 +6,10 @@ use Illuminate\Http\Request;
 
 class RaidManagementController extends Controller
 {
-    public function index(){
+    /* public function index(){
         return response()->json(['message' => 'Raid Management Page']);
+    } */
+    public function index(){
+        return view('raid-management.index');
     }
 }

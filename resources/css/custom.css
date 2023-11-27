@@ -1,0 +1,171 @@
+@import 'variables.css';
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: var(--color-dark-gray);
+    color: var(--color-text-white);
+}
+
+header, footer {
+    background-color: var(--color-light-gray);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+header {
+    padding: 0.5rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.header-container h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+    flex-grow: 1;
+    padding:5px;
+}
+
+#sidebar {
+    background-color: var(--color-dark-gray);
+    width: 250px;
+    min-height: calc(100vh - 15rem);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 2px solid black;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    transition: width 0.3s;
+    color: var(--color-text-white);
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.5);
+}
+
+.sidebar-nav {
+
+}
+
+.sidebar-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    color: var(--color-text-white);
+    transition: background-color 0.3s;
+}
+
+.sidebar-link:hover {
+    background-color: var(--color-hover-bg);
+}
+
+.icon {
+    margin-right: 10px;
+    width: 24px;
+    height: 24px;
+}
+
+main {
+    flex-grow: 1;
+    padding: 1rem;
+}
+
+.sidebar-separator {
+    border: none;
+    height: 1px;
+    background-color: var(--color-separator);
+    margin: 1rem 0;
+}
+
+.raiders-roster {
+    margin-top: 1rem;
+}
+
+.raider-list {
+    list-style: none;
+    padding: 0;
+}
+
+.raider-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 0;
+    color: var(--color-text-white);
+}
+
+.icon-placeholder {
+    margin-right: 0.5rem;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-color: var(--color-icon-bg);
+    text-align: center;
+    line-height: 24px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 75% 25%; /* Columns sizes */
+    grid-template-rows: repeat(4, auto); /* Four rows of automatic height */
+    grid-gap: 1rem;
+}
+
+/* Fused row style */
+.fused-row {
+    grid-column: 1; /* Occupies the first column */
+    grid-row: 1 / span 2; /* Spans two rows */
+    background-color: white;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+}
+
+/* Split row style */
+.split-row {
+    grid-column: 1; /* Occupies the first column */
+    grid-row: 3;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two sub-columns */
+    grid-column-gap: 1.5rem;
+}
+
+/* Card style */
+.card {
+    background-color: white;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+    margin-bottom: 1rem; /* Space between cards */
+    color:black;
+}
+
+/* Sub-columns in split row */
+.sub-column {
+    /* Add any additional styling for sub-columns here */
+}
+
+/* Styles for the second column (40%) */
+.second-column {
+    grid-column: 2; /* Occupies the second column */
+    /* Add any additional styling for the second column here */
+}
