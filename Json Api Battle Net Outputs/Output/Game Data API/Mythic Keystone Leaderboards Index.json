@@ -1,0 +1,65 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/?namespace=dynamic-us"
+    }
+  },
+  "current_leaderboards": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/168/period/936?namespace=dynamic-us"
+      },
+      "name": "The Everbloom",
+      "id": 168
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/198/period/936?namespace=dynamic-us"
+      },
+      "name": "Darkheart Thicket",
+      "id": 198
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/199/period/936?namespace=dynamic-us"
+      },
+      "name": "Black Rook Hold",
+      "id": 199
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/248/period/936?namespace=dynamic-us"
+      },
+      "name": "Waycrest Manor",
+      "id": 248
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/244/period/936?namespace=dynamic-us"
+      },
+      "name": "Atal'Dazar",
+      "id": 244
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/463/period/936?namespace=dynamic-us"
+      },
+      "name": "Dawn of the Infinite: Galakrond's Fall",
+      "id": 463
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/464/period/936?namespace=dynamic-us"
+      },
+      "name": "Dawn of the Infinite: Murozond's Rise",
+      "id": 464
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61/mythic-leaderboard/456/period/936?namespace=dynamic-us"
+      },
+      "name": "Throne of the Tides",
+      "id": 456
+    }
+  ]
+}

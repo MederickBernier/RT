@@ -1,0 +1,2358 @@
+{
+  "page": 1,
+  "pageSize": 100,
+  "maxPageSize": 100,
+  "pageCount": 2,
+  "results": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/17?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Parola del Potere: Scudo",
+          "ru_RU": "Слово силы: Щит",
+          "en_GB": "Power Word: Shield",
+          "zh_TW": "真言術：盾",
+          "ko_KR": "신의 권능: 보호막",
+          "en_US": "Power Word: Shield",
+          "es_MX": "Palabra de poder: escudo",
+          "pt_BR": "Palavra de Poder: Escudo",
+          "es_ES": "Palabra de poder: escudo",
+          "zh_CN": "真言术：盾",
+          "fr_FR": "Mot de pouvoir : Bouclier",
+          "de_DE": "Machtwort: Schild"
+        },
+        "id": 17,
+        "media": {
+          "id": 17
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/642?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo Divino",
+          "ru_RU": "Божественный щит",
+          "en_GB": "Divine Shield",
+          "zh_TW": "聖盾術",
+          "ko_KR": "천상의 보호막",
+          "en_US": "Divine Shield",
+          "es_MX": "Escudo divino",
+          "pt_BR": "Escudo Divino",
+          "es_ES": "Escudo divino",
+          "zh_CN": "圣盾术",
+          "fr_FR": "Bouclier divin",
+          "de_DE": "Gottesschild"
+        },
+        "id": 642,
+        "media": {
+          "id": 642
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/871?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Muro di Scudi",
+          "ru_RU": "Глухая оборона",
+          "en_GB": "Shield Wall",
+          "zh_TW": "盾牆",
+          "ko_KR": "방패의 벽",
+          "en_US": "Shield Wall",
+          "es_MX": "Muro de escudo",
+          "pt_BR": "Muralha de Escudos",
+          "es_ES": "Muro de escudo",
+          "zh_CN": "盾墙",
+          "fr_FR": "Mur protecteur",
+          "de_DE": "Schildwall"
+        },
+        "id": 871,
+        "media": {
+          "id": 871
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/974?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo di Terra",
+          "ru_RU": "Щит земли",
+          "en_GB": "Earth Shield",
+          "zh_TW": "大地之盾",
+          "ko_KR": "대지의 보호막",
+          "en_US": "Earth Shield",
+          "es_MX": "Escudo de tierra",
+          "pt_BR": "Escudo da Terra",
+          "es_ES": "Escudo de tierra",
+          "zh_CN": "大地之盾",
+          "fr_FR": "Bouclier de terre",
+          "de_DE": "Erdschild"
+        },
+        "id": 974,
+        "media": {
+          "id": 974
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/2050?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Parola Sacra: Serenità",
+          "ru_RU": "Слово Света: Безмятежность",
+          "en_GB": "Holy Word: Serenity",
+          "zh_TW": "聖言術：寧",
+          "ko_KR": "빛의 권능: 평온",
+          "en_US": "Holy Word: Serenity",
+          "es_MX": "Palabra Sagrada: Serenidad",
+          "pt_BR": "Palavra Sagrada: Serenidade",
+          "es_ES": "Palabra sagrada: serenidad",
+          "zh_CN": "圣言术：静",
+          "fr_FR": "Mot sacré : Sérénité",
+          "de_DE": "Segenswort: Epiphanie"
+        },
+        "id": 2050,
+        "media": {
+          "id": 2050
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/2565?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo Saldo",
+          "ru_RU": "Блок щитом",
+          "en_GB": "Shield Block",
+          "zh_TW": "盾牌格擋",
+          "ko_KR": "방패 올리기",
+          "en_US": "Shield Block",
+          "es_MX": "Bloquear con escudo",
+          "pt_BR": "Levantar Escudo",
+          "es_ES": "Bloquear con escudo",
+          "zh_CN": "盾牌格挡",
+          "fr_FR": "Maîtrise du blocage",
+          "de_DE": "Schildblock"
+        },
+        "id": 2565,
+        "media": {
+          "id": 2565
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/14914?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Fuoco Sacro",
+          "ru_RU": "Священный огонь",
+          "en_GB": "Holy Fire",
+          "zh_TW": "神聖之火",
+          "ko_KR": "신성한 불꽃",
+          "en_US": "Holy Fire",
+          "es_MX": "Fuego Sagrado",
+          "pt_BR": "Fogo Sagrado",
+          "es_ES": "Fuego Sagrado",
+          "zh_CN": "神圣之火",
+          "fr_FR": "Flammes sacrées",
+          "de_DE": "Heiliges Feuer"
+        },
+        "id": 14914,
+        "media": {
+          "id": 14914
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/20473?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Folgore Sacra",
+          "ru_RU": "Шок небес",
+          "en_GB": "Holy Shock",
+          "zh_TW": "神聖震擊",
+          "ko_KR": "신성 충격",
+          "en_US": "Holy Shock",
+          "es_MX": "Choque Sagrado",
+          "pt_BR": "Choque Sagrado",
+          "es_ES": "Choque Sagrado",
+          "zh_CN": "神圣震击",
+          "fr_FR": "Horion sacré",
+          "de_DE": "Heiliger Schock"
+        },
+        "id": 20473,
+        "media": {
+          "id": 20473
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/21092?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Increased Critical Holy",
+          "ru_RU": "Увеличение рейтинга критического удара заклинаний",
+          "en_GB": "Increased Critical Holy",
+          "zh_TW": "提高致命一擊神聖",
+          "ko_KR": "신성 극대화 증가",
+          "en_US": "Increased Critical Holy",
+          "es_MX": "Golpe crítico Sagrado aumentado",
+          "pt_BR": "Crítico Sagrado Aumentado",
+          "es_ES": "Golpe crítico Sagrado aumentado",
+          "zh_CN": "Increased Critical Holy",
+          "fr_FR": "Critiques du Sacré augmentés",
+          "de_DE": "Kritisch Heilig erhöht"
+        },
+        "id": 21092,
+        "media": {
+          "id": 21092
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/23551?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo di Fulmini",
+          "ru_RU": "Щит молний",
+          "en_GB": "Lightning Shield",
+          "zh_TW": "閃電之盾",
+          "ko_KR": "번개 보호막",
+          "en_US": "Lightning Shield",
+          "es_MX": "Escudo de relámpagos",
+          "pt_BR": "Escudo de Raios",
+          "es_ES": "Escudo de relámpagos",
+          "zh_CN": "闪电之盾",
+          "fr_FR": "Bouclier de foudre",
+          "de_DE": "Blitzschlagschild"
+        },
+        "id": 23551,
+        "media": {
+          "id": 23551
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/23922?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Colpo di Scudo",
+          "ru_RU": "Мощный удар щитом",
+          "en_GB": "Shield Slam",
+          "zh_TW": "盾牌猛擊",
+          "ko_KR": "방패 밀쳐내기",
+          "en_US": "Shield Slam",
+          "es_MX": "Embate con escudo",
+          "pt_BR": "Escudada",
+          "es_ES": "Embate con escudo",
+          "zh_CN": "盾牌猛击",
+          "fr_FR": "Heurt de bouclier",
+          "de_DE": "Schildschlag"
+        },
+        "id": 23922,
+        "media": {
+          "id": 23922
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/24457?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Luce Sacra Migliorata",
+          "ru_RU": "Благодатный Свет небес",
+          "en_GB": "Improved Holy Light",
+          "zh_TW": "強化聖光術",
+          "ko_KR": "성스러운 빛 연마",
+          "en_US": "Improved Holy Light",
+          "es_MX": "Luz Sagrada mejorada",
+          "pt_BR": "Luz Sagrada Aprimorada",
+          "es_ES": "Luz Sagrada mejorada",
+          "zh_CN": "强化圣光术",
+          "fr_FR": "Lumière sacrée améliorée",
+          "de_DE": "Verbessertes heiliges Licht"
+        },
+        "id": 24457,
+        "media": {
+          "id": 24457
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/24482?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Punizione e Fuoco Sacro Migliorati",
+          "ru_RU": "Улучшенные кара и священный огонь",
+          "en_GB": "Improved Smite and Holy Fire",
+          "zh_TW": "強化懲擊/神聖之火",
+          "ko_KR": "성스러운 일격 및 신성한 불꽃 연마",
+          "en_US": "Improved Smite and Holy Fire",
+          "es_MX": "Punición y Fuego Sagrado mejorados",
+          "pt_BR": "Punição e Fogo Sagrado Aprimorados",
+          "es_ES": "Punición y Fuego Sagrado mejorados",
+          "zh_CN": "强化惩击/神圣之火",
+          "fr_FR": "Châtiment et Flammes sacrées améliorés",
+          "de_DE": "Verbesserte heilige Pein und heiliges Feuer"
+        },
+        "id": 24482,
+        "media": {
+          "id": 24482
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/25912?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Folgore Sacra",
+          "ru_RU": "Шок небес",
+          "en_GB": "Holy Shock",
+          "zh_TW": "神聖震擊",
+          "ko_KR": "신성 충격",
+          "en_US": "Holy Shock",
+          "es_MX": "Choque Sagrado",
+          "pt_BR": "Choque Sagrado",
+          "es_ES": "Choque Sagrado",
+          "zh_CN": "神圣震击",
+          "fr_FR": "Horion sacré",
+          "de_DE": "Heiliger Schock"
+        },
+        "id": 25912,
+        "media": {
+          "id": 25912
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/25914?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Folgore Sacra",
+          "ru_RU": "Шок небес",
+          "en_GB": "Holy Shock",
+          "zh_TW": "神聖震擊",
+          "ko_KR": "신성 충격",
+          "en_US": "Holy Shock",
+          "es_MX": "Choque Sagrado",
+          "pt_BR": "Choque Sagrado",
+          "es_ES": "Choque Sagrado",
+          "zh_CN": "神圣震击",
+          "fr_FR": "Horion sacré",
+          "de_DE": "Heiliger Schock"
+        },
+        "id": 25914,
+        "media": {
+          "id": 25914
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/28789?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Potere Sacro",
+          "ru_RU": "Энергия Света",
+          "en_GB": "Holy Power",
+          "zh_TW": "聖能",
+          "ko_KR": "신성한 힘",
+          "en_US": "Holy Power",
+          "es_MX": "Poder Sagrado",
+          "pt_BR": "Poder Sagrado",
+          "es_ES": "Poder Sagrado",
+          "zh_CN": "神圣能量",
+          "fr_FR": "Puissance sacrée",
+          "de_DE": "Heilige Kraft"
+        },
+        "id": 28789,
+        "media": {
+          "id": 28789
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/28821?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo di Fulmini",
+          "ru_RU": "Щит молний",
+          "en_GB": "Lightning Shield",
+          "zh_TW": "閃電之盾",
+          "ko_KR": "번개 보호막",
+          "en_US": "Lightning Shield",
+          "es_MX": "Escudo de relámpagos",
+          "pt_BR": "Escudo de Raios",
+          "es_ES": "Escudo de relámpagos",
+          "zh_CN": "闪电之盾",
+          "fr_FR": "Bouclier de foudre",
+          "de_DE": "Blitzschlagschild"
+        },
+        "id": 28821,
+        "media": {
+          "id": 28821
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/31935?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo del Vendicatore",
+          "ru_RU": "Щит мстителя",
+          "en_GB": "Avenger's Shield",
+          "zh_TW": "復仇之盾",
+          "ko_KR": "응징의 방패",
+          "en_US": "Avenger's Shield",
+          "es_MX": "Escudo de vengador",
+          "pt_BR": "Escudo do Vingador",
+          "es_ES": "Escudo de vengador",
+          "zh_CN": "复仇者之盾",
+          "fr_FR": "Bouclier du vengeur",
+          "de_DE": "Schild des Rächers"
+        },
+        "id": 31935,
+        "media": {
+          "id": 31935
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/33333?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scintilla Sacra",
+          "ru_RU": "Священная искра",
+          "en_GB": "Holy Spark",
+          "zh_TW": "神聖火花",
+          "ko_KR": "신성한 불똥",
+          "en_US": "Holy Spark",
+          "es_MX": "Chispa Sagrada",
+          "pt_BR": "Faísca Sagrada",
+          "es_ES": "Chispa Sagrada",
+          "zh_CN": "神圣火花",
+          "fr_FR": "Etincelle sacrée",
+          "de_DE": "Heiliger Funke"
+        },
+        "id": 33333,
+        "media": {
+          "id": 33333
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/34861?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Parola Sacra: Santificazione",
+          "ru_RU": "Слово Света: Освящение",
+          "en_GB": "Holy Word: Sanctify",
+          "zh_TW": "聖言術：庇",
+          "ko_KR": "빛의 권능: 신성화",
+          "en_US": "Holy Word: Sanctify",
+          "es_MX": "Palabra Sagrada: Santificar",
+          "pt_BR": "Palavra Sagrada: Santificar",
+          "es_ES": "Palabra sagrada: santificar",
+          "zh_CN": "圣言术：灵",
+          "fr_FR": "Mot sacré : Sanctification",
+          "de_DE": "Segenswort: Heiligung"
+        },
+        "id": 34861,
+        "media": {
+          "id": 34861
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/37185?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo del Virtuoso Aumentato",
+          "ru_RU": "Усиленный щит праведника",
+          "en_GB": "Increased Shield of the Righteous",
+          "zh_TW": "提高公正之盾",
+          "ko_KR": "정의의 방패 연마",
+          "en_US": "Increased Shield of the Righteous",
+          "es_MX": "Escudo del honrado aumentado",
+          "pt_BR": "Escudo do Íntegro Aumentado",
+          "es_ES": "Escudo del honrado aumentado",
+          "zh_CN": "强化正义盾击",
+          "fr_FR": "Bouclier du vertueux augmenté",
+          "de_DE": "Erhöhter Schild der Rechtschaffenen"
+        },
+        "id": 37185,
+        "media": {
+          "id": 37185
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/37189?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Luce Sacra Rapida",
+          "ru_RU": "Снижение времени наложения заклинания \"Свет небес\"",
+          "en_GB": "Recuced Holy Light Cast Time",
+          "zh_TW": "降低聖光術施法時間",
+          "ko_KR": "성스러운 빛 연마",
+          "en_US": "Recuced Holy Light Cast Time",
+          "es_MX": "Tiempo de lanzamiento de Luz Sagrada reducido",
+          "pt_BR": "Tempo de Lançamento de Luz Sagrada Reduzido",
+          "es_ES": "Tiempo de lanzamiento de Luz Sagrada reducido",
+          "zh_CN": "Recuced Holy Light Cast Time",
+          "fr_FR": "Temps d'incantation de Lumière sacrée réduit",
+          "de_DE": "Verringerte Zauberzeit für 'Heiliges Licht'"
+        },
+        "id": 37189,
+        "media": {
+          "id": 37189
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/37191?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Blocco di Scudo Benedetto",
+          "ru_RU": "Показатель блокирования Щита небес",
+          "en_GB": "Holy Shield Block Value",
+          "zh_TW": "神聖之盾格擋值",
+          "ko_KR": "신성한 방패 - 방패 막기",
+          "en_US": "Holy Shield Block Value",
+          "es_MX": "Valor de bloqueo de Escudo Sagrado",
+          "pt_BR": "Valor de Bloqueio do Escudo Sagrado",
+          "es_ES": "Valor de bloqueo de Escudo Sagrado",
+          "zh_CN": "Holy Shield Block Value",
+          "fr_FR": "Valeur de blocage de Bouclier sacré",
+          "de_DE": "Heiliger Schildblockwert"
+        },
+        "id": 37191,
+        "media": {
+          "id": 37191
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/37209?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo d'Acqua Migliorato",
+          "ru_RU": "Улучшенный водный щит",
+          "en_GB": "Improved Water Shield",
+          "zh_TW": "強化水之盾",
+          "ko_KR": "물의 보호막 연마",
+          "en_US": "Improved Water Shield",
+          "es_MX": "Escudo de agua mejorado",
+          "pt_BR": "Escudo de Água Aprimorado",
+          "es_ES": "Escudo de agua mejorado",
+          "zh_CN": "强化水之护盾",
+          "fr_FR": "Bouclier d'eau amélioré",
+          "de_DE": "Verbesserter Wasserschild"
+        },
+        "id": 37209,
+        "media": {
+          "id": 37209
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/37522?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Schivata dello Scudo Saldo",
+          "ru_RU": "Вероятность блокирования блока щитом",
+          "en_GB": "Shield Block Block Value",
+          "zh_TW": "提高盾牌格擋值",
+          "ko_KR": "방패 올리기 방패 막기 향상",
+          "en_US": "Shield Block Block Value",
+          "es_MX": "Valor de bloqueo de Bloquear con escudo",
+          "pt_BR": "Valor de Bloqueio de Levantar Escudo",
+          "es_ES": "Valor de bloqueo de Bloquear con escudo",
+          "zh_CN": "Shield Block Block Value",
+          "fr_FR": "Valeur de blocage de Maîtrise du blocage",
+          "de_DE": "Blockwert für 'Schildblock'"
+        },
+        "id": 37522,
+        "media": {
+          "id": 37522
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/38407?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Colpo di Scudo Migliorato",
+          "ru_RU": "Умелый мощный удар щитом",
+          "en_GB": "Improved Shield Slam",
+          "zh_TW": "強化盾牌猛擊",
+          "ko_KR": "방패 밀쳐내기 연마",
+          "en_US": "Improved Shield Slam",
+          "es_MX": "Embate con escudo mejorado",
+          "pt_BR": "Escudada Aprimorada",
+          "es_ES": "Embate con escudo mejorado",
+          "zh_CN": "强化盾牌猛击",
+          "fr_FR": "Heurt de bouclier amélioré",
+          "de_DE": "Verbesserter Schildschlag"
+        },
+        "id": 38407,
+        "media": {
+          "id": 38407
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/38426?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Critico di Luce Sacra Aumentato",
+          "ru_RU": "Свет небес - критическое попадание",
+          "en_GB": "Holy Light Crit",
+          "zh_TW": "聖光術致命一擊",
+          "ko_KR": "성스러운 빛 연마",
+          "en_US": "Holy Light Crit",
+          "es_MX": "Crítico de Luz Sagrada",
+          "pt_BR": "Crítico de Luz Sagrada",
+          "es_ES": "Crítico de Luz Sagrada",
+          "zh_CN": "Holy Light Crit",
+          "fr_FR": "Critiques de Lumière sacrée",
+          "de_DE": "Erhöhte kritische Trefferchance für 'Heiliges Licht'"
+        },
+        "id": 38426,
+        "media": {
+          "id": 38426
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/46851?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Bonus di Folgore Sacra",
+          "ru_RU": "Усиление священного шока",
+          "en_GB": "Holy Shock Bonus",
+          "zh_TW": "神聖震擊加成",
+          "ko_KR": "신성 충격 보너스",
+          "en_US": "Holy Shock Bonus",
+          "es_MX": "Bonus de Choque Sagrado",
+          "pt_BR": "Bônus de Choque Sagrado",
+          "es_ES": "Bonus de Choque Sagrado",
+          "zh_CN": "Holy Shock Bonus",
+          "fr_FR": "Bonus de Horion sacré",
+          "de_DE": "Bonus für 'Heiliger Schock'"
+        },
+        "id": 46851,
+        "media": {
+          "id": 46851
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/52127?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo d'Acqua",
+          "ru_RU": "Водный щит",
+          "en_GB": "Water Shield",
+          "zh_TW": "水之盾",
+          "ko_KR": "물의 보호막",
+          "en_US": "Water Shield",
+          "es_MX": "Escudo de agua",
+          "pt_BR": "Escudo de Água",
+          "es_ES": "Escudo de agua",
+          "zh_CN": "水之护盾",
+          "fr_FR": "Bouclier d’eau",
+          "de_DE": "Wasserschild"
+        },
+        "id": 52127,
+        "media": {
+          "id": 52127
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/53600?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo del Virtuoso",
+          "ru_RU": "Щит праведника",
+          "en_GB": "Shield of the Righteous",
+          "zh_TW": "公正之盾",
+          "ko_KR": "정의의 방패",
+          "en_US": "Shield of the Righteous",
+          "es_MX": "Escudo del honrado",
+          "pt_BR": "Escudo do Íntegro",
+          "es_ES": "Escudo del honrado",
+          "zh_CN": "正义盾击",
+          "fr_FR": "Bouclier du vertueux",
+          "de_DE": "Schild der Rechtschaffenen"
+        },
+        "id": 53600,
+        "media": {
+          "id": 53600
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/58000?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Bonus di Folgore Sacra",
+          "ru_RU": "Усиление священного шока",
+          "en_GB": "Holy Shock Bonus",
+          "zh_TW": "神聖震擊加成",
+          "ko_KR": "신성 충격 보너스",
+          "en_US": "Holy Shock Bonus",
+          "es_MX": "Bonus de Choque Sagrado",
+          "pt_BR": "Bônus de Choque Sagrado",
+          "es_ES": "Bonus de Choque Sagrado",
+          "zh_CN": "Holy Shock Bonus",
+          "fr_FR": "Bonus de Horion sacré",
+          "de_DE": "Bonus für 'Heiliger Schock'"
+        },
+        "id": 58000,
+        "media": {
+          "id": 58000
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/60147?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Critico di Folgore Sacra Migliorato",
+          "en_GB": "Holy Shock Crit Chance",
+          "zh_TW": "神聖震擊致命一擊機率",
+          "ko_KR": "신성 충격 치명타율",
+          "en_US": "Holy Shock Crit Chance",
+          "es_MX": "Probabilidad de crítico de Choque Sagrado",
+          "pt_BR": "Chance de Crítico de Choque Sagrado",
+          "es_ES": "Probabilidad de crítico de Choque Sagrado",
+          "zh_CN": "Holy Shock Crit Chance"
+        },
+        "id": 60147,
+        "media": {
+          "id": 60147
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/60148?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Ribasso della Luce Sacra",
+          "en_GB": "Holy Light Cost Reduction",
+          "zh_TW": "聖光術法力消耗降低",
+          "ko_KR": "성스러운 빛 마나 감소",
+          "en_US": "Holy Light Cost Reduction",
+          "es_MX": "Reducción de coste de Luz Sagrada",
+          "pt_BR": "Redução do Custo de Luz Sagrada",
+          "es_ES": "Reducción de coste de Luz Sagrada",
+          "zh_CN": "Holy Light Cost Reduction"
+        },
+        "id": 60148,
+        "media": {
+          "id": 60148
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/60166?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo d'Acqua Potenziato",
+          "ru_RU": "Усиление \"Водного щита\"",
+          "en_GB": "Water Shield Boost",
+          "zh_TW": "水之盾提升",
+          "ko_KR": "물의 보호막 촉진",
+          "en_US": "Water Shield Boost",
+          "es_MX": "Potenciar Escudo de agua",
+          "pt_BR": "Aceleração de Escudo de Água",
+          "es_ES": "Potenciar Escudo de agua",
+          "zh_CN": "Water Shield Boost",
+          "fr_FR": "Water Shield Boost",
+          "de_DE": "Water Shield Boost"
+        },
+        "id": 60166,
+        "media": {
+          "id": 60166
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/60168?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Danni di Scudo di Fulmini Migliorati",
+          "ru_RU": "Усиление \"Щита молний\"",
+          "en_GB": "Lightning Shield Boost",
+          "zh_TW": "閃電之盾提升",
+          "ko_KR": "번개 보호막 촉진",
+          "en_US": "Lightning Shield Boost",
+          "es_MX": "Potenciar Escudo de relámpagos",
+          "pt_BR": "Aceleração de Escudo de Raios",
+          "es_ES": "Potenciar Escudo de relámpagos",
+          "zh_CN": "Lightning Shield Boost",
+          "fr_FR": "Lightning Shield Boost",
+          "de_DE": "Blitzschlagschild - Boost"
+        },
+        "id": 60168,
+        "media": {
+          "id": 60168
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/60173?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Danni di Colpo di Scudo Migliorati",
+          "ru_RU": "Увеличение урона от \"Удара щитом\"",
+          "en_GB": "Shield Slam Damage Up",
+          "zh_TW": "盾牌猛擊傷害提高",
+          "ko_KR": "방패 밀쳐내기 피해 증가",
+          "en_US": "Shield Slam Damage Up",
+          "es_MX": "Más daño de Embate con escudo",
+          "pt_BR": "Dano de Escudada Maior",
+          "es_ES": "Más daño de Embate con escudo",
+          "zh_CN": "Shield Slam Damage Up",
+          "fr_FR": "Shield Slam Damage Up",
+          "de_DE": "Shield Slam Damage Up"
+        },
+        "id": 60173,
+        "media": {
+          "id": 60173
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/60175?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Muro di Scudi Continuo",
+          "ru_RU": "Длительность глухой обороны",
+          "en_GB": "Shield Wall Duration",
+          "zh_TW": "盾牆持續時間",
+          "ko_KR": "방패의 벽 지속시간",
+          "en_US": "Shield Wall Duration",
+          "es_MX": "Duración de Muro de escudo",
+          "pt_BR": "Duração de Muralha de Escudos",
+          "es_ES": "Duración de Muro de escudo",
+          "zh_CN": "Shield Wall Duration",
+          "fr_FR": "Durée de Mur protecteur",
+          "de_DE": "Shield Wall Duration"
+        },
+        "id": 60175,
+        "media": {
+          "id": 60175
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/63733?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Parole Sacre",
+          "ru_RU": "Слова Света",
+          "en_GB": "Holy Words",
+          "zh_TW": "聖言術",
+          "ko_KR": "빛의 권능",
+          "en_US": "Holy Words",
+          "es_MX": "Palabras sagradas",
+          "pt_BR": "Palavras Sagradas",
+          "es_ES": "Palabras sagradas",
+          "zh_CN": "圣言术",
+          "fr_FR": "Mots sacrés",
+          "de_DE": "Heilige Worte"
+        },
+        "id": 63733,
+        "media": {
+          "id": 63733
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/64890?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T8 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T8 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T8 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 신성 보너스",
+          "en_US": "Item - Paladin T8 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T8 Holy 2P Bonus",
+          "pt_BR": "Item - Paladino T8 Sagrado 2P Bônus",
+          "es_ES": "Item - Paladin T8 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T8 Holy 2P Bonus"
+        },
+        "id": 64890,
+        "media": {
+          "id": 64890
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/64895?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T8 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T8 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T8 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 신성 보너스",
+          "en_US": "Item - Paladin T8 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T8 Holy 4P Bonus",
+          "pt_BR": "Item - Paladino T8 Sagrado 4P Bônus",
+          "es_ES": "Item - Paladin T8 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T8 Holy 4P Bonus"
+        },
+        "id": 64895,
+        "media": {
+          "id": 64895
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/67190?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T9 Holy 2P Bonus (Avenging Wrath)",
+          "en_GB": "Item - Paladin T9 Holy 2P Bonus (Avenging Wrath)",
+          "en_US": "Item - Paladin T9 Holy 2P Bonus (Avenging Wrath)",
+          "es_MX": "Item - Paladin T9 Holy 2P Bonus (Avenging Wrath)",
+          "pt_BR": "Item - Bônus 2P Paladino T9 Sagrado (Ira Vingativa)",
+          "es_ES": "Item - Paladin T9 Holy 2P Bonus (Avenging Wrath)"
+        },
+        "id": 67190,
+        "media": {
+          "id": 67190
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/67191?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T9 Holy 4P Bonus (Flash of Light)",
+          "en_GB": "Item - Paladin T9 Holy 4P Bonus (Flash of Light)",
+          "zh_TW": "物品 - 聖騎士 T9 神聖 4P 加成 (聖光閃現)",
+          "ko_KR": "아이템 - 성기사 신성 보너스 (빛의 섬광)",
+          "en_US": "Item - Paladin T9 Holy 4P Bonus (Flash of Light)",
+          "es_MX": "Item - Paladin T9 Holy 4P Bonus (Flash of Light)",
+          "pt_BR": "Item - Paladino T9 Sagrado 4P Bônus (Clarão de Luz)",
+          "es_ES": "Item - Paladin T9 Holy 4P Bonus (Flash of Light)",
+          "zh_CN": "Item - Paladin T9 Holy 4P Bonus (Flash of Light)"
+        },
+        "id": 67191,
+        "media": {
+          "id": 67191
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/67273?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Warrior T9 Tank 4P Bonus (Shield Block)",
+          "en_GB": "Item - Warrior T9 Tank 4P Bonus (Shield Block)",
+          "zh_TW": "Item - Warrior T9 Tank 4P Bonus (Shield Block)",
+          "ko_KR": "아이템 - 전사 방어 보너스 (방패 올리기)",
+          "en_US": "Item - Warrior T9 Tank 4P Bonus (Shield Block)",
+          "es_MX": "Item - Warrior T9 Tank 4P Bonus (Shield Block)",
+          "pt_BR": "Item – Guerreiro T9 Tanque 4P Bônus (Levantar Escudo)",
+          "es_ES": "Item - Warrior T9 Tank 4P Bonus (Shield Block)",
+          "zh_CN": "Item - Warrior T9 Tank 4P Bonus (Shield Block)"
+        },
+        "id": 67273,
+        "media": {
+          "id": 67273
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/70755?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T10 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T10 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T10 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 신성 보너스",
+          "en_US": "Item - Paladin T10 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T10 Holy 2P Bonus",
+          "pt_BR": "Item - Bônus Paladino T10 Sagrado 2P",
+          "es_ES": "Item - Paladin T10 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T10 Holy 2P Bonus"
+        },
+        "id": 70755,
+        "media": {
+          "id": 70755
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/70756?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T10 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T10 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T10 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 신성 보너스",
+          "en_US": "Item - Paladin T10 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T10 Holy 4P Bonus",
+          "pt_BR": "Item - Bônus Paladino T10 Sagrado 4P",
+          "es_ES": "Item - Paladin T10 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T10 Holy 4P Bonus"
+        },
+        "id": 70756,
+        "media": {
+          "id": 70756
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/77513?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Maestria: Scudo del Sangue",
+          "ru_RU": "Искусность: щит крови",
+          "en_GB": "Mastery: Blood Shield",
+          "zh_TW": "精通：血魄護盾",
+          "ko_KR": "특화: 피의 보호막",
+          "en_US": "Mastery: Blood Shield",
+          "es_MX": "Maestría: Escudo de sangre",
+          "pt_BR": "Maestria: Escudo de Sangue",
+          "es_ES": "Maestría: Escudo de sangre",
+          "zh_CN": "精通：鲜血护盾",
+          "fr_FR": "Maîtrise : Bouclier de sang",
+          "de_DE": "Meisterschaft: Blutschild"
+        },
+        "id": 77513,
+        "media": {
+          "id": 77513
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/82326?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Luce Sacra",
+          "ru_RU": "Свет небес",
+          "en_GB": "Holy Light",
+          "zh_TW": "聖光術",
+          "ko_KR": "성스러운 빛",
+          "en_US": "Holy Light",
+          "es_MX": "Luz Sagrada",
+          "pt_BR": "Luz Sagrada",
+          "es_ES": "Luz Sagrada",
+          "zh_CN": "圣光术",
+          "fr_FR": "Lumière sacrée",
+          "de_DE": "Heiliges Licht"
+        },
+        "id": 82326,
+        "media": {
+          "id": 82326
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/88625?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Parola Sacra: Castigo",
+          "ru_RU": "Слово Света: Наказание",
+          "en_GB": "Holy Word: Chastise",
+          "zh_TW": "聖言術：譴",
+          "ko_KR": "빛의 권능: 응징",
+          "en_US": "Holy Word: Chastise",
+          "es_MX": "Palabra Sagrada: Condena",
+          "pt_BR": "Palavra Sagrada: Castigar",
+          "es_ES": "Palabra sagrada: condena",
+          "zh_CN": "圣言术：罚",
+          "fr_FR": "Mot sacré : Châtier",
+          "de_DE": "Segenswort: Züchtigung"
+        },
+        "id": 88625,
+        "media": {
+          "id": 88625
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/90310?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T11 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T11 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T11 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 신성 보너스",
+          "en_US": "Item - Paladin T11 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T11 Holy 2P Bonus",
+          "pt_BR": "Item - Bônus 2P Paladino T11",
+          "es_ES": "Item - Paladin T11 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T11 Holy 2P Bonus"
+        },
+        "id": 90310,
+        "media": {
+          "id": 90310
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/90313?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T11 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T11 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T11 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 신성 보너스",
+          "en_US": "Item - Paladin T11 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T11 Holy 4P Bonus",
+          "pt_BR": "Item - Bônus 4P Paladino T11",
+          "es_ES": "Item - Paladin T11 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T11 Holy 4P Bonus"
+        },
+        "id": 90313,
+        "media": {
+          "id": 90313
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/99067?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T12 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T12 Holy 2P Bonus",
+          "zh_TW": "物品 - 聖騎士T12神聖2P獎勵",
+          "ko_KR": "아이템 - 성기사 T12 신성 2P 보너스",
+          "en_US": "Item - Paladin T12 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T12 Holy 2P Bonus",
+          "pt_BR": "Item - Bônus 2P Paladino Sagrado T12",
+          "es_ES": "Item - Paladin T12 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T12 Holy 2P Bonus"
+        },
+        "id": 99067,
+        "media": {
+          "id": 99067
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/99070?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T12 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T12 Holy 4P Bonus",
+          "zh_TW": "物品 - 聖騎士T12神聖4P獎勵",
+          "ko_KR": "아이템 - 성기사 T12 신성 4P 보너스",
+          "en_US": "Item - Paladin T12 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T12 Holy 4P Bonus",
+          "pt_BR": "Item - Bônus 4P Paladino Sagrado T12",
+          "es_ES": "Item - Paladin T12 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T12 Holy 4P Bonus"
+        },
+        "id": 99070,
+        "media": {
+          "id": 99070
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/100956?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo di Fulmini Migliorato",
+          "ru_RU": "Улучшенный щит молний",
+          "en_GB": "Improved Lightning Shield",
+          "zh_TW": "強化閃電之盾",
+          "ko_KR": "번개 보호막 연마",
+          "en_US": "Improved Lightning Shield",
+          "es_MX": "Escudo de relámpagos mejorado",
+          "pt_BR": "Escudo de Raios Aprimorado",
+          "es_ES": "Escudo de relámpagos mejorado",
+          "zh_CN": "强化闪电之盾",
+          "fr_FR": "Bouclier de foudre amélioré",
+          "de_DE": "Verbesserter Blitzschlagschild"
+        },
+        "id": 100956,
+        "media": {
+          "id": 100956
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/105743?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T13 Holy 2P Bonus (Avenging Wrath)",
+          "en_GB": "Item - Paladin T13 Holy 2P Bonus (Avenging Wrath)",
+          "en_US": "Item - Paladin T13 Holy 2P Bonus (Avenging Wrath)",
+          "es_MX": "Item - Paladin T13 Holy 2P Bonus (Avenging Wrath)",
+          "pt_BR": "Item - Bônus 2P Paladino T13 Sagrado (Ira Vingativa)",
+          "es_ES": "Item - Paladin T13 Holy 2P Bonus (Avenging Wrath)"
+        },
+        "id": 105743,
+        "media": {
+          "id": 105743
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/105798?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Oggetto - Paladino T13 Sacro 4P Bonus (Splendore Sacro)",
+          "en_GB": "Item - Paladin T13 Holy 4P Bonus (Holy Radiance)",
+          "zh_TW": "物品 - 死亡騎士T12鮮血2P獎勵",
+          "ko_KR": "아이템 - 성기사 T13 신성 4P 보너스 (신성한 광휘)",
+          "en_US": "Item - Paladin T13 Holy 4P Bonus (Holy Radiance)",
+          "es_MX": "Item - Paladin T13 Holy 4P Bonus (Holy Radiance)",
+          "pt_BR": "Item - Bônus 4P T13 de Paladino Sagrado (Resplendor Sagrado)",
+          "es_ES": "Item - Paladin T13 Holy 4P Bonus (Holy Radiance)",
+          "zh_CN": "Item - Paladin T13 Holy 4P Bonus (Holy Radiance)"
+        },
+        "id": 105798,
+        "media": {
+          "id": 105798
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/105809?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Vendicatore Sacro",
+          "ru_RU": "Святой каратель",
+          "en_GB": "Holy Avenger",
+          "zh_TW": "神聖復仇者",
+          "ko_KR": "신성한 복수자",
+          "en_US": "Holy Avenger",
+          "es_MX": "Vengador sagrado",
+          "pt_BR": "Vingador Sagrado",
+          "es_ES": "Vengador sagrado",
+          "zh_CN": "神圣复仇者",
+          "fr_FR": "Vengeur sacré",
+          "de_DE": "Heiliger Rächer"
+        },
+        "id": 105809,
+        "media": {
+          "id": 105809
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/105832?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Oggetto - Sacerdote T13 Guaritore 4P Bonus (Parola Sacra e Parola del Potere: Scudo)",
+          "en_GB": "Item - Priest T13 Healer 4P Bonus (Holy Word and Power Word: Shield)",
+          "zh_TW": "物品 - 牧師T13醫者4P獎勵(聖言術與真言術：盾)",
+          "ko_KR": "아이템 - 사제 T13 치유사 4P 보너스 (빛의 권능 및 신의 권능: 보호막)",
+          "en_US": "Item - Priest T13 Healer 4P Bonus (Holy Word and Power Word: Shield)",
+          "es_MX": "Item - Priest T13 Healer 4P Bonus (Holy Word and Power Word: Shield)",
+          "pt_BR": "Item - Priest T13 Healer 4P Bonus (Holy Word and Power Word: Shield)",
+          "es_ES": "Item - Priest T13 Healer 4P Bonus (Holy Word and Power Word: Shield)",
+          "zh_CN": "Item - Priest T13 Healer 4P Bonus (Holy Word and Power Word: Shield)"
+        },
+        "id": 105832,
+        "media": {
+          "id": 105832
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/105911?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Oggetto - Guerriero T13 Protezione 4P Bonus (Muro di Scudi)",
+          "ru_RU": "Предмет - Рейдовый комплект воина, T13, \"Защита\", бонус за 4 предмета (\"Глухая оборона\")",
+          "en_GB": "Item - Warrior T13 Protection 4P Bonus (Shield Wall)",
+          "zh_TW": "Item - Warrior T13 Protection 4P Bonus (Shield Wall)",
+          "ko_KR": "아이템 - 전사 T13 방어 4P 보너스 (방패의 벽)",
+          "en_US": "Item - Warrior T13 Protection 4P Bonus (Shield Wall)",
+          "es_MX": "Item - Warrior T13 Protection 4P Bonus (Shield Wall)",
+          "pt_BR": "Item – Guerreiro T13 Proteção 4P Bônus (Muralha de Escudos)",
+          "es_ES": "Item - Warrior T13 Protection 4P Bonus (Shield Wall)",
+          "zh_CN": "Item - Warrior T13 Protection 4P Bonus (Shield Wall)",
+          "fr_FR": "Item - Warrior T13 Protection 4P Bonus (Shield Wall)",
+          "de_DE": "Item - Warrior T13 Protection 4P Bonus (Shield Wall)"
+        },
+        "id": 105911,
+        "media": {
+          "id": 105911
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/114165?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Prisma Sacro",
+          "ru_RU": "Божественная призма",
+          "en_GB": "Holy Prism",
+          "zh_TW": "神聖稜石",
+          "ko_KR": "신성한 반사",
+          "en_US": "Holy Prism",
+          "es_MX": "Prisma Sagrado",
+          "pt_BR": "Prisma Sagrado",
+          "es_ES": "Prisma Sagrado",
+          "zh_CN": "神圣棱镜",
+          "fr_FR": "Prisme sacré",
+          "de_DE": "Heiliges Prisma"
+        },
+        "id": 114165,
+        "media": {
+          "id": 114165
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/114852?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Prisma Sacro",
+          "ru_RU": "Божественная призма",
+          "en_GB": "Holy Prism",
+          "zh_TW": "神聖稜石",
+          "ko_KR": "신성한 반사",
+          "en_US": "Holy Prism",
+          "es_MX": "Prisma Sagrado",
+          "pt_BR": "Prisma Sagrado",
+          "es_ES": "Prisma Sagrado",
+          "zh_CN": "神圣棱镜",
+          "fr_FR": "Prisme sacré",
+          "de_DE": "Heiliges Prisma"
+        },
+        "id": 114852,
+        "media": {
+          "id": 114852
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/114871?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Prisma Sacro",
+          "ru_RU": "Божественная призма",
+          "en_GB": "Holy Prism",
+          "zh_TW": "神聖稜石",
+          "ko_KR": "신성한 반사",
+          "en_US": "Holy Prism",
+          "es_MX": "Prisma Sagrado",
+          "pt_BR": "Prisma Sagrado",
+          "es_ES": "Prisma Sagrado",
+          "zh_CN": "神圣棱镜",
+          "fr_FR": "Prisme sacré",
+          "de_DE": "Heiliges Prisma"
+        },
+        "id": 114871,
+        "media": {
+          "id": 114871
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/123102?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T14 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T14 Holy 2P Bonus",
+          "zh_TW": "物品:聖騎士T14神聖2P獎勵",
+          "ko_KR": "아이템 - 성기사 신성 T14 2P 보너스",
+          "en_US": "Item - Paladin T14 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T14 Holy 2P Bonus",
+          "pt_BR": "Item - Paladin T14 Holy 2P Bonus",
+          "es_ES": "Item - Paladin T14 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T14 Holy 2P Bonus"
+        },
+        "id": 123102,
+        "media": {
+          "id": 123102
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/123103?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T14 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T14 Holy 4P Bonus",
+          "zh_TW": "物品:聖騎士T14神聖4P獎勵",
+          "ko_KR": "아이템 - 성기사 신성 T14 4P 보너스",
+          "en_US": "Item - Paladin T14 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T14 Holy 4P Bonus",
+          "pt_BR": "Item - Paladin T14 Holy 4P Bonus",
+          "es_ES": "Item - Paladin T14 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T14 Holy 4P Bonus"
+        },
+        "id": 123103,
+        "media": {
+          "id": 123103
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/131665?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin PvP Set Holy 4P Bonus",
+          "en_GB": "Item - Paladin PvP Set Holy 4P Bonus",
+          "zh_TW": "物品:聖騎士PvP套裝神聖4P獎勵",
+          "ko_KR": "아이템 - 성기사 PvP 세트 신성 4P 보너스",
+          "en_US": "Item - Paladin PvP Set Holy 4P Bonus",
+          "es_MX": "Item - Paladin PvP Set Holy 4P Bonus",
+          "pt_BR": "Item - Paladin PvP Set Holy 4P Bonus",
+          "es_ES": "Item - Paladin PvP Set Holy 4P Bonus",
+          "zh_CN": "Item - Paladin PvP Set Holy 4P Bonus"
+        },
+        "id": 131665,
+        "media": {
+          "id": 131665
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/132157?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Esplosione Sacra",
+          "ru_RU": "Кольцо Света",
+          "en_GB": "Holy Nova",
+          "zh_TW": "神聖新星",
+          "ko_KR": "신성한 폭발",
+          "en_US": "Holy Nova",
+          "es_MX": "Nova Sagrada",
+          "pt_BR": "Nova Sagrada",
+          "es_ES": "Nova Sagrada",
+          "zh_CN": "神圣新星",
+          "fr_FR": "Nova sacrée",
+          "de_DE": "Heilige Nova"
+        },
+        "id": 132157,
+        "media": {
+          "id": 132157
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/137029?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Paladino (Sacro)",
+          "ru_RU": "Паладин - Свет",
+          "en_GB": "Holy Paladin",
+          "zh_TW": "神聖聖騎士",
+          "ko_KR": "신성 성기사",
+          "en_US": "Holy Paladin",
+          "es_MX": "Paladín sagrado",
+          "pt_BR": "Paladino Sagrado",
+          "es_ES": "Paladín Sagrado",
+          "zh_CN": "神圣圣骑士",
+          "fr_FR": "Paladin Sacré",
+          "de_DE": "Heiligpaladin"
+        },
+        "id": 137029,
+        "media": {
+          "id": 137029
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/137031?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Sacerdote (Sacro)",
+          "ru_RU": "Жрец - Свет",
+          "en_GB": "Holy Priest",
+          "zh_TW": "神聖牧師",
+          "ko_KR": "신성 사제",
+          "en_US": "Holy Priest",
+          "es_MX": "Sacerdote sagrado",
+          "pt_BR": "Sacerdote Sagrado",
+          "es_ES": "Sacerdote Sagrado",
+          "zh_CN": "神圣牧师",
+          "fr_FR": "Prêtre Sacré",
+          "de_DE": "Heiligpriester"
+        },
+        "id": 137031,
+        "media": {
+          "id": 137031
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/138291?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T15 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T15 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T15 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 T15 신성 2P 보너스",
+          "en_US": "Item - Paladin T15 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T15 Holy 2P Bonus",
+          "pt_BR": "Item - Paladin T15 Holy 2P Bonus",
+          "es_ES": "Item - Paladin T15 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T15 Holy 2P Bonus"
+        },
+        "id": 138291,
+        "media": {
+          "id": 138291
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/138292?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T15 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T15 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T15 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 T15 신성 4P 보너스",
+          "en_US": "Item - Paladin T15 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T15 Holy 4P Bonus",
+          "pt_BR": "Item - Paladin T15 Holy 4P Bonus",
+          "es_ES": "Item - Paladin T15 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T15 Holy 4P Bonus"
+        },
+        "id": 138292,
+        "media": {
+          "id": 138292
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/144613?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T16 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T16 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T16 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 T16 신성 4P 보너스",
+          "en_US": "Item - Paladin T16 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T16 Holy 4P Bonus",
+          "pt_BR": "Item - Paladin T16 Holy 4P Bonus",
+          "es_ES": "Item - Paladin T16 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T16 Holy 4P Bonus"
+        },
+        "id": 144613,
+        "media": {
+          "id": 144613
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/144625?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T16 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T16 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T16 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 T16 신성 2P 보너스",
+          "en_US": "Item - Paladin T16 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T16 Holy 2P Bonus",
+          "pt_BR": "Item - Paladin T16 Holy 2P Bonus",
+          "es_ES": "Item - Paladin T16 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T16 Holy 2P Bonus"
+        },
+        "id": 144625,
+        "media": {
+          "id": 144625
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/152261?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo Benedetto",
+          "ru_RU": "Щит небес",
+          "en_GB": "Holy Shield",
+          "zh_TW": "神聖之盾",
+          "ko_KR": "신성한 방패",
+          "en_US": "Holy Shield",
+          "es_MX": "Escudo Sagrado",
+          "pt_BR": "Escudo Sagrado",
+          "es_ES": "Escudo Sagrado",
+          "zh_CN": "神圣之盾",
+          "fr_FR": "Bouclier sacré",
+          "de_DE": "Heiliger Schild"
+        },
+        "id": 152261,
+        "media": {
+          "id": 152261
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/165438?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T17 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T17 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T17 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 T17 신성 2P 보너스",
+          "en_US": "Item - Paladin T17 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T17 Holy 2P Bonus",
+          "pt_BR": "Item - Bônus 2P Paladino Sagrado T17",
+          "es_ES": "Item - Paladin T17 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T17 Holy 2P Bonus"
+        },
+        "id": 165438,
+        "media": {
+          "id": 165438
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/165621?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Priest T17 Holy 2P Bonus",
+          "en_GB": "Item - Priest T17 Holy 2P Bonus",
+          "zh_TW": "Item - Priest T17 Holy 2P Bonus",
+          "ko_KR": "아이템 - 사제 T17 신성 2P 보너스",
+          "en_US": "Item - Priest T17 Holy 2P Bonus",
+          "es_MX": "Item - Priest T17 Holy 2P Bonus",
+          "pt_BR": "Item - Sacerdote T17 Sagrado 2P Bônus",
+          "es_ES": "Item - Priest T17 Holy 2P Bonus",
+          "zh_CN": "Item - Priest T17 Holy 2P Bonus"
+        },
+        "id": 165621,
+        "media": {
+          "id": 165621
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/167684?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Priest T17 Holy 4P Bonus",
+          "en_GB": "Item - Priest T17 Holy 4P Bonus",
+          "zh_TW": "Item - Priest T17 Holy 4P Bonus",
+          "ko_KR": "아이템 - 사제 T17 신성 4P 보너스",
+          "en_US": "Item - Priest T17 Holy 4P Bonus",
+          "es_MX": "Item - Priest T17 Holy 4P Bonus",
+          "pt_BR": "Item - Sacerdote T17 Sagrado 4P Bônus",
+          "es_ES": "Item - Priest T17 Holy 4P Bonus",
+          "zh_CN": "Item - Priest T17 Holy 4P Bonus"
+        },
+        "id": 167684,
+        "media": {
+          "id": 167684
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/167697?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T17 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T17 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T17 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 T17 신성 4P 보너스",
+          "en_US": "Item - Paladin T17 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T17 Holy 4P Bonus",
+          "pt_BR": "Item - Bônus 4P Paladino Sagrado T17",
+          "es_ES": "Item - Priest T17 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T17 Holy 4P Bonus"
+        },
+        "id": 167697,
+        "media": {
+          "id": 167697
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/170860?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin WoD PvP Holy 2P Bonus",
+          "en_GB": "Item - Paladin WoD PvP Holy 2P Bonus",
+          "zh_TW": "Item - Paladin WoD PvP Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 WoD PvP 신성 2P 보너스",
+          "en_US": "Item - Paladin WoD PvP Holy 2P Bonus",
+          "es_MX": "Item - Paladin WoD PvP Holy 2P Bonus",
+          "pt_BR": "Item - Paladino WoD JxJ Sagrado 2P Bônus",
+          "es_ES": "Item - Paladin WoD PvP Holy 2P Bonus",
+          "zh_CN": "Item - Paladin WoD PvP Holy 2P Bonus"
+        },
+        "id": 170860,
+        "media": {
+          "id": 170860
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/171158?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Priest WoD PvP Holy 2P Bonus",
+          "en_GB": "Item - Priest WoD PvP Holy 2P Bonus",
+          "zh_TW": "Item - Priest WoD PvP Holy 2P Bonus",
+          "ko_KR": "아이템 - 사제 WoD PvP 신성 2P 보너스",
+          "en_US": "Item - Priest WoD PvP Holy 2P Bonus",
+          "es_MX": "Item - Priest WoD PvP Holy 2P Bonus",
+          "pt_BR": "Item - Sacerdote WoD JxJ Sagrado 2P Bônus",
+          "es_ES": "Item - Priest WoD PvP Holy 2P Bonus",
+          "zh_CN": "Item - Priest WoD PvP Holy 2P Bonus"
+        },
+        "id": 171158,
+        "media": {
+          "id": 171158
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/184662?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo della Vendetta",
+          "ru_RU": "Щит возмездия",
+          "en_GB": "Shield of Vengeance",
+          "zh_TW": "復仇聖盾",
+          "ko_KR": "복수의 방패",
+          "en_US": "Shield of Vengeance",
+          "es_MX": "Escudo de venganza",
+          "pt_BR": "Escudo de Vingança",
+          "es_ES": "Escudo de venganza",
+          "zh_CN": "复仇之盾",
+          "fr_FR": "Bouclier du vengeur",
+          "de_DE": "Schild der Vergeltung"
+        },
+        "id": 184662,
+        "media": {
+          "id": 184662
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/185545?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T18 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T18 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T18 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 T18 신성 2P 보너스",
+          "en_US": "Item - Paladin T18 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T18 Holy 2P Bonus",
+          "pt_BR": "Item - Bônus 2P Paladino Sagrado T18",
+          "es_ES": "Item - Paladin T18 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T18 Holy 2P Bonus"
+        },
+        "id": 185545,
+        "media": {
+          "id": 185545
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/185571?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T18 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T18 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T18 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 T18 신성 4P 보너스",
+          "en_US": "Item - Paladin T18 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T18 Holy 4P Bonus",
+          "pt_BR": "Item - Bônus 4P Paladino Sagrado T18",
+          "es_ES": "Item - Paladin T18 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T18 Holy 4P Bonus"
+        },
+        "id": 185571,
+        "media": {
+          "id": 185571
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/186298?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Priest T18 Holy 2P Bonus",
+          "en_GB": "Item - Priest T18 Holy 2P Bonus",
+          "zh_TW": "Item - Priest T18 Holy 2P Bonus",
+          "ko_KR": "아이템 - 사제 T18 신성 2P 보너스",
+          "en_US": "Item - Priest T18 Holy 2P Bonus",
+          "es_MX": "Item - Priest T18 Holy 2P Bonus",
+          "pt_BR": "Item - Priest T18 Holy 2P Bonus",
+          "es_ES": "Item - Priest T18 Holy 2P Bonus",
+          "zh_CN": "Item - Priest T18 Holy 2P Bonus"
+        },
+        "id": 186298,
+        "media": {
+          "id": 186298
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/186378?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Priest T18 Holy 4P Bonus",
+          "en_GB": "Item - Priest T18 Holy 4P Bonus",
+          "zh_TW": "Item - Priest T18 Holy 4P Bonus",
+          "ko_KR": "아이템 - 사제 T18 신성 4P 보너스",
+          "en_US": "Item - Priest T18 Holy 4P Bonus",
+          "es_MX": "Item - Priest T18 Holy 4P Bonus",
+          "pt_BR": "Item - Priest T18 Holy 4P Bonus",
+          "es_ES": "Item - Priest T18 Holy 4P Bonus",
+          "zh_CN": "物品 - 牧师 T18 神圣　4　件套套装奖励"
+        },
+        "id": 186378,
+        "media": {
+          "id": 186378
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/188635?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Addestramento allo Scudo Vrykul",
+          "ru_RU": "Врайкульское мастерство владения щитом",
+          "en_GB": "Vrykul Shield Training",
+          "zh_TW": "維酷盾牌訓練",
+          "ko_KR": "브리쿨 방패 훈련",
+          "en_US": "Vrykul Shield Training",
+          "es_MX": "Escudo de entrenamiento vrykul",
+          "pt_BR": "Treinamento de Escudo Vraikal",
+          "es_ES": "Entrenamiento de escudo vrykul",
+          "zh_CN": "维库盾牌训练",
+          "fr_FR": "Entraînement au bouclier vrykul",
+          "de_DE": "Schildtraining der Vrykul"
+        },
+        "id": 188635,
+        "media": {
+          "id": 188635
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/192106?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo di Fulmini",
+          "ru_RU": "Щит молний",
+          "en_GB": "Lightning Shield",
+          "zh_TW": "閃電之盾",
+          "ko_KR": "번개 보호막",
+          "en_US": "Lightning Shield",
+          "es_MX": "Escudo de relámpagos",
+          "pt_BR": "Escudo de Raios",
+          "es_ES": "Escudo de relámpagos",
+          "zh_CN": "闪电之盾",
+          "fr_FR": "Bouclier de foudre",
+          "de_DE": "Blitzschlagschild"
+        },
+        "id": 192106,
+        "media": {
+          "id": 192106
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/197045?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Disciplina degli Scudi",
+          "ru_RU": "Эффективный щит",
+          "en_GB": "Shield Discipline",
+          "zh_TW": "護盾戒律",
+          "ko_KR": "수양 보호막",
+          "en_US": "Shield Discipline",
+          "es_MX": "Disciplina de escudo",
+          "pt_BR": "Disciplina do Escudo",
+          "es_ES": "Disciplina de escudo",
+          "zh_CN": "护盾戒律",
+          "fr_FR": "Discipline du bouclier",
+          "de_DE": "Schilddisziplin"
+        },
+        "id": 197045,
+        "media": {
+          "id": 197045
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/198111?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo Temporale",
+          "ru_RU": "Барьер времени",
+          "en_GB": "Temporal Shield",
+          "zh_TW": "時光護盾",
+          "ko_KR": "시간의 보호막",
+          "en_US": "Temporal Shield",
+          "es_MX": "Escudo temporal",
+          "pt_BR": "Escudo Temporal",
+          "es_ES": "Escudo temporal",
+          "zh_CN": "时光护盾",
+          "fr_FR": "Bouclier temporel",
+          "de_DE": "Temporaler Schild"
+        },
+        "id": 198111,
+        "media": {
+          "id": 198111
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/198912?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Sfondamento di Scudo",
+          "ru_RU": "Удар щитом",
+          "en_GB": "Shield Bash",
+          "zh_TW": "盾擊",
+          "ko_KR": "방패 가격",
+          "en_US": "Shield Bash",
+          "es_MX": "Azote de escudo",
+          "pt_BR": "Trombada com Escudo",
+          "es_ES": "Azote de escudo",
+          "zh_CN": "盾击",
+          "fr_FR": "Coup de bouclier",
+          "de_DE": "Schildhieb"
+        },
+        "id": 198912,
+        "media": {
+          "id": 198912
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/211436?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T19 Holy 2P Bonus",
+          "en_GB": "Item - Paladin T19 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T19 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 T19 신성 2P 보너스",
+          "en_US": "Item - Paladin T19 Holy 2P Bonus",
+          "es_MX": "Item - Paladin T19 Holy 2P Bonus",
+          "pt_BR": "Item - Paladin T19 Holy 2P Bonus",
+          "zh_CN": "套装特效占位"
+        },
+        "id": 211436,
+        "media": {
+          "id": 211436
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/211438?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Paladin T19 Holy 4P Bonus",
+          "en_GB": "Item - Paladin T19 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T19 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 T19 신성 4P 보너스",
+          "en_US": "Item - Paladin T19 Holy 4P Bonus",
+          "es_MX": "Item - Paladin T19 Holy 4P Bonus",
+          "pt_BR": "Item - Paladin T19 Holy 4P Bonus",
+          "zh_CN": "套装特效占位"
+        },
+        "id": 211438,
+        "media": {
+          "id": 211438
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/211638?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Priest T19 Holy 2P Bonus",
+          "en_GB": "Item - Priest T19 Holy 2P Bonus",
+          "zh_TW": "Item - Priest T19 Holy 2P Bonus",
+          "ko_KR": "아이템 - 사제 T19 신성 2P 보너스",
+          "en_US": "Item - Priest T19 Holy 2P Bonus",
+          "es_MX": "Objeto - Sacerdote T19 Sagrado Bonificación de 2P",
+          "pt_BR": "Item - Priest T19 Holy 2P Bonus",
+          "zh_CN": "套装特效占位"
+        },
+        "id": 211638,
+        "media": {
+          "id": 211638
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/211640?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Item - Priest T19 Holy 4P Bonus",
+          "en_GB": "Item - Priest T19 Holy 4P Bonus",
+          "zh_TW": "Item - Priest T19 Holy 4P Bonus",
+          "ko_KR": "아이템 - 사제 T19 신성 4P 보너스",
+          "en_US": "Item - Priest T19 Holy 4P Bonus",
+          "es_MX": "Objeto - Sacerdote T19 Sagrado Bonificación de 4P",
+          "pt_BR": "Item - Priest T19 Holy 4P Bonus",
+          "zh_CN": "套装特效占位"
+        },
+        "id": 211640,
+        "media": {
+          "id": 211640
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/213610?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Protezione Sacra",
+          "ru_RU": "Священный оберег",
+          "en_GB": "Holy Ward",
+          "zh_TW": "神聖結界",
+          "ko_KR": "신성 수호",
+          "en_US": "Holy Ward",
+          "es_MX": "Resguardo Sagrado",
+          "pt_BR": "Defesa Sagrada",
+          "es_ES": "Resguardo Sagrado",
+          "zh_CN": "神圣守卫",
+          "fr_FR": "Protection sacrée",
+          "de_DE": "Heiliger Zauberschutz"
+        },
+        "id": 213610,
+        "media": {
+          "id": 213610
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/215652?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo della Virtù",
+          "ru_RU": "Щит добродетели",
+          "en_GB": "Shield of Virtue",
+          "zh_TW": "美德之盾",
+          "ko_KR": "고결의 방패",
+          "en_US": "Shield of Virtue",
+          "es_MX": "Escudo de virtud",
+          "pt_BR": "Escudo de Virtude",
+          "es_ES": "Escudo de virtud",
+          "zh_CN": "美德之盾",
+          "fr_FR": "Bouclier de vertu",
+          "de_DE": "Schild der Tugend"
+        },
+        "id": 215652,
+        "media": {
+          "id": 215652
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/231847?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "it_IT": "Scudo Saldo",
+          "ru_RU": "Блок щитом",
+          "en_GB": "Shield Block",
+          "zh_TW": "盾牌格擋",
+          "ko_KR": "방패 올리기",
+          "en_US": "Shield Block",
+          "es_MX": "Bloquear con escudo",
+          "pt_BR": "Levantar Escudo",
+          "es_ES": "Bloquear con escudo",
+          "zh_CN": "盾牌格挡",
+          "fr_FR": "Maîtrise du blocage",
+          "de_DE": "Schildblock"
+        },
+        "id": 231847,
+        "media": {
+          "id": 231847
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/242261?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "en_GB": "Item - Paladin T20 Holy 2P Bonus",
+          "zh_TW": "Item - Paladin T20 Holy 2P Bonus",
+          "ko_KR": "아이템 - 성기사 T20 신성 2P 보너스",
+          "en_US": "Item - Paladin T20 Holy 2P Bonus",
+          "es_MX": "Objeto - Sacerdote T20 Sagrado 2P Bonificación",
+          "pt_BR": "Item - Paladin T20 Holy 2P Bonus",
+          "zh_CN": "Item - Paladin T20 Holy 2P Bonus"
+        },
+        "id": 242261,
+        "media": {
+          "id": 242261
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/242262?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "en_GB": "Item - Paladin T20 Holy 4P Bonus",
+          "zh_TW": "Item - Paladin T20 Holy 4P Bonus",
+          "ko_KR": "아이템 - 성기사 T20 신성 4P 보너스",
+          "en_US": "Item - Paladin T20 Holy 4P Bonus",
+          "es_MX": "Objeto - Sacerdote T20 Sagrado 4P Bonificación",
+          "pt_BR": "Item - Paladin T20 Holy 4P Bonus",
+          "zh_CN": "Item - Paladin T20 Holy 4P Bonus"
+        },
+        "id": 242262,
+        "media": {
+          "id": 242262
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/242270?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "en_GB": "Item - Priest T20 Holy 2P Bonus",
+          "zh_TW": "Item - Priest T20 Holy 2P Bonus",
+          "ko_KR": "아이템 - 사제 T20 신성 2P 보너스",
+          "en_US": "Item - Priest T20 Holy 2P Bonus",
+          "es_MX": "Objeto - Sacerdote T20 Sagrado 2P Bonificación",
+          "pt_BR": "Item - Priest T20 Holy 2P Bonus",
+          "zh_CN": "Item - Priest T20 Holy 2P Bonus"
+        },
+        "id": 242270,
+        "media": {
+          "id": 242270
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/242271?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "en_GB": "Item - Priest T20 Holy 4P Bonus",
+          "zh_TW": "Item - Priest T20 Holy 4P Bonus",
+          "ko_KR": "아이템 - 사제 T20 신성 4P 보너스",
+          "en_US": "Item - Priest T20 Holy 4P Bonus",
+          "es_MX": "Objeto - Sacerdote T20 Sagrado 4P Bonificación",
+          "pt_BR": "Item - Priest T20 Holy 4P Bonus",
+          "zh_CN": "Item - Priest T20 Holy 4P Bonus"
+        },
+        "id": 242271,
+        "media": {
+          "id": 242271
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/251831?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "name": {
+          "en_GB": "Item - Priest T21 Holy 2P Bonus",
+          "en_US": "Item - Priest T21 Holy 2P Bonus",
+          "es_ES": "Item - Priest T21 Holy 2P Bonus - Prayer of Healing Procs Flash Heal/Heal"
+        },
+        "id": 251831,
+        "media": {
+          "id": 251831
+        }
+      }
+    }
+  ]
+}

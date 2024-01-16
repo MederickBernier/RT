@@ -1,0 +1,282 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/koongar/hunter-pets?namespace=profile-us"
+    }
+  },
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/koongar?namespace=profile-us"
+    },
+    "name": "Koongar",
+    "id": 192923097,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "hunter_pets": [
+    {
+      "name": "birdy",
+      "level": 110,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/89652?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Shallows Heron",
+        "id": 89652
+      },
+      "slot": 7,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/39553?namespace=static-10.1.7_51059-us"
+        },
+        "id": 39553
+      }
+    },
+    {
+      "name": "Lusty",
+      "level": 110,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/21108?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Spawn of Uvuros",
+        "id": 21108
+      },
+      "slot": 14,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/20521?namespace=static-10.1.7_51059-us"
+        },
+        "id": 20521
+      }
+    },
+    {
+      "name": "Kodonator",
+      "level": 110,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/3234?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Lost Barrens Kodo",
+        "id": 3234
+      },
+      "slot": 8,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/10918?namespace=static-10.1.7_51059-us"
+        },
+        "id": 10918
+      }
+    },
+    {
+      "name": "Myonix",
+      "level": 120,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/110340?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Myonix",
+        "id": 110340
+      },
+      "slot": 0,
+      "is_active": true,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/71536?namespace=static-10.1.7_51059-us"
+        },
+        "id": 71536
+      }
+    },
+    {
+      "name": "Gory",
+      "level": 110,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/78572?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Wild Witherhide Bull",
+        "id": 78572
+      },
+      "slot": 13,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/54593?namespace=static-10.1.7_51059-us"
+        },
+        "id": 54593
+      }
+    },
+    {
+      "name": "Wolf",
+      "level": 50,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/91250?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Iron Warwolf",
+        "id": 91250
+      },
+      "slot": 2,
+      "is_active": true,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/61531?namespace=static-10.1.7_51059-us"
+        },
+        "id": 61531
+      }
+    },
+    {
+      "name": "Oxen",
+      "level": 113,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/107803?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Wild Plains Runehorn",
+        "id": 107803
+      },
+      "slot": 9,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/70286?namespace=static-10.1.7_51059-us"
+        },
+        "id": 70286
+      }
+    },
+    {
+      "name": "Spikey",
+      "level": 120,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/70012?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Primal Direhorn Hatchling",
+        "id": 70012
+      },
+      "slot": 10,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/47233?namespace=static-10.1.7_51059-us"
+        },
+        "id": 47233
+      }
+    },
+    {
+      "name": "Gon",
+      "level": 70,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/121571?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Gon",
+        "id": 121571
+      },
+      "slot": 1,
+      "is_active": true,
+      "is_summoned": true,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/76409?namespace=static-10.1.7_51059-us"
+        },
+        "id": 76409
+      }
+    },
+    {
+      "name": "Tanky",
+      "level": 60,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/123093?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Ankylodon Bull",
+        "id": 123093
+      },
+      "slot": 3,
+      "is_active": true,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/86793?namespace=static-10.1.7_51059-us"
+        },
+        "id": 86793
+      }
+    },
+    {
+      "name": "Killua",
+      "level": 60,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/121571?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Gon",
+        "id": 121571
+      },
+      "slot": 5,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/76409?namespace=static-10.1.7_51059-us"
+        },
+        "id": 76409
+      }
+    },
+    {
+      "name": "Gullet",
+      "level": 54,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/76710?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Ashmane Clefthoof",
+        "id": 76710
+      },
+      "slot": 6,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/54590?namespace=static-10.1.7_51059-us"
+        },
+        "id": 54590
+      }
+    },
+    {
+      "name": "Wendigo",
+      "level": 70,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/76710?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Ashmane Clefthoof",
+        "id": 76710
+      },
+      "slot": 11,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/54590?namespace=static-10.1.7_51059-us"
+        },
+        "id": 54590
+      }
+    },
+    {
+      "name": "Mara",
+      "level": 70,
+      "creature": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/creature/196913?namespace=static-10.1.7_51059-us"
+        },
+        "name": "Mara'nar the Thunderous",
+        "id": 196913
+      },
+      "slot": 4,
+      "is_active": true,
+      "creature_display": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/creature-display/109372?namespace=static-10.1.7_51059-us"
+        },
+        "id": 109372
+      }
+    }
+  ]
+}

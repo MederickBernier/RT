@@ -1,0 +1,2489 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/user/wow?namespace=profile-us"
+    },
+    "user": {
+      "href": "https://us.api.blizzard.com/profile/user"
+    },
+    "profile": {
+      "href": "https://us.api.blizzard.com/profile/user/wow?namespace=profile-us"
+    }
+  },
+  "id": 101342980,
+  "wow_accounts": [
+    {
+      "id": 19651933,
+      "characters": [
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/lightbringer/neiwa?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/1-120822821?namespace=profile-us"
+          },
+          "name": "Neiwa",
+          "id": 120822821,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1?namespace=dynamic-us"
+            },
+            "name": "Lightbringer",
+            "id": 1,
+            "slug": "lightbringer"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warrior",
+            "id": 1
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/25?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Pandaren",
+            "id": 25
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 40
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/synaestra?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-177771967?namespace=profile-us"
+          },
+          "name": "Synaestra",
+          "id": 177771967,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Demon Hunter",
+            "id": 12
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Night Elf",
+            "id": 4
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/sylmerya?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-178269961?namespace=profile-us"
+          },
+          "name": "Sylmerya",
+          "id": 178269961,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Hunter",
+            "id": 3
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Night Elf",
+            "id": 4
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/amyrona?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-180007373?namespace=profile-us"
+          },
+          "name": "Amyrona",
+          "id": 180007373,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mage",
+            "id": 8
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Draenei",
+            "id": 11
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/elymanta?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-181308214?namespace=profile-us"
+          },
+          "name": "Elymanta",
+          "id": 181308214,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Shaman",
+            "id": 7
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Draenei",
+            "id": 11
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/maeranya?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-187109275?namespace=profile-us"
+          },
+          "name": "Maeranya",
+          "id": 187109275,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Paladin",
+            "id": 2
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Draenei",
+            "id": 11
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 54
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/saribank?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-225146877?namespace=profile-us"
+          },
+          "name": "Saribank",
+          "id": 225146877,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Priest",
+            "id": 5
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 1
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/monera?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-241321687?namespace=profile-us"
+          },
+          "name": "Monera",
+          "id": 241321687,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Death Knight",
+            "id": 6
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/30?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Lightforged Draenei",
+            "id": 30
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/liare?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-242024566?namespace=profile-us"
+          },
+          "name": "Liare",
+          "id": 242024566,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Rogue",
+            "id": 4
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/arinaela?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-242730482?namespace=profile-us"
+          },
+          "name": "Arinaela",
+          "id": 242730482,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Druid",
+            "id": 11
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/32?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Kul Tiran",
+            "id": 32
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/sarisolea?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-244595825?namespace=profile-us"
+          },
+          "name": "Sarisolea",
+          "id": 244595825,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warlock",
+            "id": 9
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Void Elf",
+            "id": 29
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/sonite?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-244675872?namespace=profile-us"
+          },
+          "name": "Sonite",
+          "id": 244675872,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Demon Hunter",
+            "id": 12
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Night Elf",
+            "id": 4
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/opherite?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-244814764?namespace=profile-us"
+          },
+          "name": "Opherite",
+          "id": 244814764,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Monk",
+            "id": 10
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/maranzya?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-245037386?namespace=profile-us"
+          },
+          "name": "Maranzya",
+          "id": 245037386,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Priest",
+            "id": 5
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Void Elf",
+            "id": 29
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/neiwa?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-245304195?namespace=profile-us"
+          },
+          "name": "Neiwa",
+          "id": 245304195,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warrior",
+            "id": 1
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/25?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Pandaren",
+            "id": 25
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/cornaym?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-245732014?namespace=profile-us"
+          },
+          "name": "Cornaym",
+          "id": 245732014,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Paladin",
+            "id": 2
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/34?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Dark Iron Dwarf",
+            "id": 34
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 49
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/shanhir?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-246334867?namespace=profile-us"
+          },
+          "name": "Shanhir",
+          "id": 246334867,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mage",
+            "id": 8
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/25?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Pandaren",
+            "id": 25
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 12
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/jargyen?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-246512680?namespace=profile-us"
+          },
+          "name": "Jargyen",
+          "id": 246512680,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Paladin",
+            "id": 2
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Dwarf",
+            "id": 3
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 23
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/tanadorisa?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-247001094?namespace=profile-us"
+          },
+          "name": "Tanadorisa",
+          "id": 247001094,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warrior",
+            "id": 1
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Void Elf",
+            "id": 29
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 50
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/stormrage/eldarane?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/60-247336797?namespace=profile-us"
+          },
+          "name": "Eldarane",
+          "id": 247336797,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "name": "Stormrage",
+            "id": 60,
+            "slug": "stormrage"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Demon Hunter",
+            "id": 12
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Night Elf",
+            "id": 4
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 15
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/durnkalok?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-165488769?namespace=profile-us"
+          },
+          "name": "Durnkalok",
+          "id": 165488769,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Shaman",
+            "id": 7
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Troll",
+            "id": 8
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 53
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/brokenbrain?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-189835973?namespace=profile-us"
+          },
+          "name": "Brokenbrain",
+          "id": 189835973,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Monk",
+            "id": 10
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 50
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/koongar?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-192923097?namespace=profile-us"
+          },
+          "name": "Koongar",
+          "id": 192923097,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Hunter",
+            "id": 3
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Orc",
+            "id": 2
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/velyza?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-201229878?namespace=profile-us"
+          },
+          "name": "Velyza",
+          "id": 201229878,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Rogue",
+            "id": 4
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 50
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/maeranya?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-201698032?namespace=profile-us"
+          },
+          "name": "Maeranya",
+          "id": 201698032,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Paladin",
+            "id": 2
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/30?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Lightforged Draenei",
+            "id": 30
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 67
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/sanaomira?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-201851358?namespace=profile-us"
+          },
+          "name": "Sanaomira",
+          "id": 201851358,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Shaman",
+            "id": 7
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/32?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Kul Tiran",
+            "id": 32
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 57
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/sylmerya?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-203626384?namespace=profile-us"
+          },
+          "name": "Sylmerya",
+          "id": 203626384,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Demon Hunter",
+            "id": 12
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Night Elf",
+            "id": 4
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 51
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/amyrona?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-207050917?namespace=profile-us"
+          },
+          "name": "Amyrona",
+          "id": 207050917,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mage",
+            "id": 8
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Void Elf",
+            "id": 29
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 50
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/trelnik?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-216045522?namespace=profile-us"
+          },
+          "name": "Trelnik",
+          "id": 216045522,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Paladin",
+            "id": 2
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Zandalari Troll",
+            "id": 31
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/lanada?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-236213600?namespace=profile-us"
+          },
+          "name": "Lanada",
+          "id": 236213600,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Rogue",
+            "id": 4
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood Elf",
+            "id": 10
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/arkhenos?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-243642390?namespace=profile-us"
+          },
+          "name": "Arkhenos",
+          "id": 243642390,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mage",
+            "id": 8
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 24
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/lohdis?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-244339827?namespace=profile-us"
+          },
+          "name": "Lohdis",
+          "id": 244339827,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warrior",
+            "id": 1
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Zandalari Troll",
+            "id": 31
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 54
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/maranzya?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-244456420?namespace=profile-us"
+          },
+          "name": "Maranzya",
+          "id": 244456420,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Priest",
+            "id": 5
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/26?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Pandaren",
+            "id": 26
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/sarifarm?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-247895421?namespace=profile-us"
+          },
+          "name": "Sarifarm",
+          "id": 247895421,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Druid",
+            "id": 11
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 50
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/sarinature?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-247895426?namespace=profile-us"
+          },
+          "name": "Sarinature",
+          "id": 247895426,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Druid",
+            "id": 11
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/28?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Highmountain Tauren",
+            "id": 28
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 50
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/arnyn?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-248147178?namespace=profile-us"
+          },
+          "name": "Arnyn",
+          "id": 248147178,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Demon Hunter",
+            "id": 12
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood Elf",
+            "id": 10
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 22
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/urogan?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-248519640?namespace=profile-us"
+          },
+          "name": "Urogan",
+          "id": 248519640,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Monk",
+            "id": 10
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/34?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Dark Iron Dwarf",
+            "id": 34
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/erixie?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-248695025?namespace=profile-us"
+          },
+          "name": "Erixie",
+          "id": 248695025,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Rogue",
+            "id": 4
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/7?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Gnome",
+            "id": 7
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 65
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/arnae?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-248725369?namespace=profile-us"
+          },
+          "name": "Arnae",
+          "id": 248725369,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Priest",
+            "id": 5
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/25?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Pandaren",
+            "id": 25
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 40
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/samichi?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-248738954?namespace=profile-us"
+          },
+          "name": "Samichi",
+          "id": 248738954,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Death Knight",
+            "id": 6
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/25?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Pandaren",
+            "id": 25
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/sonite?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-248738958?namespace=profile-us"
+          },
+          "name": "Sonite",
+          "id": 248738958,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Demon Hunter",
+            "id": 12
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Night Elf",
+            "id": 4
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/tassane?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-248863923?namespace=profile-us"
+          },
+          "name": "Tassane",
+          "id": 248863923,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Hunter",
+            "id": 3
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 60
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/nastana?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-248999144?namespace=profile-us"
+          },
+          "name": "Nastana",
+          "id": 248999144,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mage",
+            "id": 8
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Void Elf",
+            "id": 29
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 40
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elymanta?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-250479582?namespace=profile-us"
+          },
+          "name": "Elymanta",
+          "id": 250479582,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Shaman",
+            "id": 7
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Draenei",
+            "id": 11
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/meddyna?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-250951669?namespace=profile-us"
+          },
+          "name": "Meddyna",
+          "id": 250951669,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Priest",
+            "id": 5
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Void Elf",
+            "id": 29
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 19
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/syath?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251278560?namespace=profile-us"
+          },
+          "name": "Syath",
+          "id": 251278560,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/13?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Evoker",
+            "id": 13
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Dracthyr",
+            "id": 70
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/hinno?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251310468?namespace=profile-us"
+          },
+          "name": "Hinno",
+          "id": 251310468,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mage",
+            "id": 8
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Troll",
+            "id": 8
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251342959?namespace=profile-us"
+          },
+          "name": "Elunarÿa",
+          "id": 251342959,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Druid",
+            "id": 11
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/hanrul?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251419918?namespace=profile-us"
+          },
+          "name": "Hanrul",
+          "id": 251419918,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warrior",
+            "id": 1
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/28?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Highmountain Tauren",
+            "id": 28
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 50
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/haktan?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251462629?namespace=profile-us"
+          },
+          "name": "Haktan",
+          "id": 251462629,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warrior",
+            "id": 1
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/28?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Highmountain Tauren",
+            "id": 28
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/tanuk%C3%AC?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251665169?namespace=profile-us"
+          },
+          "name": "Tanukì",
+          "id": 251665169,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Priest",
+            "id": 5
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Vulpera",
+            "id": 35
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 30
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/synaestra?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251727595?namespace=profile-us"
+          },
+          "name": "Synaestra",
+          "id": 251727595,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warlock",
+            "id": 9
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Goblin",
+            "id": 9
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/selyntha?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251777741?namespace=profile-us"
+          },
+          "name": "Selyntha",
+          "id": 251777741,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Death Knight",
+            "id": 6
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood Elf",
+            "id": 10
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 54
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/narakai?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251807536?namespace=profile-us"
+          },
+          "name": "Narakai",
+          "id": 251807536,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Shaman",
+            "id": 7
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/36?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mag'har Orc",
+            "id": 36
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/narailyn?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251807564?namespace=profile-us"
+          },
+          "name": "Narailyn",
+          "id": 251807564,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Demon Hunter",
+            "id": 12
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood Elf",
+            "id": 10
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/sannie?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-252249067?namespace=profile-us"
+          },
+          "name": "Sannie",
+          "id": 252249067,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Monk",
+            "id": 10
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood Elf",
+            "id": 10
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/fierybeef?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-253068299?namespace=profile-us"
+          },
+          "name": "Fierybeef",
+          "id": 253068299,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mage",
+            "id": 8
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "gender": {
+            "type": "MALE",
+            "name": "Male"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 23
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/saruli?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-255141684?namespace=profile-us"
+          },
+          "name": "Saruli",
+          "id": 255141684,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Warrior",
+            "id": 1
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Vulpera",
+            "id": 35
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 40
+        },
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/scarletmyst?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-255517159?namespace=profile-us"
+          },
+          "name": "Scarletmyst",
+          "id": 255517159,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "name": "Zul'jin",
+            "id": 61,
+            "slug": "zuljin"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Death Knight",
+            "id": 6
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/26?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Pandaren",
+            "id": 26
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "HORDE",
+            "name": "Horde"
+          },
+          "level": 70
+        }
+      ]
+    },
+    {
+      "id": 47892825,
+      "characters": [
+        {
+          "character": {
+            "href": "https://us.api.blizzard.com/profile/wow/character/lightbringer/zepiaatyce?namespace=profile-us"
+          },
+          "protected_character": {
+            "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/1-125669038?namespace=profile-us"
+          },
+          "name": "Zepiaatyce",
+          "id": 125669038,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1?namespace=dynamic-us"
+            },
+            "name": "Lightbringer",
+            "id": 1,
+            "slug": "lightbringer"
+          },
+          "playable_class": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Shaman",
+            "id": 7
+          },
+          "playable_race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/11?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Draenei",
+            "id": 11
+          },
+          "gender": {
+            "type": "FEMALE",
+            "name": "Female"
+          },
+          "faction": {
+            "type": "ALLIANCE",
+            "name": "Alliance"
+          },
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "collections": {
+    "href": "https://us.api.blizzard.com/profile/user/wow/collections?namespace=profile-us"
+  }
+}

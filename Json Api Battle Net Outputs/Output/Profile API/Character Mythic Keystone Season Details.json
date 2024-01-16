@@ -1,0 +1,1551 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/mythic-keystone-profile/season/11?namespace=profile-us"
+    }
+  },
+  "season": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/season/11?namespace=dynamic-us"
+    },
+    "id": 11
+  },
+  "best_runs": [
+    {
+      "completed_timestamp": 1701583203000,
+      "duration": 1074549,
+      "keystone_level": 10,
+      "keystone_affixes": [
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Fortified",
+          "id": 10
+        },
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Volcanic",
+          "id": 3
+        }
+      ],
+      "members": [
+        {
+          "character": {
+            "name": "Nyteshades",
+            "id": 222658957,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/57?namespace=dynamic-us"
+              },
+              "id": 57,
+              "slug": "illidan"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Outlaw",
+            "id": 260
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "equipped_item_level": 376
+        },
+        {
+          "character": {
+            "name": "Glistening",
+            "id": 239657884,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/59?namespace=dynamic-us"
+              },
+              "id": 59,
+              "slug": "malganis"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Balance",
+            "id": 102
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Troll",
+            "id": 8
+          },
+          "equipped_item_level": 428
+        },
+        {
+          "character": {
+            "name": "Elunarÿa",
+            "id": 251342959,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Restoration",
+            "id": 105
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "equipped_item_level": 449
+        },
+        {
+          "character": {
+            "name": "Tookss",
+            "id": 158160726,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/57?namespace=dynamic-us"
+              },
+              "id": 57,
+              "slug": "illidan"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Vengeance",
+            "id": 581
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood Elf",
+            "id": 10
+          },
+          "equipped_item_level": 436
+        },
+        {
+          "character": {
+            "name": "Oogityy",
+            "id": 160486098,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/57?namespace=dynamic-us"
+              },
+              "id": 57,
+              "slug": "illidan"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Beast Mastery",
+            "id": 253
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Troll",
+            "id": 8
+          },
+          "equipped_item_level": 475
+        }
+      ],
+      "dungeon": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/244?namespace=dynamic-us"
+        },
+        "name": "Atal'Dazar",
+        "id": 244
+      },
+      "is_completed_within_time": true,
+      "mythic_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 95
+      },
+      "map_rating": {
+        "color": {
+          "r": 30,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        },
+        "rating": 185
+      }
+    },
+    {
+      "completed_timestamp": 1701621305000,
+      "duration": 931957,
+      "keystone_level": 10,
+      "keystone_affixes": [
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Fortified",
+          "id": 10
+        },
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Volcanic",
+          "id": 3
+        }
+      ],
+      "members": [
+        {
+          "character": {
+            "name": "Italiansauce",
+            "id": 253459504,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+              },
+              "id": 60,
+              "slug": "stormrage"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Holy",
+            "id": 257
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "equipped_item_level": 448
+        },
+        {
+          "character": {
+            "name": "Ungreased",
+            "id": 255874078,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+              },
+              "id": 60,
+              "slug": "stormrage"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Beast Mastery",
+            "id": 253
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "equipped_item_level": 463
+        },
+        {
+          "character": {
+            "name": "Assunta",
+            "id": 241749312,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+              },
+              "id": 5,
+              "slug": "proudmoore"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Subtlety",
+            "id": 261
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Night Elf",
+            "id": 4
+          },
+          "equipped_item_level": 440
+        },
+        {
+          "character": {
+            "name": "Elunarÿa",
+            "id": 251342959,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Guardian",
+            "id": 104
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "equipped_item_level": 452
+        },
+        {
+          "character": {
+            "name": "Mistrmayhem",
+            "id": 255879405,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+              },
+              "id": 60,
+              "slug": "stormrage"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Destruction",
+            "id": 267
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/34?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Dark Iron Dwarf",
+            "id": 34
+          },
+          "equipped_item_level": 468
+        }
+      ],
+      "dungeon": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/168?namespace=dynamic-us"
+        },
+        "name": "The Everbloom",
+        "id": 168
+      },
+      "is_completed_within_time": true,
+      "mythic_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 95
+      },
+      "map_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 189.90182
+      }
+    },
+    {
+      "completed_timestamp": 1701832847000,
+      "duration": 1247727,
+      "keystone_level": 11,
+      "keystone_affixes": [
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Tyrannical",
+          "id": 9
+        },
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Storming",
+          "id": 124
+        }
+      ],
+      "members": [
+        {
+          "character": {
+            "name": "Dezergve",
+            "id": 251494752,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood",
+            "id": 250
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "equipped_item_level": 445
+        },
+        {
+          "character": {
+            "name": "Whatuplol",
+            "id": 228318341,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1563?namespace=dynamic-us"
+              },
+              "id": 1563,
+              "slug": "terokkar"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Assassination",
+            "id": 259
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "equipped_item_level": 451
+        },
+        {
+          "character": {
+            "name": "Chaosrickmag",
+            "id": 99654062,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Arcane",
+            "id": 62
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Void Elf",
+            "id": 29
+          },
+          "equipped_item_level": 473
+        },
+        {
+          "character": {
+            "name": "Elunarÿa",
+            "id": 251342959,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Restoration",
+            "id": 105
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "equipped_item_level": 455
+        },
+        {
+          "character": {
+            "name": "Kanikawn",
+            "id": 252613829,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Arms",
+            "id": 71
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Vulpera",
+            "id": 35
+          },
+          "equipped_item_level": 453
+        }
+      ],
+      "dungeon": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/248?namespace=dynamic-us"
+        },
+        "name": "Waycrest Manor",
+        "id": 248
+      },
+      "is_completed_within_time": true,
+      "mythic_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 102
+      },
+      "map_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 200.5
+      }
+    },
+    {
+      "completed_timestamp": 1701831184000,
+      "duration": 1225436,
+      "keystone_level": 11,
+      "keystone_affixes": [
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Tyrannical",
+          "id": 9
+        },
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Storming",
+          "id": 124
+        }
+      ],
+      "members": [
+        {
+          "character": {
+            "name": "Alinissavia",
+            "id": 204733640,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mistweaver",
+            "id": 270
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Void Elf",
+            "id": 29
+          },
+          "equipped_item_level": 436
+        },
+        {
+          "character": {
+            "name": "Idezergve",
+            "id": 255385547,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Beast Mastery",
+            "id": 253
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "equipped_item_level": 457
+        },
+        {
+          "character": {
+            "name": "Whatuplol",
+            "id": 228318341,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1563?namespace=dynamic-us"
+              },
+              "id": 1563,
+              "slug": "terokkar"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Assassination",
+            "id": 259
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "equipped_item_level": 451
+        },
+        {
+          "character": {
+            "name": "Elunarÿa",
+            "id": 251342959,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Guardian",
+            "id": 104
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "equipped_item_level": 462
+        },
+        {
+          "character": {
+            "name": "Kanikawn",
+            "id": 252613829,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Arms",
+            "id": 71
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Vulpera",
+            "id": 35
+          },
+          "equipped_item_level": 453
+        }
+      ],
+      "dungeon": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/456?namespace=dynamic-us"
+        },
+        "name": "Throne of the Tides",
+        "id": 456
+      },
+      "is_completed_within_time": true,
+      "mythic_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 101.9912
+      },
+      "map_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 200.48682
+      }
+    },
+    {
+      "completed_timestamp": 1701922138000,
+      "duration": 1605356,
+      "keystone_level": 11,
+      "keystone_affixes": [
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Tyrannical",
+          "id": 9
+        },
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Storming",
+          "id": 124
+        }
+      ],
+      "members": [
+        {
+          "character": {
+            "name": "Xeagkrik",
+            "id": 250411350,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Preservation",
+            "id": 1468
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Dracthyr",
+            "id": 70
+          },
+          "equipped_item_level": 447
+        },
+        {
+          "character": {
+            "name": "Elunarÿa",
+            "id": 251342959,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Guardian",
+            "id": 104
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "equipped_item_level": 463
+        },
+        {
+          "character": {
+            "name": "Whatuplol",
+            "id": 228318341,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1563?namespace=dynamic-us"
+              },
+              "id": 1563,
+              "slug": "terokkar"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Assassination",
+            "id": 259
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "equipped_item_level": 452
+        },
+        {
+          "character": {
+            "name": "Idezergve",
+            "id": 255385547,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Beast Mastery",
+            "id": 253
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "equipped_item_level": 461
+        },
+        {
+          "character": {
+            "name": "Kanikawn",
+            "id": 252613829,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Arms",
+            "id": 71
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Vulpera",
+            "id": 35
+          },
+          "equipped_item_level": 461
+        }
+      ],
+      "dungeon": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/464?namespace=dynamic-us"
+        },
+        "name": "Dawn of the Infinite: Murozond's Rise",
+        "id": 464
+      },
+      "is_completed_within_time": true,
+      "mythic_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 100.20975
+      },
+      "map_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 197.5794
+      }
+    },
+    {
+      "completed_timestamp": 1701614463000,
+      "duration": 987098,
+      "keystone_level": 10,
+      "keystone_affixes": [
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Fortified",
+          "id": 10
+        },
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Volcanic",
+          "id": 3
+        }
+      ],
+      "members": [
+        {
+          "character": {
+            "name": "Caliaan",
+            "id": 214134852,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Discipline",
+            "id": 256
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Human",
+            "id": 1
+          },
+          "equipped_item_level": 448
+        },
+        {
+          "character": {
+            "name": "Elunarÿa",
+            "id": 251342959,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Guardian",
+            "id": 104
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "equipped_item_level": 451
+        },
+        {
+          "character": {
+            "name": "Irraysong",
+            "id": 213621173,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/73?namespace=dynamic-us"
+              },
+              "id": 73,
+              "slug": "bleeding-hollow"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Frost",
+            "id": 64
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood Elf",
+            "id": 10
+          },
+          "equipped_item_level": 447
+        },
+        {
+          "character": {
+            "name": "Sunweaver",
+            "id": 191799784,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Windwalker",
+            "id": 269
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/36?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Mag'har Orc",
+            "id": 36
+          },
+          "equipped_item_level": 432
+        },
+        {
+          "character": {
+            "name": "Buffs",
+            "id": 240065184,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/91?namespace=dynamic-us"
+              },
+              "id": 91,
+              "slug": "burning-blade"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Augmentation",
+            "id": 1473
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Dracthyr",
+            "id": 70
+          },
+          "equipped_item_level": 450
+        }
+      ],
+      "dungeon": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/198?namespace=dynamic-us"
+        },
+        "name": "Darkheart Thicket",
+        "id": 198
+      },
+      "is_completed_within_time": true,
+      "mythic_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 95
+      },
+      "map_rating": {
+        "color": {
+          "r": 30,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        },
+        "rating": 185
+      }
+    },
+    {
+      "completed_timestamp": 1701836605000,
+      "duration": 1397993,
+      "keystone_level": 12,
+      "keystone_affixes": [
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Tyrannical",
+          "id": 9
+        },
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Storming",
+          "id": 124
+        }
+      ],
+      "members": [
+        {
+          "character": {
+            "name": "Elunarÿa",
+            "id": 251342959,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Restoration",
+            "id": 105
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "equipped_item_level": 458
+        },
+        {
+          "character": {
+            "name": "Whatuplol",
+            "id": 228318341,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1563?namespace=dynamic-us"
+              },
+              "id": 1563,
+              "slug": "terokkar"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Assassination",
+            "id": 259
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "equipped_item_level": 451
+        },
+        {
+          "character": {
+            "name": "Dezergve",
+            "id": 251494752,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood",
+            "id": 250
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Undead",
+            "id": 5
+          },
+          "equipped_item_level": 447
+        },
+        {
+          "character": {
+            "name": "Sparkplug",
+            "id": 236950543,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1285?namespace=dynamic-us"
+              },
+              "id": 1285,
+              "slug": "onyxia"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Enhancement",
+            "id": 263
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/28?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Highmountain Tauren",
+            "id": 28
+          },
+          "equipped_item_level": 473
+        },
+        {
+          "character": {
+            "name": "Kanikawn",
+            "id": 252613829,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Arms",
+            "id": 71
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Vulpera",
+            "id": 35
+          },
+          "equipped_item_level": 454
+        }
+      ],
+      "dungeon": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/199?namespace=dynamic-us"
+        },
+        "name": "Black Rook Hold",
+        "id": 199
+      },
+      "is_completed_within_time": true,
+      "mythic_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 108.40976
+      },
+      "map_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 210.11464
+      }
+    },
+    {
+      "completed_timestamp": 1701712003000,
+      "duration": 1098867,
+      "keystone_level": 10,
+      "keystone_affixes": [
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Fortified",
+          "id": 10
+        },
+        {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Volcanic",
+          "id": 3
+        }
+      ],
+      "members": [
+        {
+          "character": {
+            "name": "Ómeusmamilos",
+            "id": 167704192,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1566?namespace=dynamic-us"
+              },
+              "id": 1566,
+              "slug": "area-52"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Restoration",
+            "id": 264
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Orc",
+            "id": 2
+          },
+          "equipped_item_level": 442
+        },
+        {
+          "character": {
+            "name": "Zalvis",
+            "id": 159443327,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1566?namespace=dynamic-us"
+              },
+              "id": 1566,
+              "slug": "area-52"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/252?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Unholy",
+            "id": 252
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Blood Elf",
+            "id": 10
+          },
+          "equipped_item_level": 437
+        },
+        {
+          "character": {
+            "name": "Butterpoopz",
+            "id": 232144963,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1566?namespace=dynamic-us"
+              },
+              "id": 1566,
+              "slug": "area-52"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Fury",
+            "id": 72
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Troll",
+            "id": 8
+          },
+          "equipped_item_level": 449
+        },
+        {
+          "character": {
+            "name": "Elunarÿa",
+            "id": 251342959,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+              },
+              "id": 61,
+              "slug": "zuljin"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Guardian",
+            "id": 104
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Tauren",
+            "id": 6
+          },
+          "equipped_item_level": 455
+        },
+        {
+          "character": {
+            "name": "Sporkee",
+            "id": 237519696,
+            "realm": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/realm/1566?namespace=dynamic-us"
+              },
+              "id": 1566,
+              "slug": "area-52"
+            }
+          },
+          "specialization": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Balance",
+            "id": 102
+          },
+          "race": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Zandalari Troll",
+            "id": 31
+          },
+          "equipped_item_level": 460
+        }
+      ],
+      "dungeon": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/463?namespace=dynamic-us"
+        },
+        "name": "Dawn of the Infinite: Galakrond's Fall",
+        "id": 463
+      },
+      "is_completed_within_time": true,
+      "mythic_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 95
+      },
+      "map_rating": {
+        "color": {
+          "r": 0,
+          "g": 112,
+          "b": 221,
+          "a": 1
+        },
+        "rating": 190
+      }
+    }
+  ],
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "mythic_rating": {
+    "color": {
+      "r": 30,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    },
+    "rating": 1558.5828
+  }
+}

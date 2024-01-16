@@ -1,0 +1,176 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/journal-expansion/74?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 74,
+  "name": "Mists of Pandaria",
+  "dungeons": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/303?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Gate of the Setting Sun",
+      "id": 303
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/321?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Mogu'shan Palace",
+      "id": 321
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/311?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Scarlet Halls",
+      "id": 311
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/316?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Scarlet Monastery",
+      "id": 316
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/246?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Scholomance",
+      "id": 246
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/312?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Shado-Pan Monastery",
+      "id": 312
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/324?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Siege of Niuzao Temple",
+      "id": 324
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/302?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Stormstout Brewery",
+      "id": 302
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/313?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Temple of the Jade Serpent",
+      "id": 313
+    }
+  ],
+  "raids": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/317?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Mogu'shan Vaults",
+      "id": 317
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/330?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Heart of Fear",
+      "id": 330
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/320?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Terrace of Endless Spring",
+      "id": 320
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/362?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Throne of Thunder",
+      "id": 362
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-instance/369?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Siege of Orgrimmar",
+      "id": 369
+    }
+  ],
+  "world_bosses": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/725?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Salyis's Warband",
+      "id": 725
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/691?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Sha of Anger",
+      "id": 691
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/814?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Nalak, The Storm Lord",
+      "id": 814
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/826?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Oondasta",
+      "id": 826
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/857?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Chi-Ji, The Red Crane",
+      "id": 857
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/858?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Yu'lon, The Jade Serpent",
+      "id": 858
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/859?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Niuzao, The Black Ox",
+      "id": 859
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/860?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Xuen, The White Tiger",
+      "id": 860
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/journal-encounter/861?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Ordos, Fire-God of the Yaungol",
+      "id": 861
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/collections?namespace=profile-us"
+    }
+  },
+  "pets": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/collections/pets?namespace=profile-us"
+  },
+  "mounts": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/collections/mounts?namespace=profile-us"
+  },
+  "heirlooms": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/collections/heirlooms?namespace=profile-us"
+  },
+  "toys": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/collections/toys?namespace=profile-us"
+  },
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "transmogs": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/collections/transmogs?namespace=profile-us"
+  }
+}

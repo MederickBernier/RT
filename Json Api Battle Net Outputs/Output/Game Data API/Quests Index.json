@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/quest/?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "categories": {
+    "href": "https://us.api.blizzard.com/data/wow/quest/category/?namespace=static-10.2.0_51825-us"
+  },
+  "areas": {
+    "href": "https://us.api.blizzard.com/data/wow/quest/area/?namespace=static-10.2.0_51825-us"
+  },
+  "types": {
+    "href": "https://us.api.blizzard.com/data/wow/quest/type/?namespace=static-10.2.0_51825-us"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/reputation-tiers/2?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 2,
+  "tiers": [
+    {
+      "name": "Stranger",
+      "min_value": 0,
+      "max_value": 8400,
+      "id": 0
+    },
+    {
+      "name": "Acquaintance",
+      "min_value": 8400,
+      "max_value": 16800,
+      "id": 1
+    },
+    {
+      "name": "Buddy",
+      "min_value": 16800,
+      "max_value": 25200,
+      "id": 2
+    },
+    {
+      "name": "Friend",
+      "min_value": 25200,
+      "max_value": 33600,
+      "id": 3
+    },
+    {
+      "name": "Good Friend",
+      "min_value": 33600,
+      "max_value": 42000,
+      "id": 4
+    },
+    {
+      "name": "Best Friend",
+      "min_value": 42000,
+      "max_value": 42000,
+      "id": 5
+    }
+  ],
+  "faction": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/reputation-faction/1283?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Farmer Fung",
+    "id": 1283
+  }
+}

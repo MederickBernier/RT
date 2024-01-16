@@ -1,0 +1,14 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/media/guild-crest/emblem/0?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "assets": [
+    {
+      "key": "image",
+      "value": "https://render.worldofwarcraft.com/us/guild/tabards/emblem_00.png"
+    }
+  ],
+  "id": 0
+}

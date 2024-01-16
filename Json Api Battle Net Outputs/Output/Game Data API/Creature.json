@@ -1,0 +1,32 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/creature/42722?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 42722,
+  "name": "Young Mastiff",
+  "type": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/creature-type/1?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Beast",
+    "id": 1
+  },
+  "family": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/creature-family/52?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Hound",
+    "id": 52
+  },
+  "creature_displays": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/creature-display/30221?namespace=static-10.2.0_51825-us"
+      },
+      "id": 30221
+    }
+  ],
+  "is_tameable": true
+}

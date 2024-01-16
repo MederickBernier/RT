@@ -1,0 +1,138 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    }
+  },
+  "id": 251342959,
+  "name": "Elunarÿa",
+  "gender": {
+    "type": "FEMALE",
+    "name": "Female"
+  },
+  "faction": {
+    "type": "HORDE",
+    "name": "Horde"
+  },
+  "race": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Tauren",
+    "id": 6
+  },
+  "character_class": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Druid",
+    "id": 11
+  },
+  "active_spec": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Guardian",
+    "id": 104
+  },
+  "realm": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+    },
+    "name": "Zul'jin",
+    "id": 61,
+    "slug": "zuljin"
+  },
+  "guild": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/guild/zuljin/no-drama-kiing?namespace=profile-us"
+    },
+    "name": "No Drama Kiing",
+    "id": 85985545,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    },
+    "faction": {
+      "type": "HORDE",
+      "name": "Horde"
+    }
+  },
+  "level": 70,
+  "experience": 0,
+  "achievement_points": 22865,
+  "achievements": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/achievements?namespace=profile-us"
+  },
+  "titles": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/titles?namespace=profile-us"
+  },
+  "pvp_summary": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/pvp-summary?namespace=profile-us"
+  },
+  "encounters": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/encounters?namespace=profile-us"
+  },
+  "media": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/character-media?namespace=profile-us"
+  },
+  "last_login_timestamp": 1701947642000,
+  "average_item_level": 463,
+  "equipped_item_level": 463,
+  "specializations": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/specializations?namespace=profile-us"
+  },
+  "statistics": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/statistics?namespace=profile-us"
+  },
+  "mythic_keystone_profile": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/mythic-keystone-profile?namespace=profile-us"
+  },
+  "equipment": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/equipment?namespace=profile-us"
+  },
+  "appearance": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/appearance?namespace=profile-us"
+  },
+  "collections": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/collections?namespace=profile-us"
+  },
+  "active_title": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/title/327?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Archdruid",
+    "id": 327,
+    "display_string": "Archdruid {name}"
+  },
+  "reputations": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/reputations?namespace=profile-us"
+  },
+  "quests": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/quests?namespace=profile-us"
+  },
+  "achievements_statistics": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/achievements/statistics?namespace=profile-us"
+  },
+  "professions": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/professions?namespace=profile-us"
+  },
+  "covenant_progress": {
+    "chosen_covenant": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/covenant/3?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Night Fae",
+      "id": 3
+    },
+    "renown_level": 80,
+    "soulbinds": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/soulbinds?namespace=profile-us"
+    }
+  },
+  "name_search": "Elunarÿa"
+}

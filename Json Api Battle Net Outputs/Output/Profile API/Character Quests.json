@@ -1,0 +1,125 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/quests?namespace=profile-us"
+    }
+  },
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "in_progress": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/70501?namespace=static-10.2.0_51825-us"
+      },
+      "name": "License to Hunt",
+      "id": 70501
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/72664?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Eggs in Abundance",
+      "id": 72664
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/75694?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Aberrus, the Shadowed Crucible: Sarkareth",
+      "id": 75694
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/70995?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Wanted: Fenistrasza's Skull",
+      "id": 70995
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/71005?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Wanted: Fangfall",
+      "id": 71005
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/75887?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Fyrakk's Forces",
+      "id": 75887
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/72291?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Story of a Memorable Victory",
+      "id": 72291
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/72292?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Story of a Spectacular Victory",
+      "id": 72292
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/75665?namespace=static-10.2.0_51825-us"
+      },
+      "name": "A Worthy Ally: Loamm Niffen",
+      "id": 75665
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/76402?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Amirdrassil, the Dream's Hope: Fyrakk",
+      "id": 76402
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/76592?namespace=static-10.2.0_51825-us"
+      },
+      "name": "A Single Wing",
+      "id": 76592
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/77933?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Bubbling Discoveries",
+      "id": 77933
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/77341?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Logotyrapy",
+      "id": 77341
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/quest/78821?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Blooming Dreamseeds",
+      "id": 78821
+    }
+  ],
+  "completed": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/quests/completed?namespace=profile-us"
+  }
+}

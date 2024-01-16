@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/reputation-faction/21?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 21,
+  "name": "Booty Bay",
+  "description": "This booming coastal city is run by Baron Revilgaz of the Blackwater Raiders.  Mortal enemies of the Bloodsail Buccaneers and part of the Steamwheedle Cartel.",
+  "reputation_tiers": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/reputation-tiers/0?namespace=static-10.2.0_51825-us"
+    },
+    "id": 0
+  }
+}

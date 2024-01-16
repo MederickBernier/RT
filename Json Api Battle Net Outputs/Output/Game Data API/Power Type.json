@@ -1,0 +1,9 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/power-type/12?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 12,
+  "name": "Chi"
+}

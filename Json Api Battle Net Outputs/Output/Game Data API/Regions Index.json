@@ -1,0 +1,12 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/region/?namespace=dynamic-us"
+    }
+  },
+  "regions": [
+    {
+      "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+    }
+  ]
+}

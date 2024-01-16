@@ -1,0 +1,16 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/keystone-affix/1?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 1,
+  "name": "Overflowing",
+  "description": "Healing in excess of a target's maximum health is instead converted to a heal absorption effect.",
+  "media": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/media/keystone-affix/1?namespace=static-10.2.0_51825-us"
+    },
+    "id": 1
+  }
+}

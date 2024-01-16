@@ -1,0 +1,26 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/toy/30?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 30,
+  "item": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/item/33079?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Murloc Costume",
+    "id": 33079
+  },
+  "source": {
+    "type": "PROMOTION",
+    "name": "Promotion"
+  },
+  "should_exclude_if_uncollected": true,
+  "media": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/media/item/33079?namespace=static-10.2.0_51825-us"
+    },
+    "id": 33079
+  }
+}

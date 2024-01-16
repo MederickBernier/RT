@@ -1,0 +1,543 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/titles?namespace=profile-us"
+    }
+  },
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "active_title": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/title/327?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Archdruid",
+    "id": 327,
+    "display_string": "Archdruid {name}"
+  },
+  "titles": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/42?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Seeker",
+      "id": 42
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/46?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Exalted",
+      "id": 46
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/47?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Explorer",
+      "id": 47
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/53?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Crashin' Thrashin'",
+      "id": 53
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/89?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Twilight Vanquisher",
+      "id": 89
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/97?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Champion of the Frozen Wastes",
+      "id": 97
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/98?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Ambassador",
+      "id": 98
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/99?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Argent Champion",
+      "id": 99
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/101?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Brewmaster",
+      "id": 101
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/107?namespace=static-10.2.0_51825-us"
+      },
+      "name": "of the Nightfall",
+      "id": 107
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/110?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Jenkins",
+      "id": 110
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/121?namespace=static-10.2.0_51825-us"
+      },
+      "name": "of the Undercity",
+      "id": 121
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/129?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Starcaller",
+      "id": 129
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/130?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Astral Walker",
+      "id": 130
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/137?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Patient",
+      "id": 137
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/138?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Light of Dawn",
+      "id": 138
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/139?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Bane of the Fallen King",
+      "id": 139
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/140?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Kingslayer",
+      "id": 140
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/141?namespace=static-10.2.0_51825-us"
+      },
+      "name": "of the Ashen Verdict",
+      "id": 141
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/148?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Assistant Professor",
+      "id": 148
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/149?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Associate Professor",
+      "id": 149
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/151?namespace=static-10.2.0_51825-us"
+      },
+      "name": "of the Four Winds",
+      "id": 151
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/185?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Defender of a Shattered World",
+      "id": 185
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/186?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Dragonslayer",
+      "id": 186
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/187?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Blackwing's Bane",
+      "id": 187
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/188?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Avenger of Hyjal",
+      "id": 188
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/190?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Firelord",
+      "id": 190
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/194?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Savior of Azeroth",
+      "id": 194
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/195?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Farmer",
+      "id": 195
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/196?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Destroyer's End",
+      "id": 196
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/197?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Beloved",
+      "id": 197
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/198?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Fearless",
+      "id": 198
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/202?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Master of the Ways",
+      "id": 202
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/203?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Tranquil Master",
+      "id": 203
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/204?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Delver of the Vaults",
+      "id": 204
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/212?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Liberator of Orgrimmar",
+      "id": 212
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/214?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Hellscream's Downfall",
+      "id": 214
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/215?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Proven Assailant",
+      "id": 215
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/216?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Proven Defender",
+      "id": 216
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/218?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Wakener",
+      "id": 218
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/219?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Proven Healer",
+      "id": 219
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/222?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Storm's End",
+      "id": 222
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/228?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Darkspear Revolutionary",
+      "id": 228
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/257?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Lumberjack",
+      "id": 257
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/258?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Timber Lord",
+      "id": 258
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/261?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Blood Champion",
+      "id": 261
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/279?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Talon Queen",
+      "id": 279
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/282?namespace=static-10.2.0_51825-us"
+      },
+      "name": "of the Frostwolves",
+      "id": 282
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/289?namespace=static-10.2.0_51825-us"
+      },
+      "name": "of the Iron Vanguard",
+      "id": 289
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/300?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Savage Hero",
+      "id": 300
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/301?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Ironbane",
+      "id": 301
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/304?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Empire's Twilight",
+      "id": 304
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/305?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Artisan",
+      "id": 305
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/306?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Legend of Pandaria",
+      "id": 306
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/319?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Defiler's End",
+      "id": 319
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/327?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Archdruid",
+      "id": 327
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/332?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Guardian of G'Hanir",
+      "id": 332
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/342?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Vengeance Incarnate",
+      "id": 342
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/343?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Gullible",
+      "id": 343
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/356?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Stylist",
+      "id": 356
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/357?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Darkener",
+      "id": 357
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/386?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Hero of Dazar'alor",
+      "id": 386
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/419?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Faceless One",
+      "id": 419
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/428?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Winter's Envoy",
+      "id": 428
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/438?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Spirestalker",
+      "id": 438
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/442?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Protector of the Weald",
+      "id": 442
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/475?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Intrepid Explorer",
+      "id": 475
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/477?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Thundering",
+      "id": 477
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/494?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Key Master",
+      "id": 494
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/498?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Reconciler",
+      "id": 498
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/503?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Smoldering",
+      "id": 503
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/516?namespace=static-10.2.0_51825-us"
+      },
+      "name": "of the Tyr's Guard",
+      "id": 516
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/title/517?namespace=static-10.2.0_51825-us"
+      },
+      "name": "the Dreaming",
+      "id": 517
+    }
+  ]
+}

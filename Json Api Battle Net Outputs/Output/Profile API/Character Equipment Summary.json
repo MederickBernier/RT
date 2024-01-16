@@ -1,0 +1,3166 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/equipment?namespace=profile-us"
+    }
+  },
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "equipped_items": [
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/207254?namespace=static-10.2.0_51825-us"
+        },
+        "id": 207254
+      },
+      "slot": {
+        "type": "HEAD",
+        "name": "Head"
+      },
+      "quantity": 1,
+      "context": 35,
+      "bonus_list": [
+        6652,
+        9600,
+        9639,
+        9513,
+        9565,
+        1501,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Benevolent Embersage's Casque",
+      "modified_appearance_id": 192507,
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/207254?namespace=static-10.2.0_51825-us"
+        },
+        "id": 207254
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Leather",
+        "id": 2
+      },
+      "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "armor": {
+        "value": 585,
+        "display": {
+          "display_string": "585 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 786,
+          "display": {
+            "display_string": "+786 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 786,
+          "is_negated": true,
+          "display": {
+            "display_string": "+786 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 3163,
+          "display": {
+            "display_string": "+3,163 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 655,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+655 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "HASTE_RATING",
+            "name": "Haste"
+          },
+          "value": 307,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+307 Haste",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 664800,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "66",
+          "silver": "48",
+          "copper": "0"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 70,
+          "display_string": "Requires Level 70"
+        },
+        "playable_classes": {
+          "links": [
+            {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Druid",
+              "id": 11
+            }
+          ],
+          "display_string": "Classes: Druid"
+        }
+      },
+      "set": {
+        "item_set": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-set/1559?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Benevolent Embersage's Guidance",
+          "id": 1559
+        },
+        "items": [
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207252?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Wisdom",
+              "id": 207252
+            },
+            "is_equipped": true
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207253?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Leggings",
+              "id": 207253
+            }
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207254?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Casque",
+              "id": 207254
+            },
+            "is_equipped": true
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207255?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Talons",
+              "id": 207255
+            }
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207257?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Robe",
+              "id": 207257
+            },
+            "is_equipped": true
+          }
+        ],
+        "effects": [
+          {
+            "display_string": "Set: Rage you spend during Rage of the Sleeper fuel the growth of Dream Thorns, which wreath you in their protection after Rage of the Sleeper expires, absorbing 25% of damage dealt to you while the thorns remain, up to 92,301 per 20 Rage spent. ",
+            "required_count": 2,
+            "is_active": true
+          },
+          {
+            "display_string": "(4) Set: Each 40 Rage you spend while Rage of the Sleeper is active extends its duration by 1.0 sec, up to 5.0. Your Dream Thorns become Blazing Thorns, causing 100% of damage absorbed to be reflected at the attacker.",
+            "required_count": 4
+          }
+        ],
+        "display_string": "Benevolent Embersage's Guidance (3/5)"
+      },
+      "level": {
+        "value": 470,
+        "display_string": "Item Level 470"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/134110?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Hidden Helm",
+          "id": 134110
+        },
+        "display_string": "Transmogrified to:\nHidden Helm",
+        "item_modified_appearance_id": 77344
+      },
+      "durability": {
+        "value": 98,
+        "display_string": "Durability 98 / 100"
+      },
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/210380?namespace=static-10.2.0_51825-us"
+        },
+        "id": 210380
+      },
+      "sockets": [
+        {
+          "socket_type": {
+            "type": "PRISMATIC",
+            "name": "Prismatic Socket"
+          },
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Keen Ysemerald",
+            "id": 192948
+          },
+          "display_string": "+70 Haste and +33 Mastery",
+          "media": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/media/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "id": 192948
+          }
+        },
+        {
+          "socket_type": {
+            "type": "PRISMATIC",
+            "name": "Prismatic Socket"
+          },
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Keen Ysemerald",
+            "id": 192948
+          },
+          "display_string": "+70 Haste and +33 Mastery",
+          "media": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/media/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "id": 192948
+          }
+        },
+        {
+          "socket_type": {
+            "type": "PRISMATIC",
+            "name": "Prismatic Socket"
+          },
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Keen Ysemerald",
+            "id": 192948
+          },
+          "display_string": "+70 Haste and +33 Mastery",
+          "media": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/media/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "id": 192948
+          }
+        }
+      ],
+      "slot": {
+        "type": "NECK",
+        "name": "Neck"
+      },
+      "quantity": 1,
+      "context": 42,
+      "bonus_list": [
+        6652,
+        9477,
+        8782,
+        9559,
+        1494,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Glittering Gelid Goldchain",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/210380?namespace=static-10.2.0_51825-us"
+        },
+        "id": 210380
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+      },
+      "inventory_type": {
+        "type": "NECK",
+        "name": "Neck"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 1634,
+          "display": {
+            "display_string": "+1,634 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 718,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+718 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "MASTERY_RATING",
+            "name": "Mastery"
+          },
+          "value": 852,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+852 Mastery",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 392087,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "39",
+          "silver": "20",
+          "copper": "87"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 70,
+          "display_string": "Requires Level 70"
+        }
+      },
+      "level": {
+        "value": 463,
+        "display_string": "Item Level 463"
+      },
+      "is_subclass_hidden": true
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/207252?namespace=static-10.2.0_51825-us"
+        },
+        "id": 207252
+      },
+      "slot": {
+        "type": "SHOULDER",
+        "name": "Shoulders"
+      },
+      "quantity": 1,
+      "context": 35,
+      "bonus_list": [
+        41,
+        9511,
+        9569,
+        9639,
+        1501,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Benevolent Embersage's Wisdom",
+      "modified_appearance_id": 192485,
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/207252?namespace=static-10.2.0_51825-us"
+        },
+        "id": 207252
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Leather",
+        "id": 2
+      },
+      "inventory_type": {
+        "type": "SHOULDER",
+        "name": "Shoulder"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "armor": {
+        "value": 536,
+        "display": {
+          "display_string": "536 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 590,
+          "display": {
+            "display_string": "+590 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 590,
+          "is_negated": true,
+          "display": {
+            "display_string": "+590 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 2372,
+          "display": {
+            "display_string": "+2,372 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "HASTE_RATING",
+            "name": "Haste"
+          },
+          "value": 214,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+214 Haste",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "VERSATILITY",
+            "name": "Versatility"
+          },
+          "value": 507,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+507 Versatility",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "COMBAT_RATING_LIFESTEAL",
+            "name": "Leech"
+          },
+          "value": 309,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+309 Leech",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 659772,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "65",
+          "silver": "97",
+          "copper": "72"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 70,
+          "display_string": "Requires Level 70"
+        },
+        "playable_classes": {
+          "links": [
+            {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Druid",
+              "id": 11
+            }
+          ],
+          "display_string": "Classes: Druid"
+        }
+      },
+      "set": {
+        "item_set": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-set/1559?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Benevolent Embersage's Guidance",
+          "id": 1559
+        },
+        "items": [
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207252?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Wisdom",
+              "id": 207252
+            },
+            "is_equipped": true
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207253?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Leggings",
+              "id": 207253
+            }
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207254?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Casque",
+              "id": 207254
+            },
+            "is_equipped": true
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207255?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Talons",
+              "id": 207255
+            }
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207257?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Robe",
+              "id": 207257
+            },
+            "is_equipped": true
+          }
+        ],
+        "effects": [
+          {
+            "display_string": "Set: Rage you spend during Rage of the Sleeper fuel the growth of Dream Thorns, which wreath you in their protection after Rage of the Sleeper expires, absorbing 25% of damage dealt to you while the thorns remain, up to 92,301 per 20 Rage spent. ",
+            "required_count": 2,
+            "is_active": true
+          },
+          {
+            "display_string": "(4) Set: Each 40 Rage you spend while Rage of the Sleeper is active extends its duration by 1.0 sec, up to 5.0. Your Dream Thorns become Blazing Thorns, causing 100% of damage absorbed to be reflected at the attacker.",
+            "required_count": 4
+          }
+        ],
+        "display_string": "Benevolent Embersage's Guidance (3/5)"
+      },
+      "level": {
+        "value": 470,
+        "display_string": "Item Level 470"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/168294?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Ancestral Chieftain's Mantle",
+          "id": 168294
+        },
+        "display_string": "Transmogrified to:\nAncestral Chieftain's Mantle",
+        "item_modified_appearance_id": 104352
+      },
+      "durability": {
+        "value": 96,
+        "display_string": "Durability 96 / 100"
+      },
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/207257?namespace=static-10.2.0_51825-us"
+        },
+        "id": 207257
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: Waking Stats |A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "enchantment_id": 6625,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "slot": {
+        "type": "CHEST",
+        "name": "Chest"
+      },
+      "quantity": 1,
+      "context": 16,
+      "bonus_list": [
+        6652,
+        9639,
+        9515,
+        9559,
+        1494,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Benevolent Embersage's Robe",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/207257?namespace=static-10.2.0_51825-us"
+        },
+        "id": 207257
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Leather",
+        "id": 2
+      },
+      "inventory_type": {
+        "type": "ROBE",
+        "name": "Chest"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "armor": {
+        "value": 742,
+        "display": {
+          "display_string": "742 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 737,
+          "display": {
+            "display_string": "+737 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 737,
+          "is_negated": true,
+          "display": {
+            "display_string": "+737 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 2904,
+          "display": {
+            "display_string": "+2,904 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 647,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+647 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "MASTERY_RATING",
+            "name": "Mastery"
+          },
+          "value": 288,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+288 Mastery",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 893999,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "89",
+          "silver": "39",
+          "copper": "99"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 70,
+          "display_string": "Requires Level 70"
+        },
+        "playable_classes": {
+          "links": [
+            {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Druid",
+              "id": 11
+            }
+          ],
+          "display_string": "Classes: Druid"
+        }
+      },
+      "set": {
+        "item_set": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-set/1559?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Benevolent Embersage's Guidance",
+          "id": 1559
+        },
+        "items": [
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207252?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Wisdom",
+              "id": 207252
+            },
+            "is_equipped": true
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207253?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Leggings",
+              "id": 207253
+            }
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207254?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Casque",
+              "id": 207254
+            },
+            "is_equipped": true
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207255?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Talons",
+              "id": 207255
+            }
+          },
+          {
+            "item": {
+              "key": {
+                "href": "https://us.api.blizzard.com/data/wow/item/207257?namespace=static-10.2.0_51825-us"
+              },
+              "name": "Benevolent Embersage's Robe",
+              "id": 207257
+            },
+            "is_equipped": true
+          }
+        ],
+        "effects": [
+          {
+            "display_string": "Set: Rage you spend during Rage of the Sleeper fuel the growth of Dream Thorns, which wreath you in their protection after Rage of the Sleeper expires, absorbing 25% of damage dealt to you while the thorns remain, up to 92,301 per 20 Rage spent. ",
+            "required_count": 2,
+            "is_active": true
+          },
+          {
+            "display_string": "(4) Set: Each 40 Rage you spend while Rage of the Sleeper is active extends its duration by 1.0 sec, up to 5.0. Your Dream Thorns become Blazing Thorns, causing 100% of damage absorbed to be reflected at the attacker.",
+            "required_count": 4
+          }
+        ],
+        "display_string": "Benevolent Embersage's Guidance (3/5)"
+      },
+      "level": {
+        "value": 463,
+        "display_string": "Item Level 463"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/168298?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Ancestral Chieftain's Armor",
+          "id": 168298
+        },
+        "display_string": "Transmogrified to:\nAncestral Chieftain's Armor",
+        "item_modified_appearance_id": 104356
+      },
+      "durability": {
+        "value": 161,
+        "display_string": "Durability 161 / 165"
+      },
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/210371?namespace=static-10.2.0_51825-us"
+        },
+        "id": 210371
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: Shadowed Belt Clasp|A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "source_item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/205039?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Shadowed Belt Clasp",
+            "id": 205039
+          },
+          "enchantment_id": 6904,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "slot": {
+        "type": "WAIST",
+        "name": "Waist"
+      },
+      "quantity": 1,
+      "context": 43,
+      "bonus_list": [
+        9506,
+        6652,
+        9600,
+        9558,
+        1491,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Crystalline Tender's Belt",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/210371?namespace=static-10.2.0_51825-us"
+        },
+        "id": 210371
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Leather",
+        "id": 2
+      },
+      "inventory_type": {
+        "type": "WAIST",
+        "name": "Waist"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "armor": {
+        "value": 409,
+        "display": {
+          "display_string": "409 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 537,
+          "display": {
+            "display_string": "+537 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 537,
+          "is_negated": true,
+          "display": {
+            "display_string": "+537 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 2103,
+          "display": {
+            "display_string": "+2,103 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 450,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+450 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "MASTERY_RATING",
+            "name": "Mastery"
+          },
+          "value": 242,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+242 Mastery",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 432128,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "43",
+          "silver": "21",
+          "copper": "28"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 70,
+          "display_string": "Requires Level 70"
+        }
+      },
+      "level": {
+        "value": 460,
+        "display_string": "Item Level 460"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/168296?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Ancestral Chieftain's Greatbelt",
+          "id": 168296
+        },
+        "display_string": "Transmogrified to:\nAncestral Chieftain's Greatbelt",
+        "item_modified_appearance_id": 104354
+      },
+      "durability": {
+        "value": 53,
+        "display_string": "Durability 53 / 55"
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/155869?namespace=static-10.2.0_51825-us"
+        },
+        "id": 155869
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: +177 Agility/Strength & +131 Stamina |A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "source_item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/193565?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Fierce Armor Kit",
+            "id": 193565
+          },
+          "enchantment_id": 6490,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "slot": {
+        "type": "LEGS",
+        "name": "Legs"
+      },
+      "quantity": 1,
+      "context": 16,
+      "bonus_list": [
+        9639,
+        6652,
+        9506,
+        9144,
+        9562,
+        9455,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Shambling Berserker's Leggings",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/155869?namespace=static-10.2.0_51825-us"
+        },
+        "id": 155869
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Leather",
+        "id": 2
+      },
+      "inventory_type": {
+        "type": "LEGS",
+        "name": "Legs"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "armor": {
+        "value": 636,
+        "display": {
+          "display_string": "636 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 716,
+          "display": {
+            "display_string": "+716 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 716,
+          "is_negated": true,
+          "display": {
+            "display_string": "+716 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 2804,
+          "display": {
+            "display_string": "+2,804 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 561,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+561 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "MASTERY_RATING",
+            "name": "Mastery"
+          },
+          "value": 363,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+363 Mastery",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 875937,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "87",
+          "silver": "59",
+          "copper": "37"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 50,
+          "display_string": "Requires Level 50"
+        }
+      },
+      "level": {
+        "value": 460,
+        "display_string": "Item Level 460"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/168293?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Ancestral Chieftain's Loincloth",
+          "id": 168293
+        },
+        "display_string": "Transmogrified to:\nAncestral Chieftain's Loincloth",
+        "item_modified_appearance_id": 104351
+      },
+      "durability": {
+        "value": 118,
+        "display_string": "Durability 118 / 120"
+      },
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/193452?namespace=static-10.2.0_51825-us"
+        },
+        "id": 193452
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: Watcher's Loam |A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "enchantment_id": 6613,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "slot": {
+        "type": "FEET",
+        "name": "Feet"
+      },
+      "quantity": 1,
+      "context": 13,
+      "bonus_list": [
+        8836,
+        8840,
+        8902,
+        8960,
+        9405,
+        9498
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Toxic Thorn Footwraps",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/193452?namespace=static-10.2.0_51825-us"
+        },
+        "id": 193452
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Leather",
+        "id": 2
+      },
+      "inventory_type": {
+        "type": "FEET",
+        "name": "Feet"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "limit_category": "Unique-Equipped: Embellished (2)",
+      "armor": {
+        "value": 464,
+        "display": {
+          "display_string": "464 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 552,
+          "display": {
+            "display_string": "+552 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 552,
+          "is_negated": true,
+          "display": {
+            "display_string": "+552 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 2178,
+          "display": {
+            "display_string": "+2,178 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 250,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+250 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "HASTE_RATING",
+            "name": "Haste"
+          },
+          "value": 401,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+401 Haste",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "spells": [
+        {
+          "spell": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/spell/379396?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Thriving Thorns",
+            "id": 379396
+          },
+          "description": "Equip: The thorns feed off your vitality, reducing Stamina by 129. Your spells and abilities have a chance to launch magical thorns at your target, healing allies for 25,909 or striking enemies for 15,545 Nature damage.\r\n\r\nThese effects are increased by 100% if you equip an item crafted with a Toxified Armor Patch."
+        }
+      ],
+      "sell_price": {
+        "value": 685792,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "68",
+          "silver": "57",
+          "copper": "92"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 70,
+          "display_string": "Requires Level 70"
+        }
+      },
+      "level": {
+        "value": 463,
+        "display_string": "Item Level 463"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/168292?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Ancestral Chieftain's Hoofbands",
+          "id": 168292
+        },
+        "display_string": "Transmogrified to:\nAncestral Chieftain's Hoofbands",
+        "item_modified_appearance_id": 104350
+      },
+      "durability": {
+        "value": 78,
+        "display_string": "Durability 78 / 80"
+      },
+      "name_description": {
+        "display_string": "Dream Crafted",
+        "color": {
+          "r": 25,
+          "g": 255,
+          "b": 25,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/160214?namespace=static-10.2.0_51825-us"
+        },
+        "id": 160214
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: +200 Leech |A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "enchantment_id": 6580,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "sockets": [
+        {
+          "socket_type": {
+            "type": "PRISMATIC",
+            "name": "Prismatic Socket"
+          },
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Keen Ysemerald",
+            "id": 192948
+          },
+          "display_string": "+70 Haste and +33 Mastery",
+          "media": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/media/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "id": 192948
+          }
+        }
+      ],
+      "slot": {
+        "type": "WRIST",
+        "name": "Wrist"
+      },
+      "quantity": 1,
+      "context": 33,
+      "bonus_list": [
+        9639,
+        6652,
+        9516,
+        9506,
+        9144,
+        9558,
+        9455,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Venerated Raptorhide Bindings",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/160214?namespace=static-10.2.0_51825-us"
+        },
+        "id": 160214
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Leather",
+        "id": 2
+      },
+      "inventory_type": {
+        "type": "WRIST",
+        "name": "Wrist"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "armor": {
+        "value": 363,
+        "display": {
+          "display_string": "363 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 403,
+          "display": {
+            "display_string": "+403 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 403,
+          "is_negated": true,
+          "display": {
+            "display_string": "+403 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 1577,
+          "display": {
+            "display_string": "+1,577 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 215,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+215 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "VERSATILITY",
+            "name": "Versatility"
+          },
+          "value": 304,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+304 Versatility",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 449313,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "44",
+          "silver": "93",
+          "copper": "13"
+        }
+      },
+      "level": {
+        "value": 460,
+        "display_string": "Item Level 460"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/168295?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Ancestral Chieftain's Wristbands",
+          "id": 168295
+        },
+        "display_string": "Transmogrified to:\nAncestral Chieftain's Wristbands",
+        "item_modified_appearance_id": 104353
+      },
+      "durability": {
+        "value": 53,
+        "display_string": "Durability 53 / 55"
+      },
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/207130?namespace=static-10.2.0_51825-us"
+        },
+        "id": 207130
+      },
+      "slot": {
+        "type": "HANDS",
+        "name": "Hands"
+      },
+      "quantity": 1,
+      "context": 5,
+      "bonus_list": [
+        6652,
+        9508,
+        7980,
+        9569,
+        1501,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Flamewaker's Grips",
+      "modified_appearance_id": 192639,
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/207130?namespace=static-10.2.0_51825-us"
+        },
+        "id": 207130
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Leather",
+        "id": 2
+      },
+      "inventory_type": {
+        "type": "HAND",
+        "name": "Hands"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "armor": {
+        "value": 439,
+        "display": {
+          "display_string": "439 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 590,
+          "display": {
+            "display_string": "+590 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 590,
+          "is_negated": true,
+          "display": {
+            "display_string": "+590 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 2372,
+          "display": {
+            "display_string": "+2,372 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 207,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+207 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "VERSATILITY",
+            "name": "Versatility"
+          },
+          "value": 514,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+514 Versatility",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 473830,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "47",
+          "silver": "38",
+          "copper": "30"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 70,
+          "display_string": "Requires Level 70"
+        }
+      },
+      "level": {
+        "value": 470,
+        "display_string": "Item Level 470"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/168297?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Ancestral Chieftain's Grasps",
+          "id": 168297
+        },
+        "display_string": "Transmogrified to:\nAncestral Chieftain's Grasps",
+        "item_modified_appearance_id": 104355
+      },
+      "durability": {
+        "value": 55,
+        "display_string": "Durability 55 / 55"
+      },
+      "name_description": {
+        "display_string": "Heroic",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/192999?namespace=static-10.2.0_51825-us"
+        },
+        "id": 192999
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: +82 Haste |A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "enchantment_id": 6556,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "sockets": [
+        {
+          "socket_type": {
+            "type": "PRISMATIC",
+            "name": "Prismatic Socket"
+          },
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Keen Ysemerald",
+            "id": 192948
+          },
+          "display_string": "+70 Haste and +33 Mastery",
+          "media": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/media/item/192948?namespace=static-10.2.0_51825-us"
+            },
+            "id": 192948
+          }
+        }
+      ],
+      "slot": {
+        "type": "FINGER_1",
+        "name": "Ring 1"
+      },
+      "quantity": 1,
+      "context": 13,
+      "bonus_list": [
+        8836,
+        8840,
+        8902,
+        8780,
+        9405,
+        8792,
+        8174,
+        9498
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Signet of Titanic Insight",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/192999?namespace=static-10.2.0_51825-us"
+        },
+        "id": 192999
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+      },
+      "inventory_type": {
+        "type": "FINGER",
+        "name": "Finger"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "unique_equipped": "Unique-Equipped",
+      "stats": [
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 1634,
+          "display": {
+            "display_string": "+1,634 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "HASTE_RATING",
+            "name": "Haste"
+          },
+          "value": 785,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+785 Haste",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "VERSATILITY",
+            "name": "Versatility"
+          },
+          "value": 785,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+785 Versatility",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "spells": [
+        {
+          "spell": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/spell/372120?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Alchemical Flavor Pocket",
+            "id": 372120
+          },
+          "description": "Equip: Increases duration of Well Fed bonuses from Dragon Isles meals by 100% and they now persist through death."
+        }
+      ],
+      "level": {
+        "value": 463,
+        "display_string": "Item Level 463"
+      },
+      "is_subclass_hidden": true,
+      "name_description": {
+        "display_string": "Dream Crafted",
+        "color": {
+          "r": 25,
+          "g": 255,
+          "b": 25,
+          "a": 1
+        }
+      },
+      "modified_crafting_stat": [
+        {
+          "id": 36,
+          "type": "HASTE_RATING",
+          "name": "Haste"
+        },
+        {
+          "id": 49,
+          "type": "MASTERY_RATING",
+          "name": "Mastery"
+        }
+      ]
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/159458?namespace=static-10.2.0_51825-us"
+        },
+        "id": 159458
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: +82 Haste |A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "enchantment_id": 6556,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "slot": {
+        "type": "FINGER_2",
+        "name": "Ring 2"
+      },
+      "quantity": 1,
+      "context": 16,
+      "bonus_list": [
+        9639,
+        6652,
+        9600,
+        9144,
+        9559,
+        9458,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Seal of the Regal Loa",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/159458?namespace=static-10.2.0_51825-us"
+        },
+        "id": 159458
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+      },
+      "inventory_type": {
+        "type": "FINGER",
+        "name": "Finger"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "unique_equipped": "Unique-Equipped",
+      "stats": [
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 1634,
+          "display": {
+            "display_string": "+1,634 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "HASTE_RATING",
+            "name": "Haste"
+          },
+          "value": 610,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+610 Haste",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "VERSATILITY",
+            "name": "Versatility"
+          },
+          "value": 960,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+960 Versatility",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 552118,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "55",
+          "silver": "21",
+          "copper": "18"
+        }
+      },
+      "level": {
+        "value": 463,
+        "display_string": "Item Level 463"
+      },
+      "is_subclass_hidden": true,
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/110019?namespace=static-10.2.0_51825-us"
+        },
+        "id": 110019
+      },
+      "slot": {
+        "type": "TRINKET_1",
+        "name": "Trinket 1"
+      },
+      "quantity": 1,
+      "context": 16,
+      "bonus_list": [
+        9639,
+        6652,
+        9144,
+        9564,
+        9846,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Xeri'tac's Unhatched Egg Sac",
+      "modified_appearance_id": 0,
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/110019?namespace=static-10.2.0_51825-us"
+        },
+        "id": 110019
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+      },
+      "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "unique_equipped": "Unique-Equipped",
+      "stats": [
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 2897,
+          "display": {
+            "display_string": "+2,897 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "spells": [
+        {
+          "spell": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/spell/429267?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Xeri'tac's Defense",
+            "id": 429267
+          },
+          "description": "Equip: Taking damage has a chance to call Xeri'tac's brood to your aid, attacking your foes and covering you in protective webbing which absorbs 191,766 damage."
+        }
+      ],
+      "sell_price": {
+        "value": 772705,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "77",
+          "silver": "27",
+          "copper": "5"
+        }
+      },
+      "level": {
+        "value": 467,
+        "display_string": "Item Level 467"
+      },
+      "is_subclass_hidden": true,
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/191491?namespace=static-10.2.0_51825-us"
+        },
+        "id": 191491
+      },
+      "slot": {
+        "type": "TRINKET_2",
+        "name": "Trinket 2"
+      },
+      "quantity": 1,
+      "context": 13,
+      "bonus_list": [
+        8836,
+        8840,
+        8902,
+        9405,
+        9498
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Sustaining Alchemist Stone",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/191491?namespace=static-10.2.0_51825-us"
+        },
+        "id": 191491
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+      },
+      "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "limit_category": "Unique-Equipped: Alchemist Stone (1)",
+      "stats": [
+        {
+          "type": {
+            "type": "VERSATILITY",
+            "name": "Versatility"
+          },
+          "value": 668,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+668 Versatility",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "spells": [
+        {
+          "spell": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/spell/375844?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Sustaining Alchemist Stone",
+            "id": 375844
+          },
+          "description": "Equip: Your spells and abilities have a chance to increase your primary stat by 1,969 for 10 sec and extend the duration of your active phial by 60 sec."
+        }
+      ],
+      "sell_price": {
+        "value": 764969,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "76",
+          "silver": "49",
+          "copper": "69"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 60,
+          "display_string": "Requires Level 60"
+        }
+      },
+      "description": "Can be used for transmutations in place of a Philosopher's Stone.",
+      "level": {
+        "value": 463,
+        "display_string": "Item Level 463"
+      },
+      "is_subclass_hidden": true,
+      "name_description": {
+        "display_string": "Dream Crafted",
+        "color": {
+          "r": 25,
+          "g": 255,
+          "b": 25,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/136977?namespace=static-10.2.0_51825-us"
+        },
+        "id": 136977
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: Regenerative Leech |A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "enchantment_id": 6598,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "slot": {
+        "type": "BACK",
+        "name": "Back"
+      },
+      "quantity": 1,
+      "context": 16,
+      "bonus_list": [
+        9639,
+        6652,
+        9506,
+        9144,
+        9562,
+        9466,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Shadowfeather Shawl",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/136977?namespace=static-10.2.0_51825-us"
+        },
+        "id": 136977
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Armor",
+        "id": 4
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Cloth",
+        "id": 1
+      },
+      "inventory_type": {
+        "type": "CLOAK",
+        "name": "Back"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "armor": {
+        "value": 291,
+        "display": {
+          "display_string": "291 Armor",
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 403,
+          "display": {
+            "display_string": "+403 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STRENGTH",
+            "name": "Strength"
+          },
+          "value": 403,
+          "is_negated": true,
+          "display": {
+            "display_string": "+403 Strength",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "INTELLECT",
+            "name": "Intellect"
+          },
+          "value": 403,
+          "is_negated": true,
+          "display": {
+            "display_string": "+403 Intellect",
+            "color": {
+              "r": 128,
+              "g": 128,
+              "b": 128,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 1577,
+          "display": {
+            "display_string": "+1,577 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "HASTE_RATING",
+            "name": "Haste"
+          },
+          "value": 364,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+364 Haste",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "VERSATILITY",
+            "name": "Versatility"
+          },
+          "value": 156,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+156 Versatility",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 699104,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "69",
+          "silver": "91",
+          "copper": "4"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 40,
+          "display_string": "Requires Level 40"
+        }
+      },
+      "level": {
+        "value": 460,
+        "display_string": "Item Level 460"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/170063?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Ancestral Chieftain's Totem",
+          "id": 170063
+        },
+        "display_string": "Transmogrified to:\nAncestral Chieftain's Totem",
+        "item_modified_appearance_id": 105323
+      },
+      "is_subclass_hidden": true,
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "item": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/211513?namespace=static-10.2.0_51825-us"
+        },
+        "id": 211513
+      },
+      "enchantments": [
+        {
+          "display_string": "Enchanted: Sophic Devotion |A:Professions-ChatIcon-Quality-Tier3:20:20|a",
+          "enchantment_id": 6643,
+          "enchantment_slot": {
+            "id": 0,
+            "type": "PERMANENT"
+          }
+        }
+      ],
+      "slot": {
+        "type": "MAIN_HAND",
+        "name": "Main Hand"
+      },
+      "quantity": 1,
+      "context": 16,
+      "bonus_list": [
+        9639,
+        6652,
+        9147,
+        9559,
+        3142,
+        8767
+      ],
+      "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+      },
+      "name": "Howling Echoes",
+      "media": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/media/item/211513?namespace=static-10.2.0_51825-us"
+        },
+        "id": 211513
+      },
+      "item_class": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/2?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Weapon",
+        "id": 2
+      },
+      "item_subclass": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Polearm",
+        "id": 6
+      },
+      "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+      },
+      "binding": {
+        "type": "ON_ACQUIRE",
+        "name": "Binds when picked up"
+      },
+      "weapon": {
+        "damage": {
+          "min_value": 1397,
+          "max_value": 2596,
+          "display_string": "1,397 - 2,596 Damage",
+          "damage_class": {
+            "type": "PHYSICAL",
+            "name": "Physical"
+          }
+        },
+        "attack_speed": {
+          "value": 3600,
+          "display_string": "Speed 3.60"
+        },
+        "dps": {
+          "value": 554.4444,
+          "display_string": "(554.4 damage per second)"
+        }
+      },
+      "stats": [
+        {
+          "type": {
+            "type": "AGILITY",
+            "name": "Agility"
+          },
+          "value": 737,
+          "display": {
+            "display_string": "+737 Agility",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "STAMINA",
+            "name": "Stamina"
+          },
+          "value": 2904,
+          "display": {
+            "display_string": "+2,904 Stamina",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "CRIT_RATING",
+            "name": "Critical Strike"
+          },
+          "value": 547,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+547 Critical Strike",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        },
+        {
+          "type": {
+            "type": "HASTE_RATING",
+            "name": "Haste"
+          },
+          "value": 387,
+          "is_equip_bonus": true,
+          "display": {
+            "display_string": "+387 Haste",
+            "color": {
+              "r": 0,
+              "g": 255,
+              "b": 0,
+              "a": 1
+            }
+          }
+        }
+      ],
+      "sell_price": {
+        "value": 1651444,
+        "display_strings": {
+          "header": "Sell Price:",
+          "gold": "165",
+          "silver": "14",
+          "copper": "44"
+        }
+      },
+      "requirements": {
+        "level": {
+          "value": 58,
+          "display_string": "Requires Level 58"
+        }
+      },
+      "level": {
+        "value": 463,
+        "display_string": "Item Level 463"
+      },
+      "transmog": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/128821?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Claws of Ursoc",
+          "id": 128821
+        },
+        "display_string": "Transmogrified to:\nClaws of Ursoc\nClaws of Ursoc",
+        "item_modified_appearance_id": 96472
+      },
+      "durability": {
+        "value": 120,
+        "display_string": "Durability 120 / 120"
+      },
+      "name_description": {
+        "display_string": "Mythic+",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0,
+          "a": 1
+        }
+      }
+    }
+  ],
+  "equipped_item_sets": [
+    {
+      "item_set": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item-set/1559?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Benevolent Embersage's Guidance",
+        "id": 1559
+      },
+      "items": [
+        {
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/207252?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Benevolent Embersage's Wisdom",
+            "id": 207252
+          },
+          "is_equipped": true
+        },
+        {
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/207253?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Benevolent Embersage's Leggings",
+            "id": 207253
+          }
+        },
+        {
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/207254?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Benevolent Embersage's Casque",
+            "id": 207254
+          },
+          "is_equipped": true
+        },
+        {
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/207255?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Benevolent Embersage's Talons",
+            "id": 207255
+          }
+        },
+        {
+          "item": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/item/207257?namespace=static-10.2.0_51825-us"
+            },
+            "name": "Benevolent Embersage's Robe",
+            "id": 207257
+          },
+          "is_equipped": true
+        }
+      ],
+      "effects": [
+        {
+          "display_string": "Set: Rage you spend during Rage of the Sleeper fuel the growth of Dream Thorns, which wreath you in their protection after Rage of the Sleeper expires, absorbing 25% of damage dealt to you while the thorns remain, up to 92,301 per 20 Rage spent. ",
+          "required_count": 2,
+          "is_active": true
+        },
+        {
+          "display_string": "(4) Set: Each 40 Rage you spend while Rage of the Sleeper is active extends its duration by 1.0 sec, up to 5.0. Your Dream Thorns become Blazing Thorns, causing 100% of damage absorbed to be reflected at the attacker.",
+          "required_count": 4
+        }
+      ],
+      "display_string": "Benevolent Embersage's Guidance (3/5)"
+    }
+  ]
+}

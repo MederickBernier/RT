@@ -1,0 +1,70 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/user/wow/protected-character/61-251342959?namespace=profile-us"
+    },
+    "user": {
+      "href": "https://us.api.blizzard.com/profile/user"
+    },
+    "profile": {
+      "href": "https://us.api.blizzard.com/profile/user/wow?namespace=profile-us"
+    }
+  },
+  "id": 251342959,
+  "name": "Elunarÿa",
+  "money": 17677914476,
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "protected_stats": {
+    "total_number_deaths": 2250,
+    "total_gold_gained": 593941267909,
+    "total_gold_lost": 574444239830,
+    "total_item_value_gained": 71488451,
+    "level_number_deaths": 124,
+    "level_gold_gained": 363191895676,
+    "level_gold_lost": 344230160003,
+    "level_item_value_gained": 529866182
+  },
+  "position": {
+    "zone": {
+      "name": "Ruby Lifeshrine",
+      "id": 13727
+    },
+    "map": {
+      "name": "Dragon Isles",
+      "id": 2444
+    },
+    "x": 1749.6271,
+    "y": 30.936855,
+    "z": 312.45468,
+    "facing": 4.677017
+  },
+  "bind_position": {
+    "zone": {
+      "name": "Valdrakken",
+      "id": 13862
+    },
+    "map": {
+      "name": "Dragon Isles",
+      "id": 2444
+    },
+    "x": 197.33829,
+    "y": -886.6432,
+    "z": 842.9231,
+    "facing": 4.9406786
+  },
+  "wow_account": 19651933
+}

@@ -1,0 +1,311 @@
+{
+  "page": 1,
+  "pageSize": 3,
+  "maxPageSize": 100,
+  "pageCount": 1,
+  "results": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/47548?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "level": 35,
+        "required_level": 30,
+        "sell_price": 101911,
+        "item_subclass": {
+          "name": {
+            "it_IT": "Stoffa",
+            "ru_RU": "Ткань",
+            "en_GB": "Cloth",
+            "zh_TW": "布甲",
+            "ko_KR": "천",
+            "en_US": "Cloth",
+            "es_MX": "Tela",
+            "pt_BR": "Tecido",
+            "es_ES": "Tela",
+            "zh_CN": "布甲",
+            "fr_FR": "Tissu",
+            "de_DE": "Stoff"
+          },
+          "id": 1
+        },
+        "is_equippable": true,
+        "purchase_quantity": 1,
+        "media": {
+          "id": 47548
+        },
+        "item_class": {
+          "name": {
+            "it_IT": "Armature",
+            "ru_RU": "Доспехи",
+            "en_GB": "Armor",
+            "zh_TW": "護甲",
+            "ko_KR": "방어구",
+            "en_US": "Armor",
+            "es_MX": "Armadura",
+            "pt_BR": "Armadura",
+            "es_ES": "Armadura",
+            "zh_CN": "护甲",
+            "fr_FR": "Armure",
+            "de_DE": "Rüstung"
+          },
+          "id": 4
+        },
+        "quality": {
+          "name": {
+            "it_IT": "Epico",
+            "ru_RU": "Эпическое",
+            "en_GB": "Epic",
+            "zh_TW": "史詩",
+            "ko_KR": "영웅",
+            "en_US": "Epic",
+            "es_MX": "Épico",
+            "pt_BR": "Épico",
+            "es_ES": "Épico",
+            "zh_CN": "史诗",
+            "fr_FR": "Épique",
+            "de_DE": "Episch"
+          },
+          "type": "EPIC"
+        },
+        "max_count": 0,
+        "is_stackable": false,
+        "name": {
+          "it_IT": "Rabbia di Garrosh",
+          "ru_RU": "Ярость Гарроша",
+          "en_GB": "Garrosh's Rage",
+          "zh_TW": "卡爾洛斯之怒火",
+          "ko_KR": "가로쉬의 분노",
+          "en_US": "Garrosh's Rage",
+          "es_MX": "Ira de Garrosh",
+          "pt_BR": "Raiva de Garrosh",
+          "es_ES": "Ira de Garrosh",
+          "zh_CN": "加尔鲁什之怒",
+          "fr_FR": "Rage de Garrosh",
+          "de_DE": "Garroshs Wut"
+        },
+        "purchase_price": 509559,
+        "id": 47548,
+        "inventory_type": {
+          "name": {
+            "it_IT": "Schiena",
+            "ru_RU": "Спина",
+            "en_GB": "Back",
+            "zh_TW": "背部",
+            "ko_KR": "등",
+            "en_US": "Back",
+            "es_MX": "Espalda",
+            "pt_BR": "Costas",
+            "es_ES": "Espalda",
+            "zh_CN": "背部",
+            "fr_FR": "Dos",
+            "de_DE": "Rücken"
+          },
+          "type": "CLOAK"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/56709?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "level": 14,
+        "required_level": 0,
+        "sell_price": 713,
+        "item_subclass": {
+          "name": {
+            "it_IT": "Varie",
+            "ru_RU": "Разное",
+            "en_GB": "Miscellaneous",
+            "zh_TW": "雜項",
+            "ko_KR": "기타",
+            "en_US": "Miscellaneous",
+            "es_MX": "Miscelánea",
+            "pt_BR": "Diversos",
+            "es_ES": "Miscelánea",
+            "zh_CN": "其它",
+            "fr_FR": "Divers",
+            "de_DE": "Verschiedenes"
+          },
+          "id": 0
+        },
+        "is_equippable": true,
+        "purchase_quantity": 1,
+        "media": {
+          "id": 56709
+        },
+        "item_class": {
+          "name": {
+            "it_IT": "Armature",
+            "ru_RU": "Доспехи",
+            "en_GB": "Armor",
+            "zh_TW": "護甲",
+            "ko_KR": "방어구",
+            "en_US": "Armor",
+            "es_MX": "Armadura",
+            "pt_BR": "Armadura",
+            "es_ES": "Armadura",
+            "zh_CN": "护甲",
+            "fr_FR": "Armure",
+            "de_DE": "Rüstung"
+          },
+          "id": 4
+        },
+        "quality": {
+          "name": {
+            "it_IT": "Raro",
+            "ru_RU": "Редкое",
+            "en_GB": "Rare",
+            "zh_TW": "精良",
+            "ko_KR": "희귀",
+            "en_US": "Rare",
+            "es_MX": "Raro",
+            "pt_BR": "Raro",
+            "es_ES": "Raro",
+            "zh_CN": "精良",
+            "fr_FR": "Rare",
+            "de_DE": "Selten"
+          },
+          "type": "RARE"
+        },
+        "max_count": 0,
+        "is_stackable": false,
+        "name": {
+          "it_IT": "Perdono di Garrosh",
+          "ru_RU": "Оправдание Гарроша",
+          "en_GB": "Garrosh's Pardon",
+          "zh_TW": "卡爾洛斯之赦",
+          "ko_KR": "가로쉬의 용서",
+          "en_US": "Garrosh's Pardon",
+          "es_MX": "Perdón de Garrosh",
+          "pt_BR": "Perdão de Garrosh",
+          "es_ES": "Perdón de Garrosh",
+          "zh_CN": "加尔鲁什的宽恕",
+          "fr_FR": "Pardon de Garrosh",
+          "de_DE": "Garroshs Begnadigung"
+        },
+        "purchase_price": 2854,
+        "id": 56709,
+        "inventory_type": {
+          "name": {
+            "it_IT": "Dito",
+            "ru_RU": "Палец",
+            "en_GB": "Finger",
+            "zh_TW": "手指",
+            "ko_KR": "손가락",
+            "en_US": "Finger",
+            "es_MX": "Dedo",
+            "pt_BR": "Dedo",
+            "es_ES": "Dedo",
+            "zh_CN": "手指",
+            "fr_FR": "Doigt",
+            "de_DE": "Finger"
+          },
+          "type": "FINGER"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/90329?namespace=static-10.2.0_51825-us"
+      },
+      "data": {
+        "level": 37,
+        "required_level": 0,
+        "sell_price": 695900,
+        "item_subclass": {
+          "name": {
+            "it_IT": "Ascia",
+            "ru_RU": "Топор",
+            "en_GB": "Axe",
+            "zh_TW": "斧",
+            "ko_KR": "도끼",
+            "en_US": "Axe",
+            "es_MX": "Hacha",
+            "pt_BR": "Machado",
+            "es_ES": "Hacha",
+            "zh_CN": "斧",
+            "fr_FR": "Hache",
+            "de_DE": "Axt"
+          },
+          "id": 0
+        },
+        "is_equippable": true,
+        "purchase_quantity": 1,
+        "media": {
+          "id": 90329
+        },
+        "item_class": {
+          "name": {
+            "it_IT": "Arma",
+            "ru_RU": "Оружие",
+            "en_GB": "Weapon",
+            "zh_TW": "武器",
+            "ko_KR": "무기",
+            "en_US": "Weapon",
+            "es_MX": "Arma",
+            "pt_BR": "Arma",
+            "es_ES": "Arma",
+            "zh_CN": "武器",
+            "fr_FR": "Arme",
+            "de_DE": "Waffe"
+          },
+          "id": 2
+        },
+        "quality": {
+          "name": {
+            "it_IT": "Pregiato",
+            "ru_RU": "Необычное",
+            "en_GB": "Uncommon",
+            "zh_TW": "優秀",
+            "ko_KR": "고급",
+            "en_US": "Uncommon",
+            "es_MX": "Inusual",
+            "pt_BR": "Incomum",
+            "es_ES": "Inusual",
+            "zh_CN": "优秀",
+            "fr_FR": "Inhabituel",
+            "de_DE": "Ungewöhnlich"
+          },
+          "type": "UNCOMMON"
+        },
+        "max_count": 0,
+        "is_stackable": false,
+        "name": {
+          "it_IT": "Ascia da Battaglia dell'Avanguardia di Garrosh",
+          "ru_RU": "Боевой топор авангарда Гарроша",
+          "en_GB": "Garrosh's Vanguard Battleaxe",
+          "zh_TW": "卡爾洛斯先鋒戰斧",
+          "ko_KR": "가로쉬의 선봉대 전투도끼",
+          "en_US": "Garrosh's Vanguard Battleaxe",
+          "es_MX": "Hacha de batalla de la Vanguardia de Garrosh",
+          "pt_BR": "Acha de Batalha da Vanguarda de Garrosh",
+          "es_ES": "Hacha de batalla de la Vanguardia de Garrosh",
+          "zh_CN": "加尔鲁什的先锋之斧",
+          "fr_FR": "Hache d'armes de l'avant-garde de Garrosh",
+          "de_DE": "Kampfaxt von Garroshs Vorhut"
+        },
+        "purchase_price": 3479500,
+        "id": 90329,
+        "inventory_type": {
+          "name": {
+            "it_IT": "Una mano",
+            "ru_RU": "Одноручное",
+            "en_GB": "One-Hand",
+            "zh_TW": "單手",
+            "ko_KR": "한손 장비",
+            "en_US": "One-Hand",
+            "es_MX": "Una mano",
+            "pt_BR": "Uma Mão",
+            "es_ES": "Una mano",
+            "zh_CN": "单手",
+            "fr_FR": "À une main",
+            "de_DE": "Einhändig"
+          },
+          "type": "WEAPON"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/period/936?namespace=dynamic-us"
+    }
+  },
+  "id": 936,
+  "start_timestamp": 1701788400000,
+  "end_timestamp": 1702393199000
+}

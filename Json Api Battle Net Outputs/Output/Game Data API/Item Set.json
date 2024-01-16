@@ -1,0 +1,73 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/item-set/757?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 757,
+  "name": "Iceborne Embrace",
+  "items": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/38406?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Iceborne Belt",
+      "id": 38406
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/38407?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Iceborne Boots",
+      "id": 38407
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/38408?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Iceborne Chestguard",
+      "id": 38408
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/38409?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Iceborne Gloves",
+      "id": 38409
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/38410?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Iceborne Leggings",
+      "id": 38410
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/38411?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Iceborne Shoulderpads",
+      "id": 38411
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/38434?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Iceborne Wristguards",
+      "id": 38434
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/item/38438?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Iceborne Helm",
+      "id": 38438
+    }
+  ],
+  "effects": [
+    {
+      "display_string": "Set: Increases Intellect by 9.",
+      "required_count": 3
+    }
+  ]
+}

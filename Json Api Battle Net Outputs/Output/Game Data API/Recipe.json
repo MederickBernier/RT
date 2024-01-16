@@ -1,0 +1,37 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/recipe/1631?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 1631,
+  "name": "Rough Sharpening Stone",
+  "media": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/media/recipe/1631?namespace=static-10.2.0_51825-us"
+    },
+    "id": 1631
+  },
+  "crafted_item": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/item/2862?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Rough Sharpening Stone",
+    "id": 2862
+  },
+  "reagents": [
+    {
+      "reagent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/item/2835?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Rough Stone",
+        "id": 2835
+      },
+      "quantity": 1
+    }
+  ],
+  "crafted_quantity": {
+    "value": 1
+  }
+}

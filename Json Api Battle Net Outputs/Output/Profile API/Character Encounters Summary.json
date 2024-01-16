@@ -1,0 +1,28 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/encounters?namespace=profile-us"
+    }
+  },
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "dungeons": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/encounters/dungeons?namespace=profile-us"
+  },
+  "raids": {
+    "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/encounters/raids?namespace=profile-us"
+  }
+}

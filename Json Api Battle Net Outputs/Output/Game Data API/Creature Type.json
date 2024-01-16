@@ -1,0 +1,9 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/creature-type/14?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 14,
+  "name": "Wild Pet"
+}

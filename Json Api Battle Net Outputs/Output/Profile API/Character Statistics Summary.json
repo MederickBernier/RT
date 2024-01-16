@@ -1,0 +1,132 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/statistics?namespace=profile-us"
+    }
+  },
+  "health": 817961,
+  "power": 250000,
+  "power_type": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/power-type/0?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Mana",
+    "id": 0
+  },
+  "speed": {
+    "rating": 0,
+    "rating_bonus": 0
+  },
+  "strength": {
+    "base": 900,
+    "effective": 900
+  },
+  "agility": {
+    "base": 2087,
+    "effective": 8465
+  },
+  "intellect": {
+    "base": 2087,
+    "effective": 2087
+  },
+  "stamina": {
+    "base": 4192,
+    "effective": 36184
+  },
+  "melee_crit": {
+    "rating": 4250,
+    "rating_bonus": 23.611748,
+    "value": 33.611748
+  },
+  "melee_haste": {
+    "rating": 3582,
+    "rating_bonus": 21.071156,
+    "value": 21.071152
+  },
+  "mastery": {
+    "rating": 1910,
+    "rating_bonus": 7.4279776,
+    "value": 13.027978
+  },
+  "bonus_armor": 0,
+  "lifesteal": {
+    "rating": 634,
+    "rating_bonus": 4.283899,
+    "value": 4.283899
+  },
+  "versatility": 3894,
+  "versatility_damage_done_bonus": 18.995634,
+  "versatility_healing_done_bonus": 18.995634,
+  "versatility_damage_taken_bonus": 9.497817,
+  "avoidance": {
+    "rating": 0,
+    "rating_bonus": 0
+  },
+  "attack_power": 10040,
+  "main_hand_damage_min": 15727.072,
+  "main_hand_damage_max": 18144.834,
+  "main_hand_speed": 2.973,
+  "main_hand_dps": 5696.587,
+  "off_hand_damage_min": 3378.4136,
+  "off_hand_damage_max": 3378.4136,
+  "off_hand_speed": 1.652,
+  "off_hand_dps": 2045.0446,
+  "spell_power": 13426,
+  "spell_penetration": 0,
+  "spell_crit": {
+    "rating": 4250,
+    "rating_bonus": 23.611748,
+    "value": 33.611748
+  },
+  "mana_regen": 12800,
+  "mana_regen_combat": 12800,
+  "armor": {
+    "base": 0,
+    "effective": 4733
+  },
+  "dodge": {
+    "rating": 4250,
+    "rating_bonus": 21.250572,
+    "value": 29.44027
+  },
+  "parry": {
+    "rating": 0,
+    "rating_bonus": 0,
+    "value": 0
+  },
+  "block": {
+    "rating": 0,
+    "rating_bonus": 0,
+    "value": 0
+  },
+  "ranged_crit": {
+    "rating": 4250,
+    "rating_bonus": 23.611748,
+    "value": 33.611748
+  },
+  "ranged_haste": {
+    "rating": 3582,
+    "rating_bonus": 21.071156,
+    "value": 21.071152
+  },
+  "spell_haste": {
+    "rating": 3582,
+    "rating_bonus": 21.071156,
+    "value": 21.071152
+  },
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  }
+}

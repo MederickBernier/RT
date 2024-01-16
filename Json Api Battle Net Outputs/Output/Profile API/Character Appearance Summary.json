@@ -1,0 +1,542 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/appearance?namespace=profile-us"
+    }
+  },
+  "character": {
+    "key": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+    },
+    "name": "Elunarÿa",
+    "id": 251342959,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    }
+  },
+  "playable_race": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Tauren",
+    "id": 6
+  },
+  "playable_class": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Druid",
+    "id": 11
+  },
+  "active_spec": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Guardian",
+    "id": 104
+  },
+  "gender": {
+    "type": "FEMALE",
+    "name": "Female"
+  },
+  "faction": {
+    "type": "HORDE",
+    "name": "Horde"
+  },
+  "items": [
+    {
+      "id": 134110,
+      "slot": {
+        "type": "HEAD",
+        "name": "Head"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 0,
+      "subclass": 5
+    },
+    {
+      "id": 168294,
+      "slot": {
+        "type": "SHOULDER",
+        "name": "Shoulders"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 2,
+      "subclass": 5
+    },
+    {
+      "id": 168298,
+      "slot": {
+        "type": "CHEST",
+        "name": "Chest"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 4,
+      "subclass": 5
+    },
+    {
+      "id": 168296,
+      "slot": {
+        "type": "WAIST",
+        "name": "Waist"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 5,
+      "subclass": 5
+    },
+    {
+      "id": 168293,
+      "slot": {
+        "type": "LEGS",
+        "name": "Legs"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 6,
+      "subclass": 5
+    },
+    {
+      "id": 168292,
+      "slot": {
+        "type": "FEET",
+        "name": "Feet"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 7,
+      "subclass": 5
+    },
+    {
+      "id": 168295,
+      "slot": {
+        "type": "WRIST",
+        "name": "Wrist"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 8,
+      "subclass": 5
+    },
+    {
+      "id": 168297,
+      "slot": {
+        "type": "HANDS",
+        "name": "Hands"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 9,
+      "subclass": 5
+    },
+    {
+      "id": 170063,
+      "slot": {
+        "type": "BACK",
+        "name": "Back"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 0,
+      "internal_slot_id": 14,
+      "subclass": 5
+    },
+    {
+      "id": 128821,
+      "slot": {
+        "type": "MAIN_HAND",
+        "name": "Main Hand"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 15,
+      "internal_slot_id": 15,
+      "subclass": 13
+    },
+    {
+      "id": 128822,
+      "slot": {
+        "type": "OFF_HAND",
+        "name": "Off Hand"
+      },
+      "enchant": 0,
+      "item_appearance_modifier_id": 15,
+      "internal_slot_id": 16,
+      "subclass": 13
+    }
+  ],
+  "customizations": [
+    {
+      "option": {
+        "name": "Skin Color",
+        "id": 74
+      },
+      "choice": {
+        "id": 1114,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Horn Style",
+        "id": 77
+      },
+      "choice": {
+        "name": "Long",
+        "id": 1145,
+        "display_order": 2
+      }
+    },
+    {
+      "option": {
+        "name": "Horn Color",
+        "id": 78
+      },
+      "choice": {
+        "id": 1161,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Hair",
+        "id": 79
+      },
+      "choice": {
+        "name": "Mane",
+        "id": 1169,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Face",
+        "id": 379
+      },
+      "choice": {
+        "id": 1137,
+        "display_order": 2
+      }
+    },
+    {
+      "option": {
+        "name": "Eye Color",
+        "id": 647
+      },
+      "choice": {
+        "id": 7287,
+        "display_order": 5
+      }
+    },
+    {
+      "option": {
+        "name": "Earrings",
+        "id": 649
+      },
+      "choice": {
+        "name": "None",
+        "id": 7300,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Necklace",
+        "id": 651
+      },
+      "choice": {
+        "name": "None",
+        "id": 7309,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Headdress",
+        "id": 655
+      },
+      "choice": {
+        "name": "None",
+        "id": 7322,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Nose Ring",
+        "id": 659
+      },
+      "choice": {
+        "name": "None",
+        "id": 7334,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Body Paint",
+        "id": 662
+      },
+      "choice": {
+        "name": "None",
+        "id": 7353,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Face Paint",
+        "id": 666
+      },
+      "choice": {
+        "name": "None",
+        "id": 7369,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Paint Color",
+        "id": 668
+      },
+      "choice": {
+        "id": 7377,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Foremane",
+        "id": 673
+      },
+      "choice": {
+        "name": "Short",
+        "id": 7429,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Jewelry Color",
+        "id": 805
+      },
+      "choice": {
+        "id": 9019,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Flower",
+        "id": 842
+      },
+      "choice": {
+        "name": "Flower",
+        "id": 9478,
+        "display_order": 1
+      }
+    },
+    {
+      "option": {
+        "name": "Bear Form",
+        "id": 901
+      },
+      "choice": {
+        "name": "Umbraclaw (White)",
+        "id": 55659,
+        "display_order": 65
+      }
+    },
+    {
+      "option": {
+        "name": "Cat Form",
+        "id": 911
+      },
+      "choice": {
+        "name": "Dreamsaber (Blue)",
+        "id": 55647,
+        "display_order": 61
+      }
+    },
+    {
+      "option": {
+        "name": "Full Transformation",
+        "id": 922
+      },
+      "choice": {
+        "name": "Classic",
+        "id": 15406,
+        "display_order": 10
+      }
+    },
+    {
+      "option": {
+        "name": "Aquatic Form",
+        "id": 946
+      },
+      "choice": {
+        "name": "Tideskipper",
+        "id": 7212,
+        "display_order": 12
+      }
+    },
+    {
+      "option": {
+        "name": "Travel Form",
+        "id": 956
+      },
+      "choice": {
+        "name": "Dreamtalon (Blue)",
+        "id": 55651,
+        "display_order": 14
+      }
+    },
+    {
+      "option": {
+        "name": "Flight Form",
+        "id": 966
+      },
+      "choice": {
+        "name": "Nightwing Raven",
+        "id": 18978,
+        "display_order": 16
+      }
+    },
+    {
+      "option": {
+        "name": "Eyesight",
+        "id": 6349
+      },
+      "choice": {
+        "name": "Both",
+        "id": 45130,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Feather Color",
+        "id": 8654
+      },
+      "choice": {
+        "id": 55571,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Horn & Beak Color",
+        "id": 8655
+      },
+      "choice": {
+        "id": 55575,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Decoration Color",
+        "id": 8656
+      },
+      "choice": {
+        "name": "None",
+        "id": 55631,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Effects Color",
+        "id": 8657
+      },
+      "choice": {
+        "name": "None",
+        "id": 55630,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Beak",
+        "id": 8658
+      },
+      "choice": {
+        "name": "Parrot",
+        "id": 55593,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Eyebrows",
+        "id": 8659
+      },
+      "choice": {
+        "name": "None",
+        "id": 55597,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Whiskers",
+        "id": 8660
+      },
+      "choice": {
+        "name": "Long Droop",
+        "id": 55604,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Feathers",
+        "id": 8661
+      },
+      "choice": {
+        "name": "None",
+        "id": 55609,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Horns",
+        "id": 8662
+      },
+      "choice": {
+        "name": "Stag High",
+        "id": 55613,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Decorations",
+        "id": 8663
+      },
+      "choice": {
+        "name": "None",
+        "id": 55619,
+        "display_order": 0
+      }
+    },
+    {
+      "option": {
+        "name": "Effects",
+        "id": 8664
+      },
+      "choice": {
+        "name": "None",
+        "id": 55625,
+        "display_order": 0
+      }
+    }
+  ]
+}

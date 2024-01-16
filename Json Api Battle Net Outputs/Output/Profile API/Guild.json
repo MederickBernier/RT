@@ -1,0 +1,34 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/guild/zuljin/no-drama-kiing?namespace=profile-us"
+    }
+  },
+  "id": 85985545,
+  "name": "No Drama Kiing",
+  "faction": {
+    "type": "HORDE",
+    "name": "Horde"
+  },
+  "achievement_points": 130,
+  "member_count": 21,
+  "realm": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+    },
+    "name": "Zul'jin",
+    "id": 61,
+    "slug": "zuljin"
+  },
+  "roster": {
+    "href": "https://us.api.blizzard.com/data/wow/guild/zuljin/no-drama-kiing/roster?namespace=profile-us"
+  },
+  "achievements": {
+    "href": "https://us.api.blizzard.com/data/wow/guild/zuljin/no-drama-kiing/achievements?namespace=profile-us"
+  },
+  "created_timestamp": 1568266209000,
+  "activity": {
+    "href": "https://us.api.blizzard.com/data/wow/guild/zuljin/no-drama-kiing/activity?namespace=profile-us"
+  },
+  "name_search": "No Drama Kiing"
+}

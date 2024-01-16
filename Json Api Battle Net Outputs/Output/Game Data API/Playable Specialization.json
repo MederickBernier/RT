@@ -1,0 +1,178 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 262,
+  "playable_class": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Shaman",
+    "id": 7
+  },
+  "name": "Elemental",
+  "gender_description": {
+    "male": "A spellcaster who harnesses the destructive forces of nature and the elements.\r\n\r\nPreferred Weapon: Mace, Dagger, and Shield",
+    "female": "A spellcaster who harnesses the destructive forces of nature and the elements.\r\n\r\nPreferred Weapon: Mace, Dagger, and Shield"
+  },
+  "media": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/media/playable-specialization/262?namespace=static-10.2.0_51825-us"
+    },
+    "id": 262
+  },
+  "role": {
+    "type": "DAMAGE",
+    "name": "Damage"
+  },
+  "pvp_talents": [
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/727?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Static Field Totem",
+        "id": 727
+      },
+      "spell_tooltip": {
+        "description": "Summons a totem with 4% of your health at the target location for 6 sec that forms a circuit of electricity that enemies cannot pass through.",
+        "cast_time": "Instant",
+        "range": "30 yd range",
+        "cooldown": "1 min cooldown"
+      }
+    },
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/730?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Traveling Storms",
+        "id": 730
+      },
+      "spell_tooltip": {
+        "description": "Thunderstorm now can be cast on allies within 40 yards, reduces enemies movement speed by 60% and knocks enemies 25% further.\r\n\r\nThundershock knocks enemies 100% higher.",
+        "cast_time": "Passive"
+      }
+    },
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/3488?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Skyfury Totem",
+        "id": 3488
+      },
+      "spell_tooltip": {
+        "description": "Summons a totem at your feet for 15 sec that increases the critical effect of damage and healing spells of all nearby allies within 40 yards by 20% for 15 sec.",
+        "cast_time": "Instant",
+        "power_cost": "1,500 Mana",
+        "cooldown": "40 sec cooldown"
+      }
+    },
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/3490?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Counterstrike Totem",
+        "id": 3490
+      },
+      "spell_tooltip": {
+        "description": "Summons a totem at your feet for 15 sec.\r\n\r\nWhenever enemies within 20 yards of the totem deal direct damage, the totem will deal 100% of the damage dealt back to attacker. ",
+        "cast_time": "Instant",
+        "power_cost": "1,500 Mana",
+        "range": "40 yd range",
+        "cooldown": "45 sec cooldown"
+      }
+    },
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/3491?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Unleash Shield",
+        "id": 3491
+      },
+      "spell_tooltip": {
+        "description": "Unleash your Elemental Shield's energy on an enemy target:\r\n\r\nLightning Shield: Knocks them away.\r\n\r\nEarth Shield: Roots them in place for 2 sec.\r\n\r\nWater Shield: Summons a whirlpool for 6 sec, reducing damage and healing by 50% while they stand within it.",
+        "cast_time": "Instant",
+        "range": "20 yd range",
+        "cooldown": "30 sec cooldown"
+      }
+    },
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/3620?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Grounding Totem",
+        "id": 3620
+      },
+      "spell_tooltip": {
+        "description": "Summons a totem at your feet that will redirect all harmful spells cast within 30 yards on a nearby party or raid member to itself. Will not redirect area of effect spells. Lasts 3 sec.",
+        "cast_time": "Instant",
+        "power_cost": "2,950 Mana",
+        "cooldown": "30 sec cooldown"
+      }
+    },
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/5415?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Seasoned Winds",
+        "id": 5415
+      },
+      "spell_tooltip": {
+        "description": "Interrupting a spell with Wind Shear decreases your damage taken from that spell school by 15% for 18 sec. Stacks up to 3 times.",
+        "cast_time": "Passive"
+      }
+    },
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/5571?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Volcanic Surge",
+        "id": 5571
+      },
+      "spell_tooltip": {
+        "description": "Increases the damage of Lightning Bolt and Chain Lightning by 30% and the damage of Lava Burst by 45%.\r\n\r\nLava Surge has an additional 100% chance to trigger and instead reduces the cast time of your next Lightning Bolt or Chain Lightning by 25%, stacking up to 2 times.",
+        "cast_time": "Passive"
+      }
+    },
+    {
+      "talent": {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/pvp-talent/5574?namespace=static-10.2.0_51825-us"
+        },
+        "name": "Burrow",
+        "id": 5574
+      },
+      "spell_tooltip": {
+        "description": "Burrow beneath the ground, becoming unattackable, removing movement impairing effects, and increasing your movement speed by 50% for 5 sec.\r\n\r\nWhen the effect ends, enemies within 6 yards are knocked in the air and take 36,346 Physical damage.",
+        "cast_time": "Instant",
+        "cooldown": "2 min cooldown"
+      }
+    }
+  ],
+  "spec_talent_tree": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/talent-tree/786/playable-specialization/262?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Elemental"
+  },
+  "power_type": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/power-type/11?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Maelstrom",
+    "id": 11
+  },
+  "primary_stat_type": {
+    "type": "INTELLECT",
+    "name": "Intellect"
+  }
+}

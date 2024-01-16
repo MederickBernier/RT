@@ -1,0 +1,10 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us"
+    }
+  },
+  "id": 1,
+  "name": "North America",
+  "tag": "US"
+}

@@ -1,0 +1,38 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/197?namespace=dynamic-us"
+    }
+  },
+  "id": 197,
+  "name": "Eye of Azshara",
+  "map": {
+    "name": "Eye of Azshara",
+    "id": 1456
+  },
+  "zone": {
+    "slug": "eye-of-azshara"
+  },
+  "dungeon": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/journal-instance/716?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Eye of Azshara",
+    "id": 716
+  },
+  "keystone_upgrades": [
+    {
+      "upgrade_level": 1,
+      "qualifying_duration": 2100000
+    },
+    {
+      "upgrade_level": 2,
+      "qualifying_duration": 1680000
+    },
+    {
+      "upgrade_level": 3,
+      "qualifying_duration": 1260000
+    }
+  ],
+  "is_tracked": false
+}

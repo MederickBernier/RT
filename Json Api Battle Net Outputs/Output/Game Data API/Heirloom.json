@@ -1,0 +1,820 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/heirloom/1?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 1,
+  "item": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/item/122353?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Dignified Headmaster's Charge",
+    "id": 122353
+  },
+  "source": {
+    "type": "VENDOR",
+    "name": "Vendor"
+  },
+  "source_description": "Vendor: Estelle Gendry\nZone: Orgrimmar - Gates of Orgrimmar\n\nVendor: Krom Stoutarm\nZone: Ironforge - Hall of Explorers",
+  "upgrades": [
+    {
+      "item": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "context": 0,
+        "bonus_list": [
+          582
+        ],
+        "quality": {
+          "type": "HEIRLOOM",
+          "name": "Heirloom"
+        },
+        "name": "Dignified Headmaster's Charge",
+        "media": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/media/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "item_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Weapon",
+          "id": 2
+        },
+        "item_subclass": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Staff",
+          "id": 10
+        },
+        "inventory_type": {
+          "type": "TWOHWEAPON",
+          "name": "Two-Hand"
+        },
+        "binding": {
+          "type": "TO_BNETACCOUNT",
+          "name": "Binds to Blizzard account"
+        },
+        "weapon": {
+          "damage": {
+            "min_value": 16,
+            "max_value": 23,
+            "display_string": "16 - 23 Damage",
+            "damage_class": {
+              "type": "PHYSICAL",
+              "name": "Physical"
+            }
+          },
+          "attack_speed": {
+            "value": 3600,
+            "display_string": "Speed 3.60"
+          },
+          "dps": {
+            "value": 5.4166665,
+            "display_string": "(5.4 damage per second)"
+          }
+        },
+        "stats": [
+          {
+            "type": {
+              "type": "INTELLECT",
+              "name": "Intellect"
+            },
+            "value": 65,
+            "display": {
+              "display_string": "+65 Intellect",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "STAMINA",
+              "name": "Stamina"
+            },
+            "value": 22,
+            "display": {
+              "display_string": "+22 Stamina",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "CRIT_RATING",
+              "name": "Critical Strike"
+            },
+            "value": 29,
+            "is_equip_bonus": true,
+            "display": {
+              "display_string": "+29 Critical Strike",
+              "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1
+              }
+            }
+          }
+        ],
+        "upgrades": {
+          "value": 1,
+          "max_value": 6,
+          "display_string": "Heirloom Upgrade Level: 1/6"
+        },
+        "requirements": {
+          "level": {
+            "display_string": "Requires level 1 to 34 (34)"
+          }
+        },
+        "level": {
+          "value": 94,
+          "display_string": "Item Level 94"
+        }
+      },
+      "level": 0
+    },
+    {
+      "item": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "context": 0,
+        "bonus_list": [
+          583
+        ],
+        "quality": {
+          "type": "HEIRLOOM",
+          "name": "Heirloom"
+        },
+        "name": "Dignified Headmaster's Charge",
+        "media": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/media/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "item_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Weapon",
+          "id": 2
+        },
+        "item_subclass": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Staff",
+          "id": 10
+        },
+        "inventory_type": {
+          "type": "TWOHWEAPON",
+          "name": "Two-Hand"
+        },
+        "binding": {
+          "type": "TO_BNETACCOUNT",
+          "name": "Binds to Blizzard account"
+        },
+        "weapon": {
+          "damage": {
+            "min_value": 21,
+            "max_value": 29,
+            "display_string": "21 - 29 Damage",
+            "damage_class": {
+              "type": "PHYSICAL",
+              "name": "Physical"
+            }
+          },
+          "attack_speed": {
+            "value": 3600,
+            "display_string": "Speed 3.60"
+          },
+          "dps": {
+            "value": 6.944444,
+            "display_string": "(6.9 damage per second)"
+          }
+        },
+        "stats": [
+          {
+            "type": {
+              "type": "INTELLECT",
+              "name": "Intellect"
+            },
+            "value": 83,
+            "display": {
+              "display_string": "+83 Intellect",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "STAMINA",
+              "name": "Stamina"
+            },
+            "value": 28,
+            "display": {
+              "display_string": "+28 Stamina",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "CRIT_RATING",
+              "name": "Critical Strike"
+            },
+            "value": 37,
+            "is_equip_bonus": true,
+            "display": {
+              "display_string": "+37 Critical Strike",
+              "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1
+              }
+            }
+          }
+        ],
+        "upgrades": {
+          "value": 2,
+          "max_value": 6,
+          "display_string": "Heirloom Upgrade Level: 2/6"
+        },
+        "requirements": {
+          "level": {
+            "display_string": "Requires level 1 to 39 (39)"
+          }
+        },
+        "level": {
+          "value": 110,
+          "display_string": "Item Level 110"
+        }
+      },
+      "level": 1
+    },
+    {
+      "item": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "context": 0,
+        "bonus_list": [
+          3592
+        ],
+        "quality": {
+          "type": "HEIRLOOM",
+          "name": "Heirloom"
+        },
+        "name": "Dignified Headmaster's Charge",
+        "media": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/media/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "item_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Weapon",
+          "id": 2
+        },
+        "item_subclass": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Staff",
+          "id": 10
+        },
+        "inventory_type": {
+          "type": "TWOHWEAPON",
+          "name": "Two-Hand"
+        },
+        "binding": {
+          "type": "TO_BNETACCOUNT",
+          "name": "Binds to Blizzard account"
+        },
+        "weapon": {
+          "damage": {
+            "min_value": 27,
+            "max_value": 37,
+            "display_string": "27 - 37 Damage",
+            "damage_class": {
+              "type": "PHYSICAL",
+              "name": "Physical"
+            }
+          },
+          "attack_speed": {
+            "value": 3600,
+            "display_string": "Speed 3.60"
+          },
+          "dps": {
+            "value": 8.888888,
+            "display_string": "(8.9 damage per second)"
+          }
+        },
+        "stats": [
+          {
+            "type": {
+              "type": "INTELLECT",
+              "name": "Intellect"
+            },
+            "value": 107,
+            "display": {
+              "display_string": "+107 Intellect",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "STAMINA",
+              "name": "Stamina"
+            },
+            "value": 36,
+            "display": {
+              "display_string": "+36 Stamina",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "CRIT_RATING",
+              "name": "Critical Strike"
+            },
+            "value": 48,
+            "is_equip_bonus": true,
+            "display": {
+              "display_string": "+48 Critical Strike",
+              "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1
+              }
+            }
+          }
+        ],
+        "upgrades": {
+          "value": 3,
+          "max_value": 6,
+          "display_string": "Heirloom Upgrade Level: 3/6"
+        },
+        "requirements": {
+          "level": {
+            "display_string": "Requires level 1 to 44 (44)"
+          }
+        },
+        "level": {
+          "value": 127,
+          "display_string": "Item Level 127"
+        }
+      },
+      "level": 2
+    },
+    {
+      "item": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "context": 0,
+        "bonus_list": [
+          5805
+        ],
+        "quality": {
+          "type": "HEIRLOOM",
+          "name": "Heirloom"
+        },
+        "name": "Dignified Headmaster's Charge",
+        "media": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/media/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "item_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Weapon",
+          "id": 2
+        },
+        "item_subclass": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Staff",
+          "id": 10
+        },
+        "inventory_type": {
+          "type": "TWOHWEAPON",
+          "name": "Two-Hand"
+        },
+        "binding": {
+          "type": "TO_BNETACCOUNT",
+          "name": "Binds to Blizzard account"
+        },
+        "weapon": {
+          "damage": {
+            "min_value": 36,
+            "max_value": 49,
+            "display_string": "36 - 49 Damage",
+            "damage_class": {
+              "type": "PHYSICAL",
+              "name": "Physical"
+            }
+          },
+          "attack_speed": {
+            "value": 3600,
+            "display_string": "Speed 3.60"
+          },
+          "dps": {
+            "value": 11.805555,
+            "display_string": "(11.8 damage per second)"
+          }
+        },
+        "stats": [
+          {
+            "type": {
+              "type": "INTELLECT",
+              "name": "Intellect"
+            },
+            "value": 139,
+            "display": {
+              "display_string": "+139 Intellect",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "STAMINA",
+              "name": "Stamina"
+            },
+            "value": 47,
+            "display": {
+              "display_string": "+47 Stamina",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "CRIT_RATING",
+              "name": "Critical Strike"
+            },
+            "value": 62,
+            "is_equip_bonus": true,
+            "display": {
+              "display_string": "+62 Critical Strike",
+              "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1
+              }
+            }
+          }
+        ],
+        "upgrades": {
+          "value": 4,
+          "max_value": 6,
+          "display_string": "Heirloom Upgrade Level: 4/6"
+        },
+        "requirements": {
+          "level": {
+            "display_string": "Requires level 1 to 49 (49)"
+          }
+        },
+        "level": {
+          "value": 145,
+          "display_string": "Item Level 145"
+        }
+      },
+      "level": 3
+    },
+    {
+      "item": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "context": 0,
+        "bonus_list": [
+          7920
+        ],
+        "quality": {
+          "type": "HEIRLOOM",
+          "name": "Heirloom"
+        },
+        "name": "Dignified Headmaster's Charge",
+        "media": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/media/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "item_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Weapon",
+          "id": 2
+        },
+        "item_subclass": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Staff",
+          "id": 10
+        },
+        "inventory_type": {
+          "type": "TWOHWEAPON",
+          "name": "Two-Hand"
+        },
+        "binding": {
+          "type": "TO_BNETACCOUNT",
+          "name": "Binds to Blizzard account"
+        },
+        "weapon": {
+          "damage": {
+            "min_value": 62,
+            "max_value": 84,
+            "display_string": "62 - 84 Damage",
+            "damage_class": {
+              "type": "PHYSICAL",
+              "name": "Physical"
+            }
+          },
+          "attack_speed": {
+            "value": 3600,
+            "display_string": "Speed 3.60"
+          },
+          "dps": {
+            "value": 20.277777,
+            "display_string": "(20.3 damage per second)"
+          }
+        },
+        "stats": [
+          {
+            "type": {
+              "type": "INTELLECT",
+              "name": "Intellect"
+            },
+            "value": 241,
+            "display": {
+              "display_string": "+241 Intellect",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "STAMINA",
+              "name": "Stamina"
+            },
+            "value": 97,
+            "display": {
+              "display_string": "+97 Stamina",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "CRIT_RATING",
+              "name": "Critical Strike"
+            },
+            "value": 99,
+            "is_equip_bonus": true,
+            "display": {
+              "display_string": "+99 Critical Strike",
+              "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1
+              }
+            }
+          }
+        ],
+        "upgrades": {
+          "value": 5,
+          "max_value": 6,
+          "display_string": "Heirloom Upgrade Level: 5/6"
+        },
+        "requirements": {
+          "level": {
+            "display_string": "Requires level 1 to 59 (59)"
+          }
+        },
+        "level": {
+          "value": 183,
+          "display_string": "Item Level 183"
+        }
+      },
+      "level": 4
+    },
+    {
+      "item": {
+        "item": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "context": 0,
+        "bonus_list": [
+          9354
+        ],
+        "quality": {
+          "type": "HEIRLOOM",
+          "name": "Heirloom"
+        },
+        "name": "Dignified Headmaster's Charge",
+        "media": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/media/item/122353?namespace=static-10.2.0_51825-us"
+          },
+          "id": 122353
+        },
+        "item_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Weapon",
+          "id": 2
+        },
+        "item_subclass": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.2.0_51825-us"
+          },
+          "name": "Staff",
+          "id": 10
+        },
+        "inventory_type": {
+          "type": "TWOHWEAPON",
+          "name": "Two-Hand"
+        },
+        "binding": {
+          "type": "TO_BNETACCOUNT",
+          "name": "Binds to Blizzard account"
+        },
+        "weapon": {
+          "damage": {
+            "min_value": 243,
+            "max_value": 329,
+            "display_string": "243 - 329 Damage",
+            "damage_class": {
+              "type": "PHYSICAL",
+              "name": "Physical"
+            }
+          },
+          "attack_speed": {
+            "value": 3600,
+            "display_string": "Speed 3.60"
+          },
+          "dps": {
+            "value": 79.44444,
+            "display_string": "(79.4 damage per second)"
+          }
+        },
+        "stats": [
+          {
+            "type": {
+              "type": "INTELLECT",
+              "name": "Intellect"
+            },
+            "value": 939,
+            "display": {
+              "display_string": "+939 Intellect",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "STAMINA",
+              "name": "Stamina"
+            },
+            "value": 624,
+            "display": {
+              "display_string": "+624 Stamina",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "type": "CRIT_RATING",
+              "name": "Critical Strike"
+            },
+            "value": 331,
+            "is_equip_bonus": true,
+            "display": {
+              "display_string": "+331 Critical Strike",
+              "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1
+              }
+            }
+          }
+        ],
+        "upgrades": {
+          "value": 6,
+          "max_value": 6,
+          "display_string": "Heirloom Upgrade Level: 6/6"
+        },
+        "requirements": {
+          "level": {
+            "display_string": "Requires level 1 to 69 (69)"
+          }
+        },
+        "level": {
+          "value": 329,
+          "display_string": "Item Level 329"
+        }
+      },
+      "level": 5
+    }
+  ],
+  "media": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/media/item/122353?namespace=static-10.2.0_51825-us"
+    },
+    "id": 122353
+  }
+}

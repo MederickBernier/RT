@@ -1,0 +1,22 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/creature-family/126?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 126,
+  "name": "Water Strider",
+  "specialization": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/playable-specialization/79?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Cunning",
+    "id": 79
+  },
+  "media": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/media/creature-family/126?namespace=static-10.2.0_51825-us"
+    },
+    "id": 126
+  }
+}

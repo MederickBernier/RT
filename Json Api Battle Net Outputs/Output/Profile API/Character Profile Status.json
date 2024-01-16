@@ -1,0 +1,9 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa/status?namespace=profile-us"
+    }
+  },
+  "id": 251342959,
+  "is_valid": true
+}

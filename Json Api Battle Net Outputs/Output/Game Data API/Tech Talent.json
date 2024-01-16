@@ -1,0 +1,43 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/tech-talent/863?namespace=static-10.2.0_51825-us"
+    }
+  },
+  "id": 863,
+  "talent_tree": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/tech-talent-tree/276?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Niya",
+    "id": 276
+  },
+  "name": "Run Without Tiring",
+  "description": "While in Soulshape, you regenerate 5% of your maximum health every 3 sec.",
+  "spell_tooltip": {
+    "spell": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/spell/342270?namespace=static-10.2.0_51825-us"
+      },
+      "name": "Run Without Tiring",
+      "id": 342270
+    },
+    "description": "While in Soulshape, you regenerate 5% of your maximum health every 3 sec.",
+    "cast_time": "Passive"
+  },
+  "tier": 2,
+  "display_order": 0,
+  "prerequisite_talent": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/tech-talent/850?namespace=static-10.2.0_51825-us"
+    },
+    "name": "Potency Conduit",
+    "id": 850
+  },
+  "media": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/media/tech-talent/863?namespace=static-10.2.0_51825-us"
+    },
+    "id": 863
+  }
+}

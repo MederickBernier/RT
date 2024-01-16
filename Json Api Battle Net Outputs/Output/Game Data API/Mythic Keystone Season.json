@@ -1,0 +1,36 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/season/11?namespace=dynamic-us"
+    }
+  },
+  "id": 11,
+  "start_timestamp": 1699974000000,
+  "periods": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/period/933?namespace=dynamic-us"
+      },
+      "id": 933
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/period/934?namespace=dynamic-us"
+      },
+      "id": 934
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/period/935?namespace=dynamic-us"
+      },
+      "id": 935
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/period/936?namespace=dynamic-us"
+      },
+      "id": 936
+    }
+  ],
+  "season_name": "Mythic+ Dungeons (Dragonflight Season 3)"
+}

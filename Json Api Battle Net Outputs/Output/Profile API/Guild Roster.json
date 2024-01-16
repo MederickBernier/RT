@@ -1,0 +1,658 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/guild/zuljin/no-drama-kiing/roster?namespace=profile-us"
+    }
+  },
+  "guild": {
+    "key": {
+      "href": "https://us.api.blizzard.com/data/wow/guild/zuljin/no-drama-kiing?namespace=profile-us"
+    },
+    "name": "No Drama Kiing",
+    "id": 85985545,
+    "realm": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+      },
+      "name": "Zul'jin",
+      "id": 61,
+      "slug": "zuljin"
+    },
+    "faction": {
+      "type": "HORDE",
+      "name": "Horde"
+    }
+  },
+  "members": [
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/lar%C3%B8usse?namespace=profile-us"
+        },
+        "name": "Larøusse",
+        "id": 192690186,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 60,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+          },
+          "id": 7
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.2.0_51825-us"
+          },
+          "id": 8
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/nooname?namespace=profile-us"
+        },
+        "name": "Nooname",
+        "id": 210880514,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 14,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+          },
+          "id": 5
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+          },
+          "id": 10
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/kirgaex?namespace=profile-us"
+        },
+        "name": "Kirgaex",
+        "id": 246217363,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.2.0_51825-us"
+          },
+          "id": 3
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/36?namespace=static-10.2.0_51825-us"
+          },
+          "id": 36
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/soskkha?namespace=profile-us"
+        },
+        "name": "Soskkha",
+        "id": 246242228,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 64,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+          },
+          "id": 5
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.2.0_51825-us"
+          },
+          "id": 9
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/guuliya?namespace=profile-us"
+        },
+        "name": "Guuliya",
+        "id": 246283571,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+          },
+          "id": 11
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.2.0_51825-us"
+          },
+          "id": 31
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/hooba?namespace=profile-us"
+        },
+        "name": "Hooba",
+        "id": 246555278,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 50,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+          },
+          "id": 7
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-us"
+          },
+          "id": 35
+        }
+      },
+      "rank": 3
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/qiuyi?namespace=profile-us"
+        },
+        "name": "Qiuyi",
+        "id": 246737312,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.2.0_51825-us"
+          },
+          "id": 10
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+          },
+          "id": 10
+        }
+      },
+      "rank": 2
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/kirkgaex?namespace=profile-us"
+        },
+        "name": "Kirkgaex",
+        "id": 248381841,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.2.0_51825-us"
+          },
+          "id": 2
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.2.0_51825-us"
+          },
+          "id": 31
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/saffrian?namespace=profile-us"
+        },
+        "name": "Saffrian",
+        "id": 248688611,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 54,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.2.0_51825-us"
+          },
+          "id": 8
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-us"
+          },
+          "id": 35
+        }
+      },
+      "rank": 3
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/karadmina?namespace=profile-us"
+        },
+        "name": "Karadmina",
+        "id": 248688618,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.0_51825-us"
+          },
+          "id": 9
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.2.0_51825-us"
+          },
+          "id": 2
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/nuadine?namespace=profile-us"
+        },
+        "name": "Nuadine",
+        "id": 248688641,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+          },
+          "id": 12
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+          },
+          "id": 10
+        }
+      },
+      "rank": 0
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/inamaj?namespace=profile-us"
+        },
+        "name": "Inamaj",
+        "id": 248821919,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.2.0_51825-us"
+          },
+          "id": 7
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/36?namespace=static-10.2.0_51825-us"
+          },
+          "id": 36
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/xeagkrik?namespace=profile-us"
+        },
+        "name": "Xeagkrik",
+        "id": 250411350,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/13?namespace=static-10.2.0_51825-us"
+          },
+          "id": 13
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.2.0_51825-us"
+          },
+          "id": 70
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/elunar%C3%BFa?namespace=profile-us"
+        },
+        "name": "Elunarÿa",
+        "id": 251342959,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.2.0_51825-us"
+          },
+          "id": 11
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.0_51825-us"
+          },
+          "id": 6
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/pyagho?namespace=profile-us"
+        },
+        "name": "Pyagho",
+        "id": 251395032,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 35,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.2.0_51825-us"
+          },
+          "id": 1
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/36?namespace=static-10.2.0_51825-us"
+          },
+          "id": 36
+        }
+      },
+      "rank": 2
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/darksaibaqc?namespace=profile-us"
+        },
+        "name": "Darksaibaqc",
+        "id": 251395053,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 60,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.2.0_51825-us"
+          },
+          "id": 3
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.2.0_51825-us"
+          },
+          "id": 5
+        }
+      },
+      "rank": 5
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/edellfyna?namespace=profile-us"
+        },
+        "name": "Edellfyna",
+        "id": 251395062,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 14,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+          },
+          "id": 5
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+          },
+          "id": 10
+        }
+      },
+      "rank": 3
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/narailyn?namespace=profile-us"
+        },
+        "name": "Narailyn",
+        "id": 251807564,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.2.0_51825-us"
+          },
+          "id": 12
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-us"
+          },
+          "id": 10
+        }
+      },
+      "rank": 3
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/edelf?namespace=profile-us"
+        },
+        "name": "Edelf",
+        "id": 252894040,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 10,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.0_51825-us"
+          },
+          "id": 9
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/27?namespace=static-10.2.0_51825-us"
+          },
+          "id": 27
+        }
+      },
+      "rank": 1
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/vansanard?namespace=profile-us"
+        },
+        "name": "Vansanard",
+        "id": 255179254,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.2.0_51825-us"
+          },
+          "id": 5
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/27?namespace=static-10.2.0_51825-us"
+          },
+          "id": 27
+        }
+      },
+      "rank": 1
+    },
+    {
+      "character": {
+        "key": {
+          "href": "https://us.api.blizzard.com/profile/wow/character/zuljin/scarletmyst?namespace=profile-us"
+        },
+        "name": "Scarletmyst",
+        "id": 255517159,
+        "realm": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+          },
+          "id": 61,
+          "slug": "zuljin"
+        },
+        "level": 70,
+        "playable_class": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.2.0_51825-us"
+          },
+          "id": 6
+        },
+        "playable_race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/26?namespace=static-10.2.0_51825-us"
+          },
+          "id": 26
+        }
+      },
+      "rank": 3
+    }
+  ]
+}
